@@ -1,0 +1,24 @@
+// Colors
+$c_bg: #E9F2F1;
+$c_fg: #4B4B50;
+$c_0: #86B2AB;
+$c_1: #D3FAEA;
+
+// Fonts
+$f_body: 'source-sans-pro';
+$f_head: 'jaf-domus-titling-web';
+
+// Vendor
+@import 'vendor/normalize';
+@import 'vendor/jeet/index';
+
+// Modules
+@import 'modules/functions';
+@import 'modules/mixins';
+@import 'modules/extends';
+
+// Site
+@import 'app/body';
+@import 'app/header';
+@import 'app/main';
+@import 'app/article';

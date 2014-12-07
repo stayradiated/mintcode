@@ -7,8 +7,6 @@
 
   color: $c_fg;
 
-  margin-bottom: 2em;
-
   h1 {
     margin: 0;
     float: left;
@@ -31,8 +29,9 @@
   }
 
   a {
-    text-decoration: none;
     color: $c_fg;
+    text-decoration: none;
+    text-transform: uppercase;
 
     &:hover {
       color: lighten($c_fg, 10);

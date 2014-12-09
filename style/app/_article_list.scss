@@ -29,7 +29,6 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   &:hover {
     transform: scale(1.02);
-    box-shadow: 0 2px 6px $border;
   }
 
   img {
@@ -48,7 +47,7 @@
   }
 
   p {
-    margin: 0 0 0.5em;
+    margin: 0 0 1em;
     padding: 0 20px;
     font-weight: 400;
     font-size: 0.9em;
@@ -56,12 +55,28 @@
     color: lighten($c_fg, 20);
   }
   
-  time{
+  .meta {
     display: block;
+    @include cf();
 
-    border-top: 1px dotted $border;
+    border-top: 1px solid $border;
 
     padding: 10px;
-    text-align: center;
+    color: lighten($c_fg, 20);
+
+    > * {
+      margin: 0;
+      padding: 0;
+      font-size: 0.8em;
+    }
   }
+
+  .date {
+    float: left;
+  }
+
+  .author {
+    float: right;
+  }
+
 }

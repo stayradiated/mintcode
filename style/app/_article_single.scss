@@ -1,8 +1,18 @@
 .article-single {
+  padding-top: 2em;
 
-  p {
-    font-size: 1.2rem;
-    line-height: 1.8rem;
+  .main-img {
+  }
+
+  .title {
+    font-size: 3rem;
+    margin: 1rem 0;
+  }
+
+  .meta {
+    color: lighten($c_fg, 20);
+    font-style: italic;
+    border-bottom: 5px solid darken($c_bg, 5);
   }
 
   img {

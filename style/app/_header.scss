@@ -1,19 +1,20 @@
 .header {
-  $bg: $c_0;
   $height: 4rem;
 
-  background: $bg;
-  border-bottom: 3px solid darken($bg, 15);
-
-  color: $c_fg;
+  // background: darken($c_bg, 2);
+  border-bottom: 5px solid darken($c_bg, 5);
 
   h1 {
     margin: 0;
     float: left;
 
     line-height: $height;
-    text-transform: lowercase;
     font-size: 1.5em;
+    text-transform: lowercase;
+
+    a {
+      color: $c_hd;
+    }
   }
 
   .nav {
@@ -25,16 +26,21 @@
   li {
     display: inline;
 
-    line-height: $height;
-  }
+    a {
+      color: $c_fg;
+      text-transform: uppercase;
 
-  a {
-    color: $c_fg;
-    text-decoration: none;
-    text-transform: uppercase;
+      font-size: 0.8em;
+      line-height: $height;
+    }
 
-    &:hover {
-      color: lighten($c_fg, 10);
+    &:after {
+      content: '•';
+      padding: 0 0.5em;
+    }
+
+    &:last-child:after {
+      content: '';
     }
   }
 }

@@ -1,12 +1,13 @@
 // Colors
-$c_bg: #E9F2F1;
-$c_fg: #4B4B50;
-$c_0: #86B2AB;
-$c_1: #D3FAEA;
+$c_bg: #FFFFFF; // background
+$c_fg: #333333; // foreground
+$c_hd: #74c15b; // header
+$c_ln: #6A7FDB; // link
 
 // Fonts
-$f_body: 'source-sans-pro';
-$f_head: 'jaf-domus-titling-web';
+$f_body: source-sans-pro, sans-serif;
+$f_head: proxima-nova-soft, sans-serif;
+$f_code: source-code-pro, monospace;
 
 // Vendor
 @import 'vendor/normalize';
@@ -23,3 +24,4 @@ $f_head: 'jaf-domus-titling-web';
 @import 'app/main';
 @import 'app/article_list';
 @import 'app/article_single';
+@import 'app/type';

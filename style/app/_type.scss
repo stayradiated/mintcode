@@ -1,0 +1,64 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: $f_head;
+}
+
+ul, ol {
+  padding: 0;
+  margin-left: 30px;
+}
+
+p, li, blockquote, time {
+  font-size: 1.1rem;
+  line-height: 1.8rem;
+}
+
+pre, code {
+  font-family: $f_code;
+  line-height: 1.5rem;
+}
+
+pre {
+  position: relative;
+  margin-left: -1em;
+  margin-right: -1em;
+  padding: 1em;
+}
+
+pre, code {
+  background: darken($c_bg, 2);
+  border: 1px solid darken($c_bg, 5);
+}
+
+code {
+  padding: 0 0.2em;
+}
+
+pre > code {
+  background: none;
+  border: none;
+}
+
+a {
+  color: $c_ln;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+hr {
+  display: block;
+  background: darken($c_bg, 5);
+  height: 5px;
+  border: 0;
+  outline: 0;
+}
+
+blockquote {
+  border-left: 5px solid $c_hd;
+  padding-left: 1em;
+  margin-left: 0;
+  font-size: 1.5em;
+  line-height: 1.5em;
+}

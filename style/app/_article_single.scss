@@ -1,18 +1,23 @@
 .article-single {
-  padding-top: 2em;
+  padding-top: 2rem;
+  background: $c_bg;
 
   .main-img {
   }
 
   .title {
-    font-size: 3rem;
+    font-size: 4rem;
     margin: 1rem 0;
+    text-align: center;
   }
 
   .meta {
     color: lighten($c_fg, 20);
+    font-size: 1.6rem;
     font-style: italic;
-    border-bottom: 5px solid darken($c_bg, 5);
+    border-bottom: 0.5rem solid $s_bg;
+    text-align: center;
+    margin-top: 0;
   }
 
   img {

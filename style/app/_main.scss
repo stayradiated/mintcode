@@ -1,3 +1,7 @@
+html {
+  font-size: 62.5%;
+}
+
 .container {
-  @include center(600px, 20px);
+  @include center(65rem, 2rem);
 }

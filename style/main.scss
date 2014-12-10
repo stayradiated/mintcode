@@ -4,6 +4,10 @@ $c_fg: #333333; // foreground
 $c_hd: #74c15b; // header
 $c_ln: #6A7FDB; // link
 
+// Shades
+$s_bg: darken($c_bg, 5);
+$s_fg: lighten($c_fg, 20);
+
 // Fonts
 $f_body: source-sans-pro, sans-serif;
 $f_head: proxima-nova-soft, sans-serif;
@@ -12,11 +16,6 @@ $f_code: source-code-pro, monospace;
 // Vendor
 @import 'vendor/normalize';
 @import 'vendor/jeet/index';
-
-// Modules
-@import 'modules/functions';
-@import 'modules/mixins';
-@import 'modules/extends';
 
 // Site
 @import 'app/body';

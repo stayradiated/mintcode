@@ -7,7 +7,7 @@ var autoprefixer = require('gulp-autoprefixer');
 
 gulp.task('default', ['style'], function () {
   gulp.watch('./style/**/*.scss', ['style']);
-  gulp.watch('./dist/**/*.html', ['reload']);
+  gulp.watch('./public/**/*.html', ['reload']);
 
   return browserSync({
     notify: false,
@@ -15,7 +15,7 @@ gulp.task('default', ['style'], function () {
     ghostMode: false,
 
     server: {
-      baseDir: './dist/',
+      baseDir: './public/',
     }
   });
 }); 
@@ -28,6 +28,6 @@ gulp.task('style', function () {
   return gulp.src('./style/main.scss')
     .pipe(sass({errLogToConsole: true, outputStyle: 'compressed'}))
     .pipe(autoprefixer())
-    .pipe(gulp.dest('./dist/css'))
+    .pipe(gulp.dest('./static/css'))
     .pipe(browserSync.reload({stream: true}));
 });

@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on my new hugo site</title>
+    <link>http://localhost:3000/blog/</link>
+    <description>Recent content in Blogs on my new hugo site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    
+    <lastBuildDate>Sun, 14 Sep 2014 00:00:00 &#43;0000</lastBuildDate>
+    <atom:link href="http://localhost:3000/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>I bought a Surface Pro 3</title>
+      <link>http://localhost:3000/blog/i-bought-a-surface-pro-3/</link>
+      <pubDate>Sun, 14 Sep 2014 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/i-bought-a-surface-pro-3/</guid>
+      <description>&lt;p&gt;Six months ago, a kid threw a pen at my MacBook Air. This created a bunch of dead pixels, but the computer was still usable. However, over the next three months the screen gained more and more dead pixels until half the screen didn’t work. I was considering getting a MacBook Pro, but when the Surface Pro 3 was announced, I put in my preorder.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/sp3.jpg&#34; alt=&#34;My Surface Pro 3&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Three months later, my Surface finally arrived. I think it’s pretty great.&lt;/p&gt;
+
+&lt;p&gt;I’ve been using it at school for the past two weeks, and it works pretty well. It’s a good replacement for paper and I write notes with the stylus in portrait mode. The most valuable thing is not the fact that you’re writing on a screen, but the organization that it offers. There’s no more loose bits of crunched up paper in the bottom of my bag. However, the magnesium body does scratch pretty easily as I use it on desks without the kickstand. The battery has also been able to get me through the day and while I don’t get the advertised 9 hours, I don’t worry about leaving the charger at home.&lt;/p&gt;
+
+&lt;p&gt;The keyboard is okay. It offers less travel than my old MacBook, but it’s certainly usable. I do wish that there were volume up/down keys, media controls and screen brightness – the “charm” keys for Windows 8 aren’t particularly useful. The MacBook is better for usage on the lap, but the Surface isn’t bad. It’s reasonably stable and the detachable keyboard does come in handy, especially when presenting things to others. The trackpad, while not as good as the MacBook, is still the best I’ve ever used on a Windows PC.&lt;/p&gt;
+
+&lt;p&gt;Performance is good. It’s not as fast as a MacBook Pro, but it can do anything I throw at it (I bought the 256GB i5 version). I read things about people complaining about throttling, but it’s only noticeable when doing really intensive things – a video will encode at 400FPS in Handbrake, but it starts to throttle down to 300FPS after a few minutes. It’s not as bad as people make it out to be.&lt;/p&gt;
+
+&lt;p&gt;Windows 8 is okay. I do miss the Unix features of OS X, but it’s reasonably remediable by installing Cygwin (although things don’t work &lt;em&gt;quite&lt;/em&gt; right). Windows 8 is the only OS that combines the touch, pen, and mouse input together, and I think Microsoft did a pretty good job - it’s really nice that I can do proper multitasking on a tablet. Some desktop apps don’t support touch well (ugh, Spotify), and the trackpad doesn’t work in some (ugh, Sublime Text 3). But it’s not bad. It’s only mildly annoying.&lt;/p&gt;
+
+&lt;p&gt;The most annoying thing about Windows 8 is the multi-monitor support. It’s just doesn’t work if you use the traditional desktop with two screens at different DPI settings. Microsoft needs to fix that. That said, the High DPI support is generally pretty good. Most apps will scale nicely to 150%, but there’s a couple of weird ones (ugh, Spotify, Adobe Acrobat, Steam). The 3:2 aspect ratio is great because it just gives you a lot of vertical space, which is nice when coding, but some games don’t support this, leaving black bars around the window (I’ve been told that installing the official Intel Driver fixes this). Overall, the screen is very nice but will distort a bit when pressing hard with the pen.&lt;/p&gt;
+
+&lt;p&gt;I’m pretty happy with my purchase. The Surface Pro 3 is the coolest device I’ve ever owned, and I feel like it was designed with students in mind. Buy a Surface Pro 3 if you want touch, pen input and a removable keyboard in a super thin and light package. If you don’t need any of that and you want something more powerful and better on your lap, get a Retina MacBook Pro.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Springseed 1.1 Released!</title>
+      <link>http://localhost:3000/blog/springseed-1.1-released/</link>
+      <pubDate>Sat, 15 Feb 2014 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/springseed-1.1-released/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ve been working on Springseed for the last couple of months and we&amp;rsquo;re excited to announce a new release. We&amp;rsquo;ve made it even easier to organize your notes with the option of categories for your notebooks and support for drag and drop. We&amp;rsquo;ve changed a lot behind the scenes to improve performance &amp;amp; sync reliablilty as well as fixing a large number of issues present in the last release.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re really excited about Springseed and we would love it if you checked it out. If Springseed is already installed, you can get the latest version from the update manager but there may be a &amp;ldquo;Package is unsigned error&amp;rdquo;. You can either dismiss this, or get the app from out website. If you don&amp;rsquo;t already have Springseed, it&amp;rsquo;s available for Ubuntu 12.04 and later from &lt;a href=&#34;http://getspringseed.com&#34;&gt;getspringseed.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SQL Server &#43; node.js &#43; OS X</title>
+      <link>http://localhost:3000/blog/sql-server--node.js--os-x/</link>
+      <pubDate>Mon, 20 Jan 2014 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/sql-server--node.js--os-x/</guid>
+      <description>
+
+&lt;p&gt;Windows Azure Web Sites supports a number of platforms including node.js but only offers SQL Server for database hosting. It&amp;rsquo;s a little confusing to get set up, especially if you&amp;rsquo;re not running Windows.&lt;/p&gt;
+
+&lt;p&gt;For starters, you probably don&amp;rsquo;t want to be using &lt;a href=&#34;https://github.com/windowsazure/node-sqlserver&#34;&gt;Microsoft&amp;rsquo;s official driver for node.js&lt;/a&gt;. It only runs on Windows and you need to download a bunch of huge dependencies to even compile it. The pre-built binaries that Microsoft offer didn&amp;rsquo;t work for me either.&lt;/p&gt;
+
+&lt;p&gt;Instead, I recommend using &lt;a href=&#34;https://github.com/patriksimek/node-mssql&#34;&gt;node-mssql&lt;/a&gt; to connect to SQL Server. It works on all platforms, and doesn&amp;rsquo;t require a crazy compilation step. However, it took me a while to even get a database connection because it loves to throw connection errors silently.&lt;/p&gt;
+
+&lt;h3 id=&#34;local-server:416f0b7fe4b6cf9de851a80368921304&#34;&gt;Local Server&lt;/h3&gt;
+
+&lt;p&gt;If you&amp;rsquo;re running your own local SQL Server, you&amp;rsquo;ll want to create a SQL user first - the standard Windows Authentication doesn&amp;rsquo;t work with the node driver. My local SQL Server was located at &lt;code&gt;SERVER\SQLEXPRESS&lt;/code&gt; but you&amp;rsquo;ll have to specify this manually like in the example below.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{
+  user: &#39;username&#39;,
+  password: &#39;password&#39;,
+  server: &#39;SERVER&#39;,
+  database: &#39;database&#39;,
+  options: {
+    port: &#39;&#39;,
+    instanceName: &#39;SQLEXPRESS&#39;
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;windows-azure:416f0b7fe4b6cf9de851a80368921304&#34;&gt;Windows Azure&lt;/h3&gt;
+
+&lt;p&gt;Windows Azure also requires some special configuration. Connections have to be encrypted and you&amp;rsquo;ll need to use a special format for your username.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{
+  user: &#39;username@server.database.windows.net&#39;,
+  password: &#39;password&#39;,
+  server: &#39;server.database.windows.net&#39;,
+  database: &#39;database&#39;,
+  options: {
+    encrypt: true
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;So, that&amp;rsquo;s it. After using these connection settings, you&amp;rsquo;ll hopefully be able to query away. This took way too much time to figure out, so I hope this helps anyone who&amp;rsquo;s having similar issues.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stor-E-Cards</title>
+      <link>http://localhost:3000/blog/stor-e-cards/</link>
+      <pubDate>Wed, 15 Jan 2014 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/stor-e-cards/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been helping with building a web  service for the last few months. This site, Stor-E-Cards is a unique take on the traditional greeting card, as each card has the link to a story online inside. I think it&amp;rsquo;s pretty neat and they are definitely nicer than E-Cards because due the product being a real physical card. In a way, it bridges the physical and digital worlds.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/stor-e-cards.png&#34; alt=&#34;Stor-E-Cards&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The site was orignally built with PHP &amp;amp; MySQL, but the current version uses Ruby on Rails &amp;amp; PostgreSQL. It&amp;rsquo;s only going to get better as we add more new cards and features.&lt;/p&gt;
+
+&lt;p&gt;A lot of the stories are pretty cool and it is worth having a look at. Cards are bought from the site and they&amp;rsquo;re currently $7.99 NZD with free worldwide shipping.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.stor-e-cards.com&#34;&gt;stor-e-cards.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I bought a Nintendo 2DS</title>
+      <link>http://localhost:3000/blog/i-bought-a-nintendo-2ds/</link>
+      <pubDate>Tue, 31 Dec 2013 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/i-bought-a-nintendo-2ds/</guid>
+      <description>&lt;p&gt;Phone games aren&amp;rsquo;t great and that&amp;rsquo;s not just because I have a Windows Phone. Some of this stems from the lack of tactile controls but microtransactions are by far the biggest problem. There&amp;rsquo;s only a small handful of games that do a good job with microtransactions such as Team Fortress 2 or League of Legends but the majority of mobile games feel like a grind and require real money to advance - bringing us back to the days of the arcades. Unwilling to put up with any of this, I bought a 2DS.&lt;/p&gt;
+
+&lt;p&gt;Before purchasing the 2DS, I considered the PS Vita for the simple fact that I love Spelunky. While there were a few games I would have liked to play on the Vita (Tearaway, Rayman Legends, Guacamelee!), many of them were available on the computer or Xbox unlike the Zelda, Mario and Pokemon franchises. There was also a significantly larger list of 3DS exclusives I wanted to play, despite the Vita having the superior hardware. More than anything, the Vita feels like a companion device to the PlayStation 4, something which I don&amp;rsquo;t plan on purchasing in the near future.&lt;/p&gt;
+
+&lt;p&gt;So, why a 2DS? Why not a 3DS or 3DS XL? I couldn&amp;rsquo;t find a new 3DS for sale in New Zealand so unless I bought a used system, it was out of the question. The increased 3DS XL screen size is also an issue as it further lowers the PPI due to the absurdly low screen resolution at which 3DS games are run (400x240). Finally, I don&amp;rsquo;t like 3D - I personally find the effect a bit sickening and make a effort to see films in 2D. I&amp;rsquo;ve also heard that many games running in 3D see a reduced frame rate as well as a significant reduction in battery life.&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;rsquo;t used the 3DS or 3DS XL for an extended period of time, but the 2DS is certainly more comfortable than the DS or DS Lite. All the controls feel pretty good apart from the D-Pad, which isn&amp;rsquo;t bad but could see some improvement. The graphics are certainly a step up from the original DS, but the screen resolution is still abysmal when compared with a phone. When playing original DS games on the system, there&amp;rsquo;s a weird scaling effect due to the increased, but not doubled resolution.&lt;/p&gt;
+
+&lt;p&gt;Being a pretty big Pokemon fan, the new games were one of the major incentives leading to the purchase of the 2DS. And really, Pokemon X &amp;amp; Y are the best Pokemon games I&amp;rsquo;ve ever played. The graphics are fantastic - the new cel-shaded 3D models manage to capture the distinct Pokemon style, unlike Colosseum and XD on the GameCube. Battles feel more engaging with the new graphics and the new region feels more majestic than anything preceding it. There&amp;rsquo;s not a huge amount of new Pokemon unlike previous generations but the region scatters a wide variety of Pokemon around the place. Pokemon X &amp;amp; Y also incentivise catching and training a wide variety of Pokemon unlike previous games where it was more common to dedicate yourself to a single team. My only criticisms would have to be the lack of post-game content and it would have been nice to see some antialiasing in game.&lt;/p&gt;
+
+&lt;p&gt;I also purchased Mario Kart 7 for the 2DS and like Pokemon, it&amp;rsquo;s also my favourite game in the series. The game controls well and it feels like you&amp;rsquo;re really in control of the kart. The graphics are great and new mechanics such as the gliders and underwater stages continue to keep the series fresh.  The 150cc mode is pretty difficult but it was nothing compared to the brutality of the online play. Despite constantly losing online, the game was still fun and was usually pretty fair. My only real complaint with Mario Kart 7 is the lack of a VS mode which previously allowed racing on any track rather than picking a cup to compete in.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I feel that I made the right decision purchasing the 2DS over the 3DS XL or the Vita. There&amp;rsquo;s a large number of great games that I haven&amp;rsquo;t played yet and with titles such as Super Smash Bros on the horizon, I&amp;rsquo;m going to be entertained for a while to come. There&amp;rsquo;s also the flipside - if I didn&amp;rsquo;t waste so much time playing games, there&amp;rsquo;s always the off chance that we&amp;rsquo;ll push some new updates for our apps.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing Springseed</title>
+      <link>http://localhost:3000/blog/introducing-springseed/</link>
+      <pubDate>Fri, 26 Jul 2013 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/introducing-springseed/</guid>
+      <description>&lt;p&gt;Springseed is an awesome way to take notes. It helps you organise notes with a beautiful interface and syncs with Dropbox so you can keep your notes with you, wherever you are. It&amp;rsquo;s been in the works since January and we&amp;rsquo;re releasing today, exclusively for Ubuntu. Springseed is free and open source software and we hope you enjoy using it as much as we did creating it. Donations are also appreciated in order to support the development.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/springseed.png&#34; alt=&#34;Springseed Screenshot&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ve got a lot in store for Springseed in the near future, including Mac &amp;amp; Windows releases. We&amp;rsquo;ll be adding customisation options, more sync services and more organisation options. Showing your appreciation for Springseed by spreading the word will support the development and you&amp;rsquo;ll get new features, faster.&lt;/p&gt;
+
+&lt;p&gt;Springseed is available for Ubuntu, free of charge at &lt;a href=&#34;http://getspringseed.com&#34;&gt;getspringseed.com&lt;/a&gt;. Give it a spin today.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sharing Internet over an Ethernet Cable</title>
+      <link>http://localhost:3000/blog/sharing-internet-over-an-ethernet-cable/</link>
+      <pubDate>Fri, 07 Jun 2013 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/sharing-internet-over-an-ethernet-cable/</guid>
+      <description>
+
+&lt;p&gt;A few days ago, the phone jack for the modem stopped working and I had to move it to another part of the house. However our desktop doesn&amp;rsquo;t have a wireless card so I dug out an old netbook with an Ethernet jack to use as a temporary solution.&lt;/p&gt;
+
+&lt;p&gt;Start by connecting to the wireless network on the computer and using an ethernet cable to connect both devices. The device requiring a network connection won&amp;rsquo;t require any special configuration besides using DHCP but there&amp;rsquo;s a few easy steps required for the other.&lt;/p&gt;
+
+&lt;h2 id=&#34;windows:fd688f2579d565ca0acdda21b2e9a716&#34;&gt;Windows&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Open the &lt;strong&gt;Network and Sharing Center&lt;/strong&gt; and click on &lt;strong&gt;Change Adapter Setting&lt;/strong&gt; in the sidebar.&lt;/li&gt;
+&lt;li&gt;Right click on &lt;strong&gt;Local Area Connection&lt;/strong&gt; and select &lt;strong&gt;Properties&lt;/strong&gt;
+&lt;img src=&#34;http://files.mintco.de/site/images/lanproperties_windows.jpg&#34; alt=&#34;LAN Properties&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Internet Protocol Version 4 (TCP/IPv4)&lt;/strong&gt; and select &lt;strong&gt;Properties&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Use the following IP Address&lt;/strong&gt; and use something such as &lt;strong&gt;192.168.0.1&lt;/strong&gt;. Use &lt;strong&gt;255.255.255.0&lt;/strong&gt; as the subnet and leave the rest blank.&lt;/li&gt;
+&lt;li&gt;When you&amp;rsquo;re back at the network connections window, right click the &lt;strong&gt;Wireless Network Connection&lt;/strong&gt; and select &lt;strong&gt;Properties&lt;/strong&gt;.
+&lt;img src=&#34;http://files.mintco.de/site/images/wlanproperties_windows.jpg&#34; alt=&#34;Wireless LAN Properties&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Switch to the &lt;strong&gt;Sharing&lt;/strong&gt; tab and tick &lt;strong&gt;Allow other network users to connect through this computers internet connection&lt;/strong&gt;. Select &lt;strong&gt;Local Area Connection&lt;/strong&gt; as the adapter.&lt;/li&gt;
+&lt;li&gt;Hit &lt;strong&gt;ok&lt;/strong&gt;, &lt;strong&gt;close&lt;/strong&gt; and you&amp;rsquo;re done!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;os-x:fd688f2579d565ca0acdda21b2e9a716&#34;&gt;OS X&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Open &lt;strong&gt;System Preferences &amp;rarr; Sharing&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Internet Sharing&lt;/strong&gt; and choose the interfaces you would like to share on (My Mac does not have an Ethernet jack).
+&lt;img src=&#34;http://files.mintco.de/site/images/internetsharing_mac.png&#34; alt=&#34;Internet Sharing Mac&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Tick the checkbox and you&amp;rsquo;re done!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;ubuntu:fd688f2579d565ca0acdda21b2e9a716&#34;&gt;Ubuntu&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Click the wireless icon and select &lt;strong&gt;Edit Connections&lt;/strong&gt; in the dropdown.&lt;/li&gt;
+&lt;li&gt;Select your Ethernet interface and click &lt;strong&gt;Edit&lt;/strong&gt;.
+&lt;img src=&#34;http://files.mintco.de/site/images/networkconnections_ubuntu.png&#34; alt=&#34;Connections Window&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Head over to the &lt;strong&gt;IPv4 Settings&lt;/strong&gt; tab and change the method to &lt;strong&gt;Shared to other computers&lt;/strong&gt;.
+&lt;img src=&#34;http://files.mintco.de/site/images/sharednetwork_ubuntu.png&#34; alt=&#34;Ethernet Options Dialog&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Hit &lt;strong&gt;save&lt;/strong&gt; and you&amp;rsquo;re done!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The only problem with these methods are that the device requiring Internet won&amp;rsquo;t appear on the network which will make services such as file and printer sharing unavailable. I can&amp;rsquo;t imagine that this would be would be particularly good for your power bill either. Besides these minor drawbacks, this is an easy and quick way to share an Internet connection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Windows Phone 8</title>
+      <link>http://localhost:3000/blog/windows-phone-8/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/windows-phone-8/</guid>
+      <description>
+
+&lt;p&gt;I use a Mac, make apps for Linux and now have a Windows Phone. I&amp;rsquo;m not sure why I did it. I&amp;rsquo;ve invested hundreds of dollars in the iOS App Store but something prompted a change.&lt;/p&gt;
+
+&lt;p&gt;It all had to do with first impressions. I remember walking into a Vodafone store a couple of years ago and trying out the Nexus One after hearing Jono Bacon and Stuart Langridge &lt;a href=&#34;http://www.kryogenix.org/shotofjaq.html&#34;&gt;raving on about it&lt;/a&gt;. A phone that ran Linux sounded awesome and I hoped for the best. I hated it. The OS was laggy, ugly and slow - well, compared the iPhone anyway. Apple was still five years ahead of the competition.&lt;/p&gt;
+
+&lt;p&gt;A year later, I played with the Samsung Omnia 7, a device with &amp;ldquo;Windows Phone 7 Series&amp;rdquo;. I really liked it. In a time where there were no hamburger menus in any iOS Apps, Windows Phone felt really fast and efficient. I couldn&amp;rsquo;t buy one though. No one seemed to stock them.&lt;/p&gt;
+
+&lt;p&gt;Three years later, Android is the most popular mobile operating system, Apple is no longer five years ahead and the Samsung designers still haven&amp;rsquo;t been shot. I decided to revisit Windows Phone as the app selection had grown and I was blown away by my friends Nokia Lumia 920. I took the plunge and purchased a HTC Windows Phone 8S for $250 unlocked. It didn&amp;rsquo;t feel like a 250 dollar phone.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/htc8s.jpg&#34; alt=&#34;HTC Windows Phone 8S&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The 8S has to be one of the most beautiful phones ever made. It&amp;rsquo;s around the size of an iPhone and while thicker, it feels a lot nicer with its soft touch finish. It sadly doesn&amp;rsquo;t have a retina display, the camera isn&amp;rsquo;t great and it&amp;rsquo;s only got a measly 4GB of storage, but it&amp;rsquo;s only $250. When you compare the 8S to similar Android phones, it delivers so much more.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-good-bits:dbe8cf3ff2c47ae18581dc1fc41ea52e&#34;&gt;The good bits.&lt;/h2&gt;
+
+&lt;p&gt;Overall, I like Windows Phone 8. The whole &amp;ldquo;Metro&amp;rdquo; design metaphor works really well on a phone. Live Tiles are great and they&amp;rsquo;re a huge step up from the boring icons on iOS. The entire system is very animation heavy but never stops to lag, even without a octa-core CPU and 2GB of RAM. If you have all that power and scrolling still isn&amp;rsquo;t smooth, someone has done something really fucking wrong.&lt;/p&gt;
+
+&lt;p&gt;Messaging is really good on Windows Phone. There&amp;rsquo;s no chat heads but it integrates well with Facebook Chat and allows easy switching from Facebook Chat to SMS. Splitting up groups of contacts into &amp;ldquo;Rooms&amp;rdquo; is also useful.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s really just a lot of minor things that make Windows Phone excellent. Being able to have the current Bing Wallpaper on my lock screen is cool. Microsoft Office is handy. The SkyDrive integration is really good and isn&amp;rsquo;t half arsed like iCloud. And while it can be changed, the white on black color scheme makes it more enjoyable to use at night.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-not-so-good-bits:dbe8cf3ff2c47ae18581dc1fc41ea52e&#34;&gt;The not so good bits.&lt;/h2&gt;
+
+&lt;p&gt;There&amp;rsquo;s no notification center and it&amp;rsquo;s the largest omission from Windows Phone. Live Tiles don&amp;rsquo;t cut it and when I often miss notifications, I don&amp;rsquo;t know what the actual message was. This urgently needs to be fixed.&lt;/p&gt;
+
+&lt;p&gt;The behavior of the back button is consistent but is a problem at times. If I tap on a messaging notification, I&amp;rsquo;ll jump into the thread but tapping the back button will take me back to the previous app. If I wanted to go back to my messages list, I&amp;rsquo;ll have to tap the start button and then open the messaging app again. There&amp;rsquo;s no back button in the app interface.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/webfonts.png&#34; alt=&#34;Web fonts are bad.&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Internet Explorer isn&amp;rsquo;t great. Like Windows, web fonts are bad and in a world where WebKit is on 90% of mobile devices, a number of websites don&amp;rsquo;t recognize IE. The browser isn&amp;rsquo;t particularly smooth but hey, at least they did scrolling right.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s no global rotation lock which is slightly annoying but many apps have the functionality built in. I can&amp;rsquo;t install apps to an SD card and while most won&amp;rsquo;t run into the issue, Spotify doesn&amp;rsquo;t work very well with only 4GB of space. The Windows Phone Mac App doesn&amp;rsquo;t work at all. To be honest, I&amp;rsquo;m not surprised.&lt;/p&gt;
+
+&lt;h2 id=&#34;apps:dbe8cf3ff2c47ae18581dc1fc41ea52e&#34;&gt;Apps&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s a little unfair when people pass Windows Phone off with having &amp;ldquo;no apps&amp;rdquo;. The marketplace is significantly smaller and I can&amp;rsquo;t get things such as Snapchat or Instagram but I did order a sandwich today and I was surprised to find a Subway app in the store. The ecosystem isn&amp;rsquo;t that bad.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve found alternatives for most of my iOS Apps and sometimes they&amp;rsquo;re even better than the original.  I&amp;rsquo;m missing some apps such as Tweetbot, Day One, 1Password, Pocket and Google+ but it&amp;rsquo;s generally pretty good.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/homescreen.png&#34; alt=&#34;Home Screens&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Windows Phone isn&amp;rsquo;t perfect. But it&amp;rsquo;s pretty good. It&amp;rsquo;s beautiful, smooth and fast, even on lower end hardware. It&amp;rsquo;s also safer from carriers and the likes of TouchWiz and Sense. Windows Phone is also less likely to have the fragmentation issues of Android although Microsoft did deprecate Windows Phone 7.&lt;/p&gt;
+
+&lt;p&gt;I highly recommend everyone to have a play with Windows Phone and if possible, giving it a spin for a couple of days. It&amp;rsquo;s better than I expected and I predict that in the next 12 months, we&amp;rsquo;ll be seeing less cheap Androids and more Windows Phones. And I&amp;rsquo;m okay with that - the experience is still really great.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Logistics</title>
+      <link>http://localhost:3000/blog/logistics/</link>
+      <pubDate>Thu, 31 Jan 2013 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/logistics/</guid>
+      <description>&lt;p&gt;I recently received a brand new Timbuk2 Swig backpack in the mail but as it was purchased from the United States, I had a look at the tracking. In the past I had received other items from the US but through FedEx rather than UPS. I&amp;rsquo;m no expert on logistics but what I found seemed somewhat counterproductive.&lt;/p&gt;
+
+&lt;p&gt;The UPS route was as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;San Francisco&lt;/li&gt;
+&lt;li&gt;Mather&lt;/li&gt;
+&lt;li&gt;Sacramento&lt;/li&gt;
+&lt;li&gt;Mather&lt;/li&gt;
+&lt;li&gt;Louisville&lt;/li&gt;
+&lt;li&gt;Hawaii&lt;/li&gt;
+&lt;li&gt;Sydney, Australia&lt;/li&gt;
+&lt;li&gt;Auckland, New Zealand&lt;/li&gt;
+&lt;li&gt;Rotorua, New Zealand&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;m very confused on how this all works. Why did it even go to Sacramento? Why did they fly it 7,000km to Louisville? Is there really no international mail center on the west coast? The total journey was around 21,000km but with a bit of planning, UPS could have saved 10,000km in travel.&lt;/p&gt;
+
+&lt;p&gt;For comparison, FedEx did it differently the last time I received something:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;San Francisco&lt;/li&gt;
+&lt;li&gt;Hawaii&lt;/li&gt;
+&lt;li&gt;Auckland, New Zealand&lt;/li&gt;
+&lt;li&gt;Rotorua, New Zealand&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script src=&#34;https://maps.googleapis.com/maps/api/js?key=AIzaSyDHQQL2H3ywWbyNk8NfehXQmL8FAOPDKtM&amp;sensor=true&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+function initialize() {
+    var myLatLng = new google.maps.LatLng(0, -180);
+    var mapOptions = {
+      zoom: 2,
+      center: myLatLng,
+      mapTypeId: google.maps.MapTypeId.TERRAIN
+    };
+
+    var map = new google.maps.Map(document.getElementById(&#34;map_canvas&#34;),
+        mapOptions);
+    var upsCoordinates = [
+      new google.maps.LatLng(37.77485, -122.41935),
+      new google.maps.LatLng(37.8820, -119.8547),
+      new google.maps.LatLng(38.5804, -121.530),
+      new google.maps.LatLng(37.8820, -119.8547),
+      new google.maps.LatLng(38.252, -85.758),
+      new google.maps.LatLng(19.89, -155.56),
+      new google.maps.LatLng(-33.9446, 151.1967),
+      new google.maps.LatLng(-36.850, 174.768),
+      new google.maps.LatLng(-38.137, 176.250)
+    ];
+    var fedexCoordinates = [
+      new google.maps.LatLng(37.77485, -122.41935),
+      new google.maps.LatLng(19.89, -155.56),
+      new google.maps.LatLng(-36.850, 174.768),
+      new google.maps.LatLng(-38.137, 176.250)
+    ];
+    var upsPath = new google.maps.Polyline({
+      path: upsCoordinates,
+      strokeColor: &#34;#FF0000&#34;,
+      strokeOpacity: 1.0,
+      strokeWeight: 3
+    });
+    var fedexPath = new google.maps.Polyline({
+      path: fedexCoordinates,
+      strokeColor: &#34;#0000FF&#34;,
+      strokeOpacity: 1.0,
+      strokeWeight: 3
+    });
+
+    upsPath.setMap(map);
+    fedexPath.setMap(map);
+}
+window.onload = initialize
+&lt;/script&gt;
+
+&lt;div id=&#34;map_canvas&#34; style=&#34;width:100%; height:350px; margin: 1.5em 0;&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;If UPS optimized their logistics they could save money, time and 10,000km. I&amp;rsquo;m not sure if there is a reason behind this but maybe because they want people to purchase their express shipping? It&amp;rsquo;s really baffling and if I have a choice in the future, I&amp;rsquo;ll use FedEx.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stormcloud 1.2 Released</title>
+      <link>http://localhost:3000/blog/stormcloud-1.2-released/</link>
+      <pubDate>Sun, 23 Dec 2012 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/stormcloud-1.2-released/</guid>
+      <description>
+
+&lt;p&gt;Stormcloud has finally made it into the Ubuntu Software Center (seriously, it was finished like 3 weeks ago). While it&amp;rsquo;s still open source, pre-built packages are available exclusively through the Ubuntu Software Center. It&amp;rsquo;s $2.99 and totally worth it.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-s-new:2239db737d5ca4a31af23e2dee0b11a2&#34;&gt;What&amp;rsquo;s new?&lt;/h2&gt;
+
+&lt;p&gt;Everything. Stormcloud underwent a rewrite. It looks and feels pretty similar but it now has support for multiple locations, chameleonic backgrounds (unity only), credits, touch screen support and many more animations.&lt;/p&gt;
+
+&lt;p&gt;On the technical side of things, Stormcloud now uses node-webkit rather than GTKWebkit. This is so there are hardware accelerated animations and the smoothest experience possible. The only downside is that it adds a lot to the download size.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-is-it-2-99:2239db737d5ca4a31af23e2dee0b11a2&#34;&gt;Why is it $2.99?&lt;/h2&gt;
+
+&lt;p&gt;Stormcloud 1.1 was free. If you want Stormcloud 1.2 for free, you can download it off &lt;a href=&#34;https://github.com/consindo/stormcloud&#34;&gt;Github&lt;/a&gt;. I&amp;rsquo;m charging a small fee because I not only want to test how well the Software Center monetizes but earning some money will encourage me to make Stormcloud even more excellent.&lt;/p&gt;
+
+&lt;p&gt;You can get Stormcloud from the &lt;a href=&#34;https://apps.ubuntu.com/cat/applications/stormcloud/&#34;&gt;Ubuntu Software Center&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experiences with the Ubuntu Software Center</title>
+      <link>http://localhost:3000/blog/experiences-with-the-ubuntu-software-center/</link>
+      <pubDate>Thu, 20 Dec 2012 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/experiences-with-the-ubuntu-software-center/</guid>
+      <description>
+
+&lt;p&gt;The Ubuntu Software Center was around before the Mac App Store and the Windows Store but still isn&amp;rsquo;t as good as either of them. The idea is to make it easy for developers to distribute apps and make it easy for consumers to purchase apps. Sadly the implementation doesn&amp;rsquo;t live up to the idea and while many of the problems are issues with the store, some plague desktop Linux in general.&lt;/p&gt;
+
+&lt;h2 id=&#34;discovery:ddb154094213d4654144e5fe5fabfe50&#34;&gt;Discovery&lt;/h2&gt;
+
+&lt;p&gt;It should be easy to find things in an online marketplace - easier than a real store. It should also be easy to browse and discover new things. The iOS app store gets a lot of criticism for this as it only has a few methods for discovery. It&amp;rsquo;s not great but it&amp;rsquo;s still possible to discover new apps. Unfortunately the Ubuntu Software Center is even worse. The only means of discovery are a banner on the main page and a new apps section. There are no editor picks or charts - it&amp;rsquo;s hard to find anything you&amp;rsquo;re not looking for.&lt;/p&gt;
+
+&lt;h2 id=&#34;design:ddb154094213d4654144e5fe5fabfe50&#34;&gt;Design&lt;/h2&gt;
+
+&lt;p&gt;The Ubuntu Software Center&amp;rsquo;s user experience leaves a lot to be desired. I&amp;rsquo;m not going to complain too much about the visual style as it&amp;rsquo;s something that is seen throughout Ubuntu e.g the &lt;a href=&#34;http://www.omgubuntu.co.uk/2012/02/login-screen-software-center-ubuntu-one-changes-land-in-ubuntu-12-04&#34;&gt;Ubuntu One Control Panel&lt;/a&gt;. The experience is ruined by silly little things such as free apps having a &amp;ldquo;buy&amp;rdquo; button. It would take less than five minutes to fix and it would help improve the user experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/softwarecenterbug.png&#34; alt=&#34;Buy Now Bug&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Some of the design mistakes include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Selling ebooks as apps (installs a PDF)&lt;/li&gt;
+&lt;li&gt;Making technical packages available&lt;/li&gt;
+&lt;li&gt;Requiring your login password to install packages&lt;/li&gt;
+&lt;li&gt;Blurry App Icons (not the developers fault)&lt;/li&gt;
+&lt;li&gt;Not handling system updates&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think the biggest problem is having all the software from the standard repositories available. Software repositories are great, but only for technical packages. Who cares if there are 57,000 packages. The software center should be a place for high quality software. If a developer wants exposure, they&amp;rsquo;ll have to submit it themselves. Missing icons and descriptions don&amp;rsquo;t look great for the store.&lt;/p&gt;
+
+&lt;p&gt;System updates are currently handled through a separate application and should be unified into the software center. The biggest problem with system updates however is that &lt;strong&gt;the average user does not care about the separate technical packages&lt;/strong&gt;. Combining updates for the OS means less things break and normal apps can be updated agnostically.&lt;/p&gt;
+
+&lt;h2 id=&#34;developers:ddb154094213d4654144e5fe5fabfe50&#34;&gt;Developers&lt;/h2&gt;
+
+&lt;p&gt;Six months ago, Canonical held the &lt;a href=&#34;http://developer.ubuntu.com/2012/06/announcing-the-ubuntu-app-showdown-contest/&#34;&gt;Ubuntu App Showdown&lt;/a&gt; hoping to attract developers to Ubuntu as a platform. The contest was to create an app in three weeks from scratch and the winner would take home some prizes. George and I entered the competition not expecting anything but ended up taking &lt;a href=&#34;http://developer.ubuntu.com/2012/08/announcing-the-ubuntu-app-showdown-winners/&#34;&gt;first place&lt;/a&gt;. While we&amp;rsquo;re happy with the result, it was an interesting ride.&lt;/p&gt;
+
+&lt;p&gt;Some apps from the Showdown still haven&amp;rsquo;t even been approved. The only reason why our app was approved quickly was because it won the competition. There shouldn&amp;rsquo;t be any reason why proprietary apps are put through faster than open source apps. It&amp;rsquo;s just stupid.&lt;/p&gt;
+
+&lt;p&gt;Packaging on Linux is terrible. It&amp;rsquo;s time consuming, there&amp;rsquo;s a bunch of different formats and different versions of the same distribution will require different packages. Just make it easy to package an Ubuntu app.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-can-this-be-fixed:ddb154094213d4654144e5fe5fabfe50&#34;&gt;How can this be fixed?&lt;/h2&gt;
+
+&lt;p&gt;The Ubuntu Software Center isn&amp;rsquo;t great but it&amp;rsquo;s reasonably simple to fix.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hire some user experience designers&lt;/li&gt;
+&lt;li&gt;Make sure the developers listen to the designers&lt;/li&gt;
+&lt;li&gt;Fix the approval process (I&amp;rsquo;ve heard this is already being done)&lt;/li&gt;
+&lt;li&gt;Fix packaging&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Apple, Valve, Amazon and others have all created great user experiences and as a result, people enjoy shopping at their online marketplaces. Having an excellent user experience will encourage more purchasing and will bring more users and developers to Ubuntu.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our Blogging Adventure</title>
+      <link>http://localhost:3000/blog/our-blogging-adventure/</link>
+      <pubDate>Sun, 09 Dec 2012 00:00:00 &#43;0000</pubDate>
+      
+      <guid>http://localhost:3000/blog/our-blogging-adventure/</guid>
+      <description>&lt;p&gt;Welcome to Mintcode! This is the home of ideas, thoughts and other things from &lt;a href=&#34;http://jonocooper.com&#34;&gt;Jono Cooper&lt;/a&gt; and &lt;a href=&#34;http://czabania.com&#34;&gt;George Czabania&lt;/a&gt;. With a bit of luck there will be real content here one day.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll try to update the site with some new content regularly. We&amp;rsquo;re both designer / developers and content will be oriented around these topics. Like the sound of it? Maybe you should &lt;a href=&#34;http://www.mintco.de/subscribe&#34;&gt;subscribe&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

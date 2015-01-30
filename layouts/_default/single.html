@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<main class='article-single container'>
+
+  {{ if .Params.image }}
+    <img class='main-img' src='/img/{{ .Params.image }}' alt='' />
+  {{ end }}
+
+  <h1 class='title'>{{ .Title }}</h1>
+
+  <p class='meta'>Posted on <time datetime='{{ .Date.Format "" }}'>{{ .Date.Format "January 2, 2006" }}</time>
+  by <span class='author'>{{ .Params.author }}</span></p>
+
+  {{ .Content }}
+</main>
+
+{{ partial "footer.html" . }}

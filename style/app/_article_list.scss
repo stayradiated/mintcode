@@ -36,8 +36,12 @@
 
   .desc {
     border: 0.5rem solid $s_bg;
-    border-top: 0;
+
+    &.with-image {
+      border-top: 0;
+    }
   }
+
 
   h2 {
     text-align: center;

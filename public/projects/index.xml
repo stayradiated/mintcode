@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on my new hugo site</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on my new hugo site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>terminal.sexy</title>
+      <link>http://localhost:1313/projects/terminal.sexy/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/terminal.sexy/</guid>
+      <description>&lt;p&gt;Create terminal colour schemes with ease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Base</title>
+      <link>http://localhost:1313/projects/base/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/base/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CJS-Rename</title>
+      <link>http://localhost:1313/projects/cjs-rename/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/cjs-rename/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colr</title>
+      <link>http://localhost:1313/projects/colr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/colr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DownTime</title>
+      <link>http://localhost:1313/projects/downtime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/downtime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git-Status</title>
+      <link>http://localhost:1313/projects/git-status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/git-status/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradiator</title>
+      <link>http://localhost:1313/projects/gradiator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/gradiator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradio</title>
+      <link>http://localhost:1313/projects/gradio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/gradio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invoiced</title>
+      <link>http://localhost:1313/projects/invoiced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/invoiced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jandal</title>
+      <link>http://localhost:1313/projects/jandal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/jandal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Khaki</title>
+      <link>http://localhost:1313/projects/khaki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/khaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightread</title>
+      <link>http://localhost:1313/projects/lightread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/lightread/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mouse</title>
+      <link>http://localhost:1313/projects/mouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/mouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitro</title>
+      <link>http://localhost:1313/projects/nitro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/nitro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Okeanos</title>
+      <link>http://localhost:1313/projects/okeanos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/okeanos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

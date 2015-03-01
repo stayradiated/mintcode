@@ -6,8 +6,83 @@
     <description>Recent content on my new hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LM380 Stereo Amplifier</title>
+      <link>http://localhost:1313/projects/lm380-stereo-amp/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/lm380-stereo-amp/</guid>
+      <description>
+
+&lt;p&gt;In preparation for building the LM3886 amplifier, I wanted to create a simpler,
+cheaper amplifier.&lt;/p&gt;
+
+&lt;p&gt;After a bit of research online, I found the LM380 chipamp and &lt;a href=&#34;http://www.x2jiggy.com/blog/2014/4/14/lm380-stereo-amplifier&#34;&gt;this blog post
+by x2jiggy&lt;/a&gt;.
+While I wouldn&amp;rsquo;t be creating the case out of MDF and popsicle sticks, the
+information about the circuit schematic was very helpful.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-components:913b503784b542f7e305ac6ee904380d&#34;&gt;The Components&lt;/h2&gt;
+
+&lt;p&gt;All the components were bought from my local Jaycar store on a Saturday
+afternoon. It was quite fun searching through the hundreds of boxes looking for
+a specific part - luckily I had the forethought to write down the product
+numbers from Jaycars website.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/1_layout.jpg&#34; alt=&#34;Layout&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/3_the_plan.jpg&#34; alt=&#34;The Plan&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;breadboard:913b503784b542f7e305ac6ee904380d&#34;&gt;Breadboard&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/2_breadboard_single_channel.jpg&#34; alt=&#34;Breadboard: Single Channel&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/4_breadboard_dual_channels.jpg&#34; alt=&#34;Breadboard: Dual Channels&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/5_finished_breadboard.jpg&#34; alt=&#34;Finished Breadboard&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;circuit-board:913b503784b542f7e305ac6ee904380d&#34;&gt;Circuit Board&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/6_planning_circuit_board.jpg&#34; alt=&#34;Planning circuit board&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/7_soldering.jpg&#34; alt=&#34;Soldering&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/8_finished_soldering.jpg&#34; alt=&#34;Finished soldering&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;the-box:913b503784b542f7e305ac6ee904380d&#34;&gt;The Box&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/9_building_box.jpg&#34; alt=&#34;Building box&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/10_box_wiring.jpg&#34; alt=&#34;Box wiring&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/11_lego_standoffs.jpg&#34; alt=&#34;Lego standoffs&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/12_closing_the_box.jpg&#34; alt=&#34;Closing the box&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;finishing-off:913b503784b542f7e305ac6ee904380d&#34;&gt;Finishing Off&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/13_in_use.jpg&#34; alt=&#34;In use&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/14_ominous.jpg&#34; alt=&#34;Ominous&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>terminal.sexy</title>
@@ -461,16 +536,17 @@ window.onload = initialize
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/base/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CJS-Rename</title>
-      <link>http://localhost:1313/projects/cjs-rename/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/cjs-rename/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Screenshot of Code)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stayradiated/base&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Language: JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A tiny and simple javascript framework based on spine.js&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
   </channel>

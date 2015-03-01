@@ -6,8 +6,83 @@
     <description>Recent content in Projects on my new hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>LM380 Stereo Amplifier</title>
+      <link>http://localhost:1313/projects/lm380-stereo-amp/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/lm380-stereo-amp/</guid>
+      <description>
+
+&lt;p&gt;In preparation for building the LM3886 amplifier, I wanted to create a simpler,
+cheaper amplifier.&lt;/p&gt;
+
+&lt;p&gt;After a bit of research online, I found the LM380 chipamp and &lt;a href=&#34;http://www.x2jiggy.com/blog/2014/4/14/lm380-stereo-amplifier&#34;&gt;this blog post
+by x2jiggy&lt;/a&gt;.
+While I wouldn&amp;rsquo;t be creating the case out of MDF and popsicle sticks, the
+information about the circuit schematic was very helpful.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-components:913b503784b542f7e305ac6ee904380d&#34;&gt;The Components&lt;/h2&gt;
+
+&lt;p&gt;All the components were bought from my local Jaycar store on a Saturday
+afternoon. It was quite fun searching through the hundreds of boxes looking for
+a specific part - luckily I had the forethought to write down the product
+numbers from Jaycars website.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/1_layout.jpg&#34; alt=&#34;Layout&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/3_the_plan.jpg&#34; alt=&#34;The Plan&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;breadboard:913b503784b542f7e305ac6ee904380d&#34;&gt;Breadboard&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/2_breadboard_single_channel.jpg&#34; alt=&#34;Breadboard: Single Channel&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/4_breadboard_dual_channels.jpg&#34; alt=&#34;Breadboard: Dual Channels&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/5_finished_breadboard.jpg&#34; alt=&#34;Finished Breadboard&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;circuit-board:913b503784b542f7e305ac6ee904380d&#34;&gt;Circuit Board&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/6_planning_circuit_board.jpg&#34; alt=&#34;Planning circuit board&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/7_soldering.jpg&#34; alt=&#34;Soldering&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/8_finished_soldering.jpg&#34; alt=&#34;Finished soldering&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;the-box:913b503784b542f7e305ac6ee904380d&#34;&gt;The Box&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/9_building_box.jpg&#34; alt=&#34;Building box&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/10_box_wiring.jpg&#34; alt=&#34;Box wiring&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/11_lego_standoffs.jpg&#34; alt=&#34;Lego standoffs&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/12_closing_the_box.jpg&#34; alt=&#34;Closing the box&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;finishing-off:913b503784b542f7e305ac6ee904380d&#34;&gt;Finishing Off&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/13_in_use.jpg&#34; alt=&#34;In use&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/lm380_amp/14_ominous.jpg&#34; alt=&#34;Ominous&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>terminal.sexy</title>
@@ -20,12 +95,88 @@
     </item>
     
     <item>
+      <title></title>
+      <link>http://localhost:1313/projects/gainclone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/gainclone/</guid>
+      <description>
+
+&lt;h1 id=&#34;gainclone-amplifier:e6381525808ec7606d4b6c900ef1cadc&#34;&gt;GainClone Amplifier&lt;/h1&gt;
+
+&lt;p&gt;I want to build an amplifier. Mainly because I need something to connect an
+iPhone to a set of speakers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt;: This project requires working with mains supply voltages, which
+can be lethal if you don&amp;rsquo;t take the proper precautions.&lt;/p&gt;
+
+&lt;p&gt;My original idea was to use a LM386 IC and $20 worth of parts to make a 0.5W
+amp powered using 12v, but now I&amp;rsquo;m thinking I need to make something with a bit
+more oomph.&lt;/p&gt;
+
+&lt;p&gt;I discovered the gainclone amplifier, which appears to have been popular in
+the DIY audio community.&lt;/p&gt;
+
+&lt;h2 id=&#34;power-supply:e6381525808ec7606d4b6c900ef1cadc&#34;&gt;Power Supply&lt;/h2&gt;
+
+&lt;p&gt;Pretty important. You don&amp;rsquo;t want to just use any old power supply, because it
+will likely introduce a humming sound.&lt;/p&gt;
+
+&lt;p&gt;Recommended reading: &lt;a href=&#34;http://www.decdun.me.uk/gainclone_psu.html&#34;&gt;Decible Dungeoun - Building a PSU&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IEC power supply cable&lt;/strong&gt; (female). The same cable you would use to plug into a
+computer PSU or monitor. I have a bunch of these lying around.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IEC panel mount socket&lt;/strong&gt; (male). Going to get one with a built in switch
+and fuse so it&amp;rsquo;s a bit safer to work with.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1.6AT Fuse&lt;/strong&gt;. Needs to work with 230v and has to be anti-surge to work with
+the transformer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Toroidal Transformer&lt;/strong&gt;. This is one of the most expensive parts of the
+project. From what I&amp;rsquo;ve read it should support at least 120VA (not entirely
+sure what that means) and needs to work with 230v AC and output something
+between 20-38v AC.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bridge-rectifier:e6381525808ec7606d4b6c900ef1cadc&#34;&gt;Bridge Rectifier&lt;/h2&gt;
+
+&lt;p&gt;This converts AC to DC using a bunch of diodes in a clever pattern. I&amp;rsquo;m going
+to go for the &amp;lsquo;snubberized&amp;rsquo; version found on
+&lt;a href=&#34;http://chipamp.com/beta2/wp-content/uploads/ps-rev3-sch.png&#34;&gt;chipamp.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are also going to be &lt;strong&gt;two&lt;/strong&gt; bridge rectifiers, one for each channel, so
+double the number of parts below.&lt;/p&gt;
+
+&lt;p&gt;Requires two sets of:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;4x MUR860 Diodes&lt;/li&gt;
+&lt;li&gt;1x 2.2K ohm Resistor&lt;/li&gt;
+&lt;li&gt;1x 1 ohm Resistor&lt;/li&gt;
+&lt;li&gt;1x 10,000uF Capacitor&lt;/li&gt;
+&lt;li&gt;2x 0.1uF Capacitor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;amplifier:e6381525808ec7606d4b6c900ef1cadc&#34;&gt;Amplifier&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Base</title>
       <link>http://localhost:1313/projects/base/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/base/</guid>
-      <description></description>
+      <description>&lt;p&gt;(Screenshot of Code)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stayradiated/base&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Language: JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A tiny and simple javascript framework based on spine.js&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
@@ -124,24 +275,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/projects/mouse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nitro</title>
-      <link>http://localhost:1313/projects/nitro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/nitro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Okeanos</title>
-      <link>http://localhost:1313/projects/okeanos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/okeanos/</guid>
       <description></description>
     </item>
     

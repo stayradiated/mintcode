@@ -2,163 +2,163 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:3000/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/lm380-stereo-amp/</loc>
+    <loc>http://localhost:3000/projects/lm380-stereo-amp/</loc>
     <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/terminal.sexy/</loc>
+    <loc>http://localhost:3000/projects/terminal.sexy/</loc>
     <lastmod>2015-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/i-bought-a-surface-pro-3/</loc>
+    <loc>http://localhost:3000/blog/i-bought-a-surface-pro-3/</loc>
     <lastmod>2014-09-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/springseed-1.1-released/</loc>
+    <loc>http://localhost:3000/blog/springseed-1.1-released/</loc>
     <lastmod>2014-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/sql-server--node.js--os-x/</loc>
+    <loc>http://localhost:3000/blog/sql-server--node.js--os-x/</loc>
     <lastmod>2014-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/stor-e-cards/</loc>
+    <loc>http://localhost:3000/blog/stor-e-cards/</loc>
     <lastmod>2014-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/i-bought-a-nintendo-2ds/</loc>
+    <loc>http://localhost:3000/blog/i-bought-a-nintendo-2ds/</loc>
     <lastmod>2013-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/introducing-springseed/</loc>
+    <loc>http://localhost:3000/blog/introducing-springseed/</loc>
     <lastmod>2013-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/sharing-internet-over-an-ethernet-cable/</loc>
+    <loc>http://localhost:3000/blog/sharing-internet-over-an-ethernet-cable/</loc>
     <lastmod>2013-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/windows-phone-8/</loc>
+    <loc>http://localhost:3000/blog/windows-phone-8/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/logistics/</loc>
+    <loc>http://localhost:3000/blog/logistics/</loc>
     <lastmod>2013-01-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/stormcloud-1.2-released/</loc>
+    <loc>http://localhost:3000/blog/stormcloud-1.2-released/</loc>
     <lastmod>2012-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/experiences-with-the-ubuntu-software-center/</loc>
+    <loc>http://localhost:3000/blog/experiences-with-the-ubuntu-software-center/</loc>
     <lastmod>2012-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/our-blogging-adventure/</loc>
+    <loc>http://localhost:3000/blog/our-blogging-adventure/</loc>
     <lastmod>2012-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/base/</loc>
+    <loc>http://localhost:3000/projects/base/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/cjs-rename/</loc>
+    <loc>http://localhost:3000/projects/cjs-rename/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/colr/</loc>
+    <loc>http://localhost:3000/projects/colr/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/gainclone/</loc>
+    <loc>http://localhost:3000/projects/gainclone/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/downtime/</loc>
+    <loc>http://localhost:3000/projects/downtime/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/git-status/</loc>
+    <loc>http://localhost:3000/projects/git-status/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/gradiator/</loc>
+    <loc>http://localhost:3000/projects/gradiator/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/gradio/</loc>
+    <loc>http://localhost:3000/projects/gradio/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/invoiced/</loc>
+    <loc>http://localhost:3000/projects/invoiced/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/jandal/</loc>
+    <loc>http://localhost:3000/projects/jandal/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/khaki/</loc>
+    <loc>http://localhost:3000/projects/khaki/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/lightread/</loc>
+    <loc>http://localhost:3000/projects/lightread/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/mouse/</loc>
+    <loc>http://localhost:3000/projects/mouse/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/onepassword.js/</loc>
+    <loc>http://localhost:3000/projects/nitro/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/okeanos/</loc>
+    <loc>http://localhost:3000/projects/okeanos/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/nitro/</loc>
+    <loc>http://localhost:3000/projects/onepassword.js/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/rango/</loc>
+    <loc>http://localhost:3000/projects/rango/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/scrunch/</loc>
+    <loc>http://localhost:3000/projects/scrunch/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/tcp-proxy/</loc>
+    <loc>http://localhost:3000/projects/tcp-proxy/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/unwire/</loc>
+    <loc>http://localhost:3000/projects/unwire/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/projects/xtype/</loc>
+    <loc>http://localhost:3000/projects/xtype/</loc>
   </url>
   
 </urlset>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on my new hugo site</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://localhost:3000/blog/</link>
     <description>Recent content in Blogs on my new hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:3000/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>I bought a Surface Pro 3</title>
-      <link>http://localhost:1313/blog/i-bought-a-surface-pro-3/</link>
+      <link>http://localhost:3000/blog/i-bought-a-surface-pro-3/</link>
       <pubDate>Sun, 14 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/i-bought-a-surface-pro-3/</guid>
+      <guid>http://localhost:3000/blog/i-bought-a-surface-pro-3/</guid>
       <description>&lt;p&gt;Six months ago, a kid threw a pen at my MacBook Air. This created a bunch of dead pixels, but the computer was still usable. However, over the next three months the screen gained more and more dead pixels until half the screen didn’t work. I was considering getting a MacBook Pro, but when the Surface Pro 3 was announced, I put in my preorder.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/sp3.jpg&#34; alt=&#34;My Surface Pro 3&#34; /&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>Springseed 1.1 Released!</title>
-      <link>http://localhost:1313/blog/springseed-1.1-released/</link>
+      <link>http://localhost:3000/blog/springseed-1.1-released/</link>
       <pubDate>Sat, 15 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/springseed-1.1-released/</guid>
+      <guid>http://localhost:3000/blog/springseed-1.1-released/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ve been working on Springseed for the last couple of months and we&amp;rsquo;re excited to announce a new release. We&amp;rsquo;ve made it even easier to organize your notes with the option of categories for your notebooks and support for drag and drop. We&amp;rsquo;ve changed a lot behind the scenes to improve performance &amp;amp; sync reliablilty as well as fixing a large number of issues present in the last release.&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;re really excited about Springseed and we would love it if you checked it out. If Springseed is already installed, you can get the latest version from the update manager but there may be a &amp;ldquo;Package is unsigned error&amp;rdquo;. You can either dismiss this, or get the app from out website. If you don&amp;rsquo;t already have Springseed, it&amp;rsquo;s available for Ubuntu 12.04 and later from &lt;a href=&#34;http://getspringseed.com&#34;&gt;getspringseed.com&lt;/a&gt;.&lt;/p&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>SQL Server &#43; node.js &#43; OS X</title>
-      <link>http://localhost:1313/blog/sql-server--node.js--os-x/</link>
+      <link>http://localhost:3000/blog/sql-server--node.js--os-x/</link>
       <pubDate>Mon, 20 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/sql-server--node.js--os-x/</guid>
+      <guid>http://localhost:3000/blog/sql-server--node.js--os-x/</guid>
       <description>
 
 &lt;p&gt;Windows Azure Web Sites supports a number of platforms including node.js but only offers SQL Server for database hosting. It&amp;rsquo;s a little confusing to get set up, especially if you&amp;rsquo;re not running Windows.&lt;/p&gt;
@@ -99,10 +99,10 @@
     
     <item>
       <title>Stor-E-Cards</title>
-      <link>http://localhost:1313/blog/stor-e-cards/</link>
+      <link>http://localhost:3000/blog/stor-e-cards/</link>
       <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/stor-e-cards/</guid>
+      <guid>http://localhost:3000/blog/stor-e-cards/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been helping with building a web  service for the last few months. This site, Stor-E-Cards is a unique take on the traditional greeting card, as each card has the link to a story online inside. I think it&amp;rsquo;s pretty neat and they are definitely nicer than E-Cards because due the product being a real physical card. In a way, it bridges the physical and digital worlds.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/stor-e-cards.png&#34; alt=&#34;Stor-E-Cards&#34; /&gt;
@@ -118,10 +118,10 @@
     
     <item>
       <title>I bought a Nintendo 2DS</title>
-      <link>http://localhost:1313/blog/i-bought-a-nintendo-2ds/</link>
+      <link>http://localhost:3000/blog/i-bought-a-nintendo-2ds/</link>
       <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/i-bought-a-nintendo-2ds/</guid>
+      <guid>http://localhost:3000/blog/i-bought-a-nintendo-2ds/</guid>
       <description>&lt;p&gt;Phone games aren&amp;rsquo;t great and that&amp;rsquo;s not just because I have a Windows Phone. Some of this stems from the lack of tactile controls but microtransactions are by far the biggest problem. There&amp;rsquo;s only a small handful of games that do a good job with microtransactions such as Team Fortress 2 or League of Legends but the majority of mobile games feel like a grind and require real money to advance - bringing us back to the days of the arcades. Unwilling to put up with any of this, I bought a 2DS.&lt;/p&gt;
 
 &lt;p&gt;Before purchasing the 2DS, I considered the PS Vita for the simple fact that I love Spelunky. While there were a few games I would have liked to play on the Vita (Tearaway, Rayman Legends, Guacamelee!), many of them were available on the computer or Xbox unlike the Zelda, Mario and Pokemon franchises. There was also a significantly larger list of 3DS exclusives I wanted to play, despite the Vita having the superior hardware. More than anything, the Vita feels like a companion device to the PlayStation 4, something which I don&amp;rsquo;t plan on purchasing in the near future.&lt;/p&gt;
@@ -140,10 +140,10 @@
     
     <item>
       <title>Introducing Springseed</title>
-      <link>http://localhost:1313/blog/introducing-springseed/</link>
+      <link>http://localhost:3000/blog/introducing-springseed/</link>
       <pubDate>Fri, 26 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/introducing-springseed/</guid>
+      <guid>http://localhost:3000/blog/introducing-springseed/</guid>
       <description>&lt;p&gt;Springseed is an awesome way to take notes. It helps you organise notes with a beautiful interface and syncs with Dropbox so you can keep your notes with you, wherever you are. It&amp;rsquo;s been in the works since January and we&amp;rsquo;re releasing today, exclusively for Ubuntu. Springseed is free and open source software and we hope you enjoy using it as much as we did creating it. Donations are also appreciated in order to support the development.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/springseed.png&#34; alt=&#34;Springseed Screenshot&#34; /&gt;
@@ -157,10 +157,10 @@
     
     <item>
       <title>Sharing Internet over an Ethernet Cable</title>
-      <link>http://localhost:1313/blog/sharing-internet-over-an-ethernet-cable/</link>
+      <link>http://localhost:3000/blog/sharing-internet-over-an-ethernet-cable/</link>
       <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/sharing-internet-over-an-ethernet-cable/</guid>
+      <guid>http://localhost:3000/blog/sharing-internet-over-an-ethernet-cable/</guid>
       <description>
 
 &lt;p&gt;A few days ago, the phone jack for the modem stopped working and I had to move it to another part of the house. However our desktop doesn&amp;rsquo;t have a wireless card so I dug out an old netbook with an Ethernet jack to use as a temporary solution.&lt;/p&gt;
@@ -209,10 +209,10 @@
     
     <item>
       <title>Windows Phone 8</title>
-      <link>http://localhost:1313/blog/windows-phone-8/</link>
+      <link>http://localhost:3000/blog/windows-phone-8/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/windows-phone-8/</guid>
+      <guid>http://localhost:3000/blog/windows-phone-8/</guid>
       <description>
 
 &lt;p&gt;I use a Mac, make apps for Linux and now have a Windows Phone. I&amp;rsquo;m not sure why I did it. I&amp;rsquo;ve invested hundreds of dollars in the iOS App Store but something prompted a change.&lt;/p&gt;
@@ -266,10 +266,10 @@
     
     <item>
       <title>Logistics</title>
-      <link>http://localhost:1313/blog/logistics/</link>
+      <link>http://localhost:3000/blog/logistics/</link>
       <pubDate>Thu, 31 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/logistics/</guid>
+      <guid>http://localhost:3000/blog/logistics/</guid>
       <description>&lt;p&gt;I recently received a brand new Timbuk2 Swig backpack in the mail but as it was purchased from the United States, I had a look at the tracking. In the past I had received other items from the US but through FedEx rather than UPS. I&amp;rsquo;m no expert on logistics but what I found seemed somewhat counterproductive.&lt;/p&gt;
 
 &lt;p&gt;The UPS route was as follows:&lt;/p&gt;
@@ -353,10 +353,10 @@ window.onload = initialize
     
     <item>
       <title>Stormcloud 1.2 Released</title>
-      <link>http://localhost:1313/blog/stormcloud-1.2-released/</link>
+      <link>http://localhost:3000/blog/stormcloud-1.2-released/</link>
       <pubDate>Sun, 23 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/stormcloud-1.2-released/</guid>
+      <guid>http://localhost:3000/blog/stormcloud-1.2-released/</guid>
       <description>
 
 &lt;p&gt;Stormcloud has finally made it into the Ubuntu Software Center (seriously, it was finished like 3 weeks ago). While it&amp;rsquo;s still open source, pre-built packages are available exclusively through the Ubuntu Software Center. It&amp;rsquo;s $2.99 and totally worth it.&lt;/p&gt;
@@ -377,10 +377,10 @@ window.onload = initialize
     
     <item>
       <title>Experiences with the Ubuntu Software Center</title>
-      <link>http://localhost:1313/blog/experiences-with-the-ubuntu-software-center/</link>
+      <link>http://localhost:3000/blog/experiences-with-the-ubuntu-software-center/</link>
       <pubDate>Thu, 20 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/experiences-with-the-ubuntu-software-center/</guid>
+      <guid>http://localhost:3000/blog/experiences-with-the-ubuntu-software-center/</guid>
       <description>
 
 &lt;p&gt;The Ubuntu Software Center was around before the Mac App Store and the Windows Store but still isn&amp;rsquo;t as good as either of them. The idea is to make it easy for developers to distribute apps and make it easy for consumers to purchase apps. Sadly the implementation doesn&amp;rsquo;t live up to the idea and while many of the problems are issues with the store, some plague desktop Linux in general.&lt;/p&gt;
@@ -435,10 +435,10 @@ window.onload = initialize
     
     <item>
       <title>Our Blogging Adventure</title>
-      <link>http://localhost:1313/blog/our-blogging-adventure/</link>
+      <link>http://localhost:3000/blog/our-blogging-adventure/</link>
       <pubDate>Sun, 09 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/our-blogging-adventure/</guid>
+      <guid>http://localhost:3000/blog/our-blogging-adventure/</guid>
       <description>&lt;p&gt;Welcome to Mintcode! This is the home of ideas, thoughts and other things from &lt;a href=&#34;http://jonocooper.com&#34;&gt;Jono Cooper&lt;/a&gt; and &lt;a href=&#34;http://czabania.com&#34;&gt;George Czabania&lt;/a&gt;. With a bit of luck there will be real content here one day.&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;ll try to update the site with some new content regularly. We&amp;rsquo;re both designer / developers and content will be oriented around these topics. Like the sound of it? Maybe you should &lt;a href=&#34;http://www.mintco.de/subscribe&#34;&gt;subscribe&lt;/a&gt;.&lt;/p&gt;

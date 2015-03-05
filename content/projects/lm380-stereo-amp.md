@@ -2,7 +2,7 @@
 title = "LM380 Stereo Amplifier"
 date = "2015-03-01"
 author = "George Czabania"
-image = "lm380_amp/10_box_wiring.jpg"
+image = "lm380-amp/10-box-wiring.jpg"
 +++
 
 In preparation for building the LM3886 amplifier, I wanted to create a simpler,
@@ -20,38 +20,38 @@ afternoon. It was quite fun searching through the hundreds of boxes looking for
 a specific part - luckily I had the forethought to write down the product
 numbers from Jaycars website.
 
-![Layout](/img/lm380_amp/1_layout.jpg)
+![Layout](/assets/lm380-amp/1-layout.jpg)
 
-![The Plan](/img/lm380_amp/3_the_plan.jpg)
+![The Plan](/assets/lm380-amp/3-the-plan.jpg)
 
 ## Breadboard
 
-![Breadboard: Single Channel](/img/lm380_amp/2_breadboard_single_channel.jpg)
+![Breadboard: Single Channel](/assets/lm380-amp/2-breadboard-single-channel.jpg)
 
-![Breadboard: Dual Channels](/img/lm380_amp/4_breadboard_dual_channels.jpg)
+![Breadboard: Dual Channels](/assets/lm380-amp/4-breadboard-dual-channels.jpg)
 
-![Finished Breadboard](/img/lm380_amp/5_finished_breadboard.jpg)
+![Finished Breadboard](/assets/lm380-amp/5-finished-breadboard.jpg)
 
 ## Circuit Board
 
-![Planning circuit board](/img/lm380_amp/6_planning_circuit_board.jpg)
+![Planning circuit board](/assets/lm380-amp/6-planning-circuit-board.jpg)
 
-![Soldering](/img/lm380_amp/7_soldering.jpg)
+![Soldering](/assets/lm380-amp/7-soldering.jpg)
 
-![Finished soldering](/img/lm380_amp/8_finished_soldering.jpg)
+![Finished soldering](/assets/lm380-amp/8-finished-soldering.jpg)
 
 ## The Box
 
-![Building box](/img/lm380_amp/9_building_box.jpg)
+![Building box](/assets/lm380-amp/9-building-box.jpg)
 
-![Box wiring](/img/lm380_amp/10_box_wiring.jpg)
+![Box wiring](/assets/lm380-amp/10-box-wiring.jpg)
 
-![Lego standoffs](/img/lm380_amp/11_lego_standoffs.jpg)
+![Lego standoffs](/assets/lm380-amp/11-lego-standoffs.jpg)
 
-![Closing the box](/img/lm380_amp/12_closing_the_box.jpg)
+![Closing the box](/assets/lm380-amp/12-closing-the-box.jpg)
 
 ## Finishing Off
 
-![In use](/img/lm380_amp/13_in_use.jpg)
+![In use](/assets/lm380-amp/13-in-use.jpg)
 
-![Ominous](/img/lm380_amp/14_ominous.jpg)
+![Ominous](/assets/lm380-amp/14-ominous.jpg)

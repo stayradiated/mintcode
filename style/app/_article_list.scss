@@ -1,5 +1,6 @@
 .article-list {
   @include cf();
+  background: $c_bg;
 }
 
 .article-thumb {

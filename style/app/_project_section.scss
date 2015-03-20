@@ -1,0 +1,58 @@
+.project-section {
+  margin-top: 2rem;
+
+  .project {
+    background: $c_bg;
+    border: 0.5rem solid $s_bg;
+    box-sizing: border-box;
+
+    // border-bottom: none;
+    margin-bottom: 0.8rem;
+
+    width: 320px;
+    // @include column(1/3, $cycle: 3, $gutter: 1);
+  }
+
+  .project:nth-child(5n) {
+    width: 650px;
+  }
+
+  h2 {
+    margin: 0;
+    padding: 0.5rem;
+  }
+
+  .stats {
+    margin: 0.5rem 1rem;
+
+    li {
+      font-size: 1.4rem;
+      list-style-type: none;
+      color: $s_fg;
+      font-style: italic;
+    }
+  }
+
+  .description {
+    font-size: 1.6rem;
+    margin: 0.5rem 1rem;
+  }
+
+  .content {
+  }
+
+  .links {
+    background: $s_bg;
+    margin: 0;
+    text-align: center;
+
+    li {
+      font-size: 1.4rem;
+      line-height: 3rem;
+      list-style-type: none;
+      display: inline-block;
+      padding: 0 1rem;
+    }
+  }
+
+}

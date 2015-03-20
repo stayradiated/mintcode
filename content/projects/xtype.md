@@ -1,5 +1,15 @@
 +++
-title = "xType"
+author = "George Czabania"
+date = "2014-01-18"
+description = "Simple object type checking"
+title = "xtype"
+type = "project"
 
+[commits]
+  first = "2014-01-11"
+  total = "32"
+
+[links]
+  Github = "https://github.com/stayradiated/xtype"
 +++
 

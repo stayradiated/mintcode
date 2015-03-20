@@ -112,3 +112,5 @@ PSU](http://www.decdun.me.uk/gainclone_psu.html).
 
 ![](/assets/lm3886/Assembly.jpg)
 
+
+## Preamplifier

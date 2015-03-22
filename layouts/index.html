@@ -7,9 +7,11 @@
 
   {{ $link := index .Params.links .Params.link }}
 
-  <article class='project {{ if .Params.image }}large{{ end }} {{ if .Params.links.npm }}npm{{ end }}'>
-
-    {{ .Params.link }}
+  <article class='project
+    {{ if .Params.image }}large{{ end }}
+    {{ if .Params.links.npm }}npm{{ end }}
+    {{ if .Params.links.Site }}site{{ end }}
+  '> 
 
     <h2><a href='{{ $link }}'>{{ .Title }}</a></h2>
 

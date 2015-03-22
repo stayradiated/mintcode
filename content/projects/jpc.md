@@ -1,7 +1,7 @@
 +++
 author = "George Czabania"
 date = "2015-03-23T07:56:18+13:00"
-title = "JPC"
+title = "John Paul College Website"
 type = "project"
 link = "Site"
 

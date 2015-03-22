@@ -1,8 +1,7 @@
 +++
 author = "George Czabania"
 date = "2015-03-01"
-description = "Just my configs for CRUX and OS X"
-title = "dotfiles"
+title = "Dotfiles"
 type = "project"
 link = "Github"
 
@@ -12,6 +11,8 @@ link = "Github"
 
 [links]
   Github = "https://github.com/stayradiated/dotfiles"
-
 +++
 
+Configuration files for my Linux and OS X computers.
+
+Uses a `makefile` to automatically install and link files.

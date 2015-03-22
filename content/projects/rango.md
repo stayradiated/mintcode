@@ -16,6 +16,15 @@ image = "/assets/rango/screenshot.jpg"
 
 A static file CMS for the [Hugo static website engine](http://gohugo.io).
 
+Features include:
+
+- Create new markdown files and directories
+- Easily edit content frontmatter
+- Upload images and automatically generate thumbnails
+- Rebuild site using Hugo with a single click
+
+Tech details:
+
 - Server written in Go
 - Interface written in Javascript with
   [React](https://www.npmjs.org/package/react),

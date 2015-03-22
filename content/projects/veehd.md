@@ -1,8 +1,7 @@
 +++
 author = "George Czabania"
 date = "2015-02-25"
-description = "veehd.com for the command line"
-title = "veehd"
+title = "Veehd CLI"
 type = "project"
 link = "Github"
 
@@ -14,3 +13,6 @@ link = "Github"
   Github = "https://github.com/stayradiated/veehd"
 +++
 
+A command-line interface for the [veehd.com](http://veehd.com) website.
+Automates the process of searching for videos, comparing resolution and bit
+rate, and getting the download link.

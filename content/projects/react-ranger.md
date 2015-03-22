@@ -1,8 +1,7 @@
 +++
 author = "George Czabania"
 date = "2015-01-14"
-description = "A column browser for the browser"
-title = "react ranger"
+title = "Ranger for React"
 type = "project"
 link = "Github"
 
@@ -12,6 +11,11 @@ link = "Github"
 
 [links]
   Github = "https://github.com/stayradiated/react-ranger"
+  Demo = "http://stayradiated.github.io/react-ranger"
   npm = "https://www.npmjs.com/package/react-ranger"
 +++
 
+A column browser for the browser. Use it for navigating a tree structure
+of files and directories, with support for a custom file preview pane.
+
+It's just like the column view in the OS X Finder app.

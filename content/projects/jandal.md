@@ -4,6 +4,7 @@ date = "2014-04-03"
 description = "Manage sockets using events, callbacks and rooms"
 title = "jandal"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2013-12-22"

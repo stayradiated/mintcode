@@ -4,6 +4,7 @@ date = "2014-12-03"
 description = "It's just ping, but with a graph"
 title = "downtime"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2014-04-09"

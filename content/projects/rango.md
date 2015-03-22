@@ -3,6 +3,7 @@ author = "George Czabania"
 date = "2015-03-04"
 title = "Rango"
 type = "project"
+link = "Github"
 image = "/assets/rango/screenshot.jpg"
 
 [commits]

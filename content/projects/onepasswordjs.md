@@ -4,6 +4,7 @@ date = "2014-12-14"
 description = "JavaScript implementation of the 1Password cloud keychain"
 title = "onepasswordjs"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2013-02-28"

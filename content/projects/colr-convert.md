@@ -4,6 +4,7 @@ date = "2014-08-30"
 description = "Color conversion functions."
 title = "colr convert"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2014-08-28"

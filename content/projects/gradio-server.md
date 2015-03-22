@@ -4,6 +4,7 @@ date = "2014-08-21"
 description = "GrooveShark API wrapper and music manager"
 title = "gradio server"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2014-08-19"

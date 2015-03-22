@@ -4,6 +4,7 @@ date = "2013-03-14"
 description = "Simply resizable panels."
 title = "splitter"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2013-03-12"

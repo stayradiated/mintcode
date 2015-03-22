@@ -3,6 +3,7 @@ author = "George Czabania"
 title = "Base"
 description = "A tiny and simple javascript framework based on spine.js"
 type = "project"
+link = "Github"
 date = "2014-02-08"
 
 [commits]

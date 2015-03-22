@@ -4,6 +4,7 @@ date = "2015-01-14"
 description = "A column browser for the browser"
 title = "react ranger"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2013-07-10"

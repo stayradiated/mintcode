@@ -4,6 +4,7 @@ date = "2014-08-30"
 description = "Perfectly convert ANSI escape codes to HTML."
 title = "termio"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2014-04-16"

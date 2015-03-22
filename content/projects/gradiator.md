@@ -4,6 +4,7 @@ date = "2012-08-12"
 description = "Desktop app to easily create CSS gradients"
 title = "Gradiator"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2012-07-15"

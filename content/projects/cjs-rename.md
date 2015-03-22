@@ -4,6 +4,7 @@ date = "2014-09-23"
 description = "Magically rename 'require()' modules"
 title = "cjs-rename"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2014-03-07"

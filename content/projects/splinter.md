@@ -4,6 +4,7 @@ date = "2014-04-19"
 description = "Split an object-mode stream into multiple streams by filtering the chunks."
 title = "splinter"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2014-04-19"

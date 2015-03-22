@@ -4,6 +4,7 @@ date = "2015-03-03"
 description = "Import and export between multiple terminal colour scheme formats"
 title = "termcolors"
 type = "project"
+link = "Github"
 image = "/assets/termcolors/color_columns.jpg"
 
 [commits]

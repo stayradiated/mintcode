@@ -4,6 +4,7 @@ date = "2014-11-14"
 description = "Gulp plugin for substack's brfs"
 title = "gulp-brfs"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2014-05-18"

@@ -4,6 +4,7 @@ date = "2015-02-09"
 description = "Bluetooth Car Keys"
 title = "khaki"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2014-12-22"

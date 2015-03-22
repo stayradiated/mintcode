@@ -4,6 +4,7 @@ date = "2014-03-23"
 description = "Lightweight event emitting for Node and the browser."
 title = "signals"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2011-09-29"

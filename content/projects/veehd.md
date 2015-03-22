@@ -4,6 +4,7 @@ date = "2015-02-25"
 description = "veehd.com for the command line"
 title = "veehd"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2015-02-16"

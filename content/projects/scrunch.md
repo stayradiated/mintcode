@@ -4,6 +4,7 @@ date = "2014-03-10"
 description = "Cleverly concatenate coffee script files using require()"
 title = "scrunch"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2013-09-17"

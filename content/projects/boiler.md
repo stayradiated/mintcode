@@ -4,6 +4,7 @@ date = "2014-12-04"
 description = "Quickly setup a new package or web app"
 title = "boiler"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2014-07-30"

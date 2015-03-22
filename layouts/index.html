@@ -1,0 +1,51 @@
+{{ partial "header.html" . }}
+
+<main class='container project-section'>
+
+  {{ range .Data.Pages }}
+  {{ if eq .Section "projects" }}
+
+  {{ $link := index .Params.links .Params.link }}
+
+  <article class='project {{ if .Params.image }}large{{ end }} {{ if .Params.links.npm }}npm{{ end }}'>
+
+    {{ .Params.link }}
+
+    <h2><a href='{{ $link }}'>{{ .Title }}</a></h2>
+
+    {{ if .Params.image }}
+    <div class='image'>
+      <a href='{{ $link }}'><img src='{{ .Params.image }}' alt='' /></a>
+    </div>
+    {{ end }}
+
+    <div class='text'>
+
+      {{ if ne .Params.repo "private" }}
+      <ul class='stats'>
+        <li><a href='{{ .Params.links.Github }}/graphs/contributors'>{{ dateFormat "Jan 2, 2006" .Params.commits.first }} - {{ .Date.Format "Jan 2, 2006" }}</a></li>
+        <li><a href='{{ .Params.links.Github }}/commits/master'>{{ .Params.commits.total }} Commits</a></li>
+      </ul>
+      {{ end }}
+
+      <p class='description'>{{ .Description }}</p>
+
+      <div class='content'>
+        {{ .Content }}
+      </div>
+
+      <ul class='links'>
+        {{ range $name, $link := .Params.links }}
+          <li><a href='{{ $link }}'>{{ $name }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+
+  </article>
+
+  {{ end }}
+  {{ end }}
+
+</main>
+
+{{ partial "footer.html" . }}

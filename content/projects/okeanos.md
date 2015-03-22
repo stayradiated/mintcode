@@ -4,6 +4,7 @@ date = "2013-12-13"
 description = "Node.js adapter for Zephyros."
 title = "okeanos"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2013-08-04"

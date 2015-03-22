@@ -4,6 +4,7 @@ date = "2014-03-24"
 description = "Dependency injection with 'require()'"
 title = "unwire"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2014-03-23"

@@ -4,6 +4,7 @@ date = "2013-01-06"
 description = "The 'best' RSS reader on Ubuntu"
 title = "lightread"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2012-07-19"

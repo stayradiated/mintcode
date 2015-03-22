@@ -4,6 +4,7 @@ date = "2015-02-25"
 description = "Create, view and edit terminal colorschemes."
 title = "terminal.sexy"
 type = "project"
+link = "Github"
 image = "/assets/terminal.sexy/screenshot.jpg"
 
 [commits]

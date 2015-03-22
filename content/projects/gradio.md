@@ -4,6 +4,7 @@ date = "2014-07-21"
 description = "A grooveshark library, server and client"
 title = "gradio"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2013-05-10"

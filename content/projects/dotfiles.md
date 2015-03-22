@@ -4,6 +4,7 @@ date = "2015-03-01"
 description = "Just my configs for CRUX and OS X"
 title = "dotfiles"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2013-08-10"

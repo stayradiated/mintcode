@@ -1,9 +1,9 @@
 +++
 title = ""
 date = ""
-description = ""
 author = "George Czabania"
 type = "project"
+# image = ""
 
 [links]
     Github = "https://github.com/stayradiated/"

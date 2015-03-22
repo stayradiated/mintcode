@@ -4,6 +4,7 @@ date = "2014-09-04"
 description = "A minimal window manager built using React."
 title = "reactwm"
 type = "project"
+link = "Github"
 
 [commits]
   first = "2014-05-02"

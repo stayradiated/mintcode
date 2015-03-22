@@ -13,7 +13,10 @@
       </ul>
 
       <p class='description'>{{ .Description }}</p>
-      <p class='content'>{{ .Content }}</p>
+
+      <div class='content'>
+        {{ .Content }}
+      </div>
 
       <ul class='links'>
         {{ range $name, $link := .Params.links }}
@@ -25,5 +28,30 @@
   {{ end }}
 
 </main>
+
+<script src='/js/masonry.pkgd.min.js'></script>
+<script>
+var msnry;
+
+function triggerMasonry() {
+  // don't proceed if masonry has not been initialized
+  if (! msnry) { return; }
+  msnry.layout();
+}
+
+// initialize masonry on document ready
+docReady(function() {
+  msnry = new Masonry('.project-section', {
+    gutter: 10,
+    itemSelector: '.project'
+  });
+});
+
+// trigger masonry when fonts have loaded
+Typekit.load({
+  active: triggerMasonry,
+  inactive: triggerMasonry
+});
+</script>
 
 {{ partial "footer.html" . }}

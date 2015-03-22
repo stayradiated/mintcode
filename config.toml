@@ -1,6 +1,6 @@
-baseurl = "http://localhost:3000"
-languageCode = "en-us"
-title = "my new hugo site"
+baseurl = "http://mintco.de"
+languageCode = "en-nz"
+title = "Mintcode"
 
 [Params]
   DateForm = "2006-01-02"

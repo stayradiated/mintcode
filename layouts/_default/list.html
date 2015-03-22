@@ -3,25 +3,27 @@
 <main class='container article-list'>
 
   {{ range .Data.Pages }}
+    {{ if ne .Section "projects" }}
 
-    <article class='article-thumb {{ if .Params.image }}with-image{{ end }}'>
+      <article class='article-thumb {{ if .Params.image }}with-image{{ end }}'>
 
-      {{ if .Params.image }}
-        <a class='img' href='{{ .Permalink }}'>
-          <img src='/assets/{{ .Params.image }}' alt=''>
-        </a>
-      {{ end }}
+        {{ if .Params.image }}
+          <a class='img' href='{{ .Permalink }}'>
+            <img src='/assets/{{ .Params.image }}' alt=''>
+          </a>
+        {{ end }}
 
-      <div class='desc'>
-        <h2><a href='{{ .Permalink }}'>{{ .Title }}</a></h2>
-        <p>{{ .Description }}</p>
-        <div class='meta'>
-          <time class='date' datetime='2014-12-05'>{{ .Date.Format "January 2, 2006" }}</time>
-          <p class='author'>{{ .Params.author }}</p>
+        <div class='desc'>
+          <h2><a href='{{ .Permalink }}'>{{ .Title }}</a></h2>
+          <p>{{ .Description }}</p>
+          <div class='meta'>
+            <time class='date' datetime='2014-12-05'>{{ .Date.Format "January 2, 2006" }}</time>
+            <p class='author'>{{ .Params.author }}</p>
+          </div>
         </div>
-      </div>
-    </article>
+      </article>
 
+    {{ end }}
   {{ end }}
 
 </main>

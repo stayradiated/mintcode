@@ -1,6 +1,7 @@
 +++
 date = "2015-02-02"
 title = "terminal.sexy"
+author = "George Czabania"
 +++
 
 Create terminal colour schemes with ease.

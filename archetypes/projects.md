@@ -6,9 +6,9 @@ author = "George Czabania"
 type = "project"
 
 [links]
-    Github = "stayradiated/"
+    Github = "https://github.com/stayradiated/"
 
 [commits]
     first = "2006-01-02"
-    last = "2006-01-02"
+    total = "0"
 +++

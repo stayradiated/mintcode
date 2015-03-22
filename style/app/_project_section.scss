@@ -4,9 +4,9 @@
   .project {
     background: $c_bg;
     border: 0.5rem solid $s_bg;
+    border-bottom: none;
     box-sizing: border-box;
 
-    // border-bottom: none;
     margin-bottom: 0.8rem;
 
     width: 320px;
@@ -39,6 +39,14 @@
   }
 
   .content {
+    font-size: 1.4rem;
+    margin: 0.5rem 1rem;
+    color: $s_fg;
+
+    p, li {
+      color: inherit;
+      font-size: inherit;
+    }
   }
 
   .links {

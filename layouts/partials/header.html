@@ -2,7 +2,11 @@
 <html lang='en'>
 <head>
   <meta charset='UTF-8'>
-  <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
+  {{ if eq .Site.Title .Title }}
+    <title>{{ .Site.Title }}</title>
+  {{ else }}
+    <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
+  {{ end }}
   <link rel='stylesheet' href='/css/main.css'>
   <script src='//use.typekit.net/cne2rvi.js'></script>
 </head>

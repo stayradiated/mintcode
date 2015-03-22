@@ -11,5 +11,6 @@ type = "project"
 
 [links]
   Github = "https://github.com/stayradiated/recursive-readdir"
+  npm = "https://www.npmjs.com/package/recursive-readdir-filter"
 +++
 

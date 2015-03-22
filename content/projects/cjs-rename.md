@@ -11,5 +11,6 @@ type = "project"
 
 [links]
   Github = "https://github.com/stayradiated/cjs-rename"
+  npm = "https://www.npmjs.com/package/cjs-rename"
 +++
 

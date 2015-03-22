@@ -18,7 +18,8 @@
   docReady(function() {
     msnry = new Masonry('.project-section', {
       gutter: 10,
-      itemSelector: '.project'
+      itemSelector: '.project',
+      columnWidth: 325,
     });
   });
 

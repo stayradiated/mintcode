@@ -11,5 +11,6 @@ type = "project"
 
 [links]
   Github = "https://github.com/stayradiated/xtype"
+  npm = "https://www.npmjs.com/package/xtype"
 +++
 

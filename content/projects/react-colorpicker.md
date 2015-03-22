@@ -4,6 +4,7 @@ date = "2015-03-04"
 description = "Colorpicker for React"
 title = "React Colorpicker"
 type = "project"
+image = "/assets/react-colorpicker/screenshot.jpg"
 
 [links]
     Github = "https://github.com/stayradiated/react-colorpicker"

@@ -1,9 +1,9 @@
 +++
 author = "George Czabania"
 date = "2015-03-04"
-description = "A web frontend for hugo."
 title = "Rango"
 type = "project"
+image = "/assets/rango/screenshot.jpg"
 
 [commits]
     first = "2014-08-30"
@@ -13,3 +13,12 @@ type = "project"
     Github = "https://github.com/stayradiated/rango"
 +++
 
+A static file CMS for the [Hugo static website engine](http://gohugo.io).
+
+- Server written in Go
+- Interface written in Javascript with
+  [React](https://www.npmjs.org/package/react),
+  [Imutable](https://www.npmjs.org/package/imutable),
+  [Fluxxor](https://www.npmjs.org/package/fluxxor)
+  and
+  [Code Mirror](https://www.npmjs.org/package/codemirror)

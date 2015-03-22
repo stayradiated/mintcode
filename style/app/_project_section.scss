@@ -1,5 +1,6 @@
 .project-section {
   margin-top: 2rem;
+  max-width: 101rem;
 
   .project {
     background: $c_bg;
@@ -9,17 +10,49 @@
 
     margin-bottom: 0.8rem;
 
-    width: 320px;
-    // @include column(1/3, $cycle: 3, $gutter: 1);
+    width: 32.5rem;
   }
 
-  .project:nth-child(5n) {
-    width: 650px;
+  .large.project {
+    width: 66rem;
+
+    .text {
+      border-top: 0.5rem solid $s_bg;
+    }
+  }
+
+  .project.npm {
+    $c: mix($s_bg, $c_hd, 85);
+
+    &, h2 {
+      border-color: $c;
+    }
+
+    .links {
+      background: $c;
+    }
+  }
+
+  .image {
+    img {
+      display: block;
+      max-width: 100%;
+    }
   }
 
   h2 {
     margin: 0;
-    padding: 0.5rem;
+    padding: 0;
+
+    a {
+      display: block;
+      color: $c_fg;
+      padding: 0.5rem;
+
+      &:hover {
+        color: $c_ln;
+      }
+    }
   }
 
   .stats {
@@ -39,27 +72,42 @@
   }
 
   .content {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     margin: 0.5rem 1rem;
-    color: $s_fg;
 
     p, li {
       color: inherit;
       font-size: inherit;
+    }
+
+    li {
+      list-style-type: disc;
     }
   }
 
   .links {
     background: $s_bg;
     margin: 0;
-    text-align: center;
+    text-align: right;
 
     li {
-      font-size: 1.4rem;
-      line-height: 3rem;
-      list-style-type: none;
       display: inline-block;
-      padding: 0 1rem;
+      list-style-type: none;
+      padding-left: 0.5rem;
+    }
+
+    a {
+      font-size: 1.2rem;
+      line-height: 2.4rem;
+      display: block;
+      color: $s_fg;
+      font-weight: bold;
+      text-transform: uppercase;
+      padding: 0 0.5rem;
+
+      &:hover {
+        color: $c_ln;
+      }
     }
   }
 

@@ -11,5 +11,6 @@ type = "project"
 
 [links]
   Github = "https://github.com/stayradiated/colr"
+  npm = "https://www.npmjs.com/package/colr"
 +++
 

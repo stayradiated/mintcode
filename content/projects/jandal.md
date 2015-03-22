@@ -11,5 +11,6 @@ type = "project"
 
 [links]
   Github = "https://github.com/stayradiated/jandal"
+  npm = "https://www.npmjs.com/package/jandal"
 +++
 

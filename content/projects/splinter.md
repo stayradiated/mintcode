@@ -11,5 +11,6 @@ type = "project"
 
 [links]
   Github = "https://github.com/stayradiated/splinter"
+  npm = "https://www.npmjs.com/package/splinter"
 +++
 

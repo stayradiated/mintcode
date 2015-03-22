@@ -11,5 +11,6 @@ type = "project"
 
 [links]
   Github = "https://github.com/stayradiated/react-ranger"
+  npm = "https://www.npmjs.com/package/react-ranger"
 +++
 

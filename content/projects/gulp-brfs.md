@@ -11,5 +11,6 @@ type = "project"
 
 [links]
   Github = "https://github.com/stayradiated/gulp-brfs"
+  npm = "https://www.npmjs.com/package/gulp-brfs"
 +++
 

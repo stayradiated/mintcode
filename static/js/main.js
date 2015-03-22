@@ -16,10 +16,16 @@
 
   // initialize masonry on document ready
   docReady(function() {
-    msnry = new Masonry('.project-section', {
+    var container = '.project-section';
+
+    msnry = new Masonry(container, {
       gutter: 10,
       itemSelector: '.project',
       columnWidth: 325,
+    });
+
+    imagesLoaded(container, function() {
+      msnry.layout();
     });
   });
 

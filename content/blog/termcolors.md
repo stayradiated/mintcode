@@ -2,6 +2,7 @@
 title = "termcolors"
 date = "2015-03-05"
 author = "George Czabania"
+image = "/assets/termcolors/color-columns.jpg"
 +++
 
 [Github](https://github.com/stayradiated/termcolors)

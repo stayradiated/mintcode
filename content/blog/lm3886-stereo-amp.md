@@ -2,7 +2,7 @@
 title = "LM3886 Chip Amplifier"
 author = "George Czabania"
 date = "2015-03-05"
-image = "lm3886/Finished Soldering.jpg"
+image = "/assets/lm3886/thumb.jpg"
 +++
 
 # Building a Chip Amplifier
@@ -39,8 +39,8 @@ the two amplifiers. There is still quite a lot you need to do.
 
 ## The Chipamp Kit
 
-![All the parts meticulously laid out](/assets/lm3886/Ready for Soldering.jpg)
-![](/assets/lm3886/Finished Soldering 2.jpg)
+![All the parts meticulously laid out](/assets/lm3886/ready-for-soldering.jpg)
+![](/assets/lm3886/finished-soldering-2.jpg)
 
 ### The Full Bridge Rectifier
 
@@ -110,7 +110,7 @@ PSU](http://www.decdun.me.uk/gainclone_psu.html).
 
 ## Bonus Shot
 
-![](/assets/lm3886/Assembly.jpg)
+![](/assets/lm3886/assembly.jpg)
 
 
 ## Preamplifier

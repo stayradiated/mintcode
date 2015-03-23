@@ -2,7 +2,7 @@
 title = "LM380 Stereo Amplifier"
 date = "2015-03-01"
 author = "George Czabania"
-image = "lm380/10-box-wiring.jpg"
+image = "/assets/lm380/10-box-wiring.jpg"
 +++
 
 In preparation for building the LM3886 amplifier, I wanted to create a simpler,

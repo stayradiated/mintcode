@@ -2,7 +2,7 @@
 title = "Rango"
 date = "2015-03-02"
 author = "George Czabania"
-image = "rango/screenshot.jpg"
+image = "/assets/rango/screenshot.jpg"
 +++
 
 [Github](https://github.com/stayradiated/rango)

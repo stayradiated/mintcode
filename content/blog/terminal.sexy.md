@@ -2,6 +2,7 @@
 date = "2015-02-02"
 title = "terminal.sexy"
 author = "George Czabania"
+image = "/assets/terminal.sexy/screenshot.jpg"
 +++
 
 Create terminal colour schemes with ease.

@@ -5,7 +5,7 @@ description = "Import and export between multiple terminal colour scheme formats
 title = "termcolors"
 type = "project"
 link = "Github"
-image = "/assets/termcolors/color_columns.jpg"
+image = "/assets/termcolors/color-columns.jpg"
 
 [commits]
     first = "2014-05-15"

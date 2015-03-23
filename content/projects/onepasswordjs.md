@@ -1,8 +1,7 @@
 +++
 author = "George Czabania"
 date = "2014-12-14"
-description = "JavaScript implementation of the 1Password cloud keychain"
-title = "onepasswordjs"
+title = "OnePassword.js"
 type = "project"
 link = "Github"
 
@@ -15,3 +14,4 @@ link = "Github"
   npm = "https://www.npmjs.com/package/1password"
 +++
 
+An implementation of the 1Password cloud keychain in JavaScript.

@@ -39,8 +39,8 @@ the two amplifiers. There is still quite a lot you need to do.
 
 ## The Chipamp Kit
 
-![All the parts meticulously laid out](/assets/lm3886/ready-for-soldering.jpg)
-![](/assets/lm3886/finished-soldering-2.jpg)
+[![All the parts meticulously laid
+out](/assets/lm3886/parts-layout.jpg)](/assets/lm3886/full/parts-layout.jpg)
 
 ### The Full Bridge Rectifier
 
@@ -67,6 +67,8 @@ Parts list (included with kit):
     1x 1N4004 diode
     1x 10 kohm 0.5w compact metal film resistor
     1x 10 uF Panasonic FC Capacitors
+
+[![](/assets/lm3886/finished-chip-amps.jpg)](/assets/lm3886/full/finished-chip-amps.jpg)
 
 ### Amplifier
 
@@ -107,10 +109,60 @@ PSU](http://www.decdun.me.uk/gainclone_psu.html).
   sure what that means) and needs to work with 230v AC and output something
   between 20-38v AC.
 
-
-## Bonus Shot
-
-![](/assets/lm3886/assembly.jpg)
-
+[![](/assets/lm3886/iec-socket.jpg)](/assets/lm3886/full/iec-socket.jpg)
 
 ## Preamplifier
+
+[![](/assets/lm3886/preamp-7.jpg)](/assets/lm3886/full/preamp-7.jpg)
+[![](/assets/lm3886/preamp-5.jpg)](/assets/lm3886/full/preamp-5.jpg)
+[![](/assets/lm3886/preamp-6.jpg)](/assets/lm3886/full/preamp-6.jpg)
+[![](/assets/lm3886/preamp-1.jpg)](/assets/lm3886/full/preamp-1.jpg)
+[![](/assets/lm3886/preamp-2.jpg)](/assets/lm3886/full/preamp-2.jpg)
+[![](/assets/lm3886/preamp-3.jpg)](/assets/lm3886/full/preamp-3.jpg)
+[![](/assets/lm3886/controls.jpg)](/assets/lm3886/full/controls.jpg)
+[![](/assets/lm3886/preamp-4.jpg)](/assets/lm3886/full/preamp-4.jpg)
+
+## Preamplifier Power
+
+[![](/assets/lm3886/regulator-1.jpg)](/assets/lm3886/full/regulator-1.jpg)
+[![](/assets/lm3886/regulator-2.jpg)](/assets/lm3886/full/regulator-2.jpg)
+[![](/assets/lm3886/regulator-3.jpg)](/assets/lm3886/full/regulator-3.jpg)
+[![](/assets/lm3886/regulator-4.jpg)](/assets/lm3886/full/regulator-4.jpg)
+
+## Trying it out
+
+[![](/assets/lm3886/before-box.jpg)](/assets/lm3886/full/before-box.jpg)
+[![](/assets/lm3886/table-1.jpg)](/assets/lm3886/full/table-1.jpg)
+[![](/assets/lm3886/table-2.jpg)](/assets/lm3886/full/table-2.jpg)
+
+## The Box
+
+[![](/assets/lm3886/cutting-box-4.jpg)](/assets/lm3886/full/cutting-box-4.jpg)
+[![](/assets/lm3886/cutting-box-5.jpg)](/assets/lm3886/full/cutting-box-5.jpg)
+[![](/assets/lm3886/cutting-box-6.jpg)](/assets/lm3886/full/cutting-box-6.jpg)
+[![](/assets/lm3886/cutting-box-3.jpg)](/assets/lm3886/full/cutting-box-3.jpg)
+[![](/assets/lm3886/cutting-box-1.jpg)](/assets/lm3886/full/cutting-box-1.jpg)
+[![](/assets/lm3886/cutting-box-2.jpg)](/assets/lm3886/full/cutting-box-2.jpg)
+[![](/assets/lm3886/drilling-1.jpg)](/assets/lm3886/full/drilling-1.jpg)
+[![](/assets/lm3886/drilling-2.jpg)](/assets/lm3886/full/drilling-2.jpg)
+[![](/assets/lm3886/drilling-4.jpg)](/assets/lm3886/full/drilling-4.jpg)
+[![](/assets/lm3886/painting-1.jpg)](/assets/lm3886/full/painting-1.jpg)
+[![](/assets/lm3886/drilling-3.jpg)](/assets/lm3886/full/drilling-3.jpg)
+
+## Installing Components in Box
+
+[![](/assets/lm3886/table-3.jpg)](/assets/lm3886/full/table-3.jpg)
+[![](/assets/lm3886/inputs.jpg)](/assets/lm3886/full/inputs.jpg)
+[![](/assets/lm3886/box-mounts.jpg)](/assets/lm3886/full/box-mounts.jpg)
+[![](/assets/lm3886/without-lid.jpg)](/assets/lm3886/full/without-lid.jpg)
+[![](/assets/lm3886/fitting-components.jpg)](/assets/lm3886/full/fitting-components.jpg)
+[![](/assets/lm3886/with-lid.jpg)](/assets/lm3886/full/with-lid.jpg)
+
+## Complete
+
+[![](/assets/lm3886/complete.jpg)](/assets/lm3886/full/complete.jpg)
+
+## Bonus Shots
+
+[![](/assets/lm3886/lego-1.jpg)](/assets/lm3886/full/lego-1.jpg)
+[![](/assets/lm3886/lego-2.jpg)](/assets/lm3886/full/lego-2.jpg)

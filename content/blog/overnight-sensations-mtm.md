@@ -2,6 +2,7 @@
 title = "Overnight Sensation MTM"
 date = "2015-04-05"
 author = "George Czabania"
+image = "/assets/osmtm/sketchup.jpg"
 +++
 
 

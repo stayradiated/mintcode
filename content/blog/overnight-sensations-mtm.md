@@ -122,6 +122,28 @@ The 10mm rebate cutter was also used to cut a 10x8mm rebate on the side boards.
 I also needed to cut an 8x8mm rebate, but at that time I hadn't figured out how
 I was going to do that.
 
-[![](/assets/osmtm/router-1.jpg)](/assets/osmtm/full/router-1.jpg))
+[![](/assets/osmtm/router-1.jpg)](/assets/osmtm/full/router-1.jpg)
 
 ## Day 4: More Routing
+
+I needed to cut an 8mm rebate with only a 10mm rebate cutter, so I made a
+simple jig for the router to slide across, at the just the right distance. It
+was a bit slow to setup, but it worked ok.
+
+[![](/assets/osmtm/router-3.jpg)](/assets/osmtm/full/router-3.jpg)
+
+I then needed to cut a channel in the side and back panels to hold the brace. I
+used the included fence attachment to cut a parallel 18mm groove.
+
+[![](/assets/osmtm/router-4.jpg)](/assets/osmtm/full/router-4.jpg)
+
+All the panels laid out:
+
+[![](/assets/osmtm/router-5.jpg)](/assets/osmtm/full/router-5.jpg)
+
+I fitted all the panels together (without glue), just to check that I hadn't
+made any mistakes with the measurements. Overall I was quite impressed, though
+it was wider by about 1.5mm than I had planned for, so I'm going to measure
+everything and find out what I need to trim down.
+
+[![](/assets/osmtm/router-6.jpg)](/assets/osmtm/full/router-6.jpg)

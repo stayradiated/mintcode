@@ -32,7 +32,7 @@ I ordered most of the parts from [Parts Express](http://www.parts-express.com).
 However, they didn't have the model of tweeter I needed in stock, so I ordered
 that from [The Loudspeaker
 Kit](http://www.theloudspeakerkit.com/dayton-audio-nd20fa-6-3-4-neodymium-dome-tweeter).
-They also didn't have any 10uf non-polarised electrolytic capacitors in stock,
+They also didn't have any 10uF non-polarised electrolytic capacitors in stock,
 so I picked those up from my local [Jaycar](http://www.jaycar.co.nz/p/RY6908).
 
 ### Parts List:
@@ -54,8 +54,8 @@ so I picked those up from my local [Jaycar](http://www.jaycar.co.nz/p/RY6908).
 ![Paul Carmody's original design plans](/assets/osmtm/plans.jpg)
 
 There are cabinet design plans for 1/2" and 3/4" MDF. However, I only have
-access to 18mm MDF, which is a just a millimeter thinner than 3/4". In order to
-maintain the same internal volume, I calcluated my own sizes.
+access to 18mm MDF, which is a just a millimetre thinner than 3/4". In order to
+maintain the same internal volume, I calculated my own sizes.
 
 Internal dimensions:
 
@@ -147,3 +147,76 @@ it was wider by about 1.5mm than I had planned for, so I'm going to measure
 everything and find out what I need to trim down.
 
 [![](/assets/osmtm/router-6.jpg)](/assets/osmtm/full/router-6.jpg)
+
+## Day 5: DIY Router Table
+
+It rained nearly all day today, so I didn't have much of a chance to finish off
+the routing.
+
+I took a trip down to Bunnings and picked up six cheap quick-release clamps,
+which I'll need when I glue the cabinets together. I also bought some quality
+PVA glue, a couple dust masks, and some vernier calipers for precision
+measuring.
+
+I used the calipers to check how accurate I was with my routing, and found that
+I was short a millimetre in some places. I needed a more accurate way to rebate
+the panels, so I decided I was going to turn my plunge router into a router
+table.
+
+I wanted something cheap, simple and portable. I found [this wood working
+article](http://www.finewoodworking.com/item/11120/free-plan-how-to-build-a-simple-router-table)
+with plans for building exactly what I wanted.
+
+[![](/assets/osmtm/table-plans.jpg)](http://www.finewoodworking.com/FWNPDFfree/minimalist-router-table-free-plan.pdf)
+
+I started by finding four bolts that would fit into the bottom of my router, as
+the ones it comes with aren't long enough to go through a thick piece of wood.
+
+I traced around the bottom of the router, and setup a temporary jig about 6mm
+from the edge. Why 6mm? Because I was going to use the included router guide
+bush with the jig, and it happens to be 6mm from the edge of the collet to the
+edge of the cutter.
+
+[![](/assets/osmtm/table-1.jpg)](/assets/osmtm/full/table-1.jpg)
+
+I cut about 9mm into the board, so that I would have about 21mm left. Doing
+this gives me a bit more height on the cutter bit, and also so I don't have to
+find some longer bolts.
+
+While trying to cut out middle of the hole, the router accidentally slipped off
+the jig and gouged the bottom of the board. Next time, I just do as much as I
+can, and then finish with a chisel.
+
+[![](/assets/osmtm/table-2.jpg)](/assets/osmtm/full/table-2.jpg)
+
+I marked screw holes, and drilled them out. So far, so good.
+
+[![](/assets/osmtm/table-3.jpg)](/assets/osmtm/full/table-3.jpg)
+
+I flipped the board over, and counter sunk the holes, just enough so that
+the bolts wouldn't stick out.
+
+I used a hole saw and a rasp to cut out the hole for cutter. I then flipped the
+board over again, and attached the router. 
+
+[![](/assets/osmtm/table-4.jpg)](/assets/osmtm/full/table-4.jpg)
+
+I flipped the board back over, so that the router was on the bottom.
+That's the hard part done.
+
+[![](/assets/osmtm/table-5.jpg)](/assets/osmtm/full/table-5.jpg)
+
+I found a piece of wood to use as the fence, and drilled a hole through one
+side, large enough for a bolt. Then I marked out where wood hits the cutter,
+and cut out hole large enough for the cutter to sit.
+
+I gave it a quick test, and found that it worked pretty well. All that I need
+to do now is use some tape to keep the power button on the router pressed, so I
+don't have to keep one my hand on it all the time.
+
+[![](/assets/osmtm/table-6.jpg)](/assets/osmtm/full/table-6.jpg)
+
+The great thing about this setup is that I can simply unclamp it from the
+table, and move it around, or bring it inside for storage.
+
+[![](/assets/osmtm/table-7.jpg)](/assets/osmtm/full/table-7.jpg)

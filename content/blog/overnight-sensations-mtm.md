@@ -220,3 +220,90 @@ The great thing about this setup is that I can simply unclamp it from the
 table, and move it around, or bring it inside for storage.
 
 [![](/assets/osmtm/table-7.jpg)](/assets/osmtm/full/table-7.jpg)
+
+## Day 6: Routing & Glueing
+
+To finish off the router table, I needed an easy way to be able to switch the
+router on and off. I used several rubber bands to keep the router button
+depressed, and a power strip to turn the router on.
+
+[![](/assets/osmtm/table-8.jpg)](/assets/osmtm/full/table-8.jpg)
+
+I clamped the board to the table with a wooden stake so I the clamps wouldn't
+get in the way. I clamped the vacuum right next to the router to minimize the
+amount of dust.
+
+[![](/assets/osmtm/table-9.jpg)](/assets/osmtm/full/table-9.jpg)
+
+In case the board wasn't strong enough to hold the router, I stacked up some
+scrap wood underneath it. This was also useful when I needed to adjust the
+plunge depth, as I could use the wood to hold the router in place while I
+tweaked the depth. 
+
+[![](/assets/osmtm/table-10.jpg)](/assets/osmtm/full/table-10.jpg)
+
+I ended up needing to cut another hole in my fence, as the first one I made was
+too wide, and it made cutting smaller pieces difficult.
+
+[![](/assets/osmtm/table-11.jpg)](/assets/osmtm/full/table-11.jpg)
+
+Later on in the day I started to glue the cabinet together. I did a test fit
+before to make sure all the panels fit together properly. 
+
+I prepared by putting plenty of newspaper down, and getting a damp cloth ready
+to wipe off excess glue.
+
+[![](/assets/osmtm/glue-1.jpg)](/assets/osmtm/full/glue-1.jpg)
+
+I started with one corner, clamping it for half an hour, and then doing another
+corner. I left the cabinet clamped overnight, for maximum strength.
+
+[![](/assets/osmtm/glue-2.jpg)](/assets/osmtm/full/glue-2.jpg)
+
+## Day 7: Glueing & Bracing
+
+The first cabinet I glued was finished, and I was quite impressed by how strong
+it feels.
+
+I glued the second cabinet, this time doing two corners at a time to speed up
+the process.
+
+[![](/assets/osmtm/glue-3.jpg)](/assets/osmtm/full/glue-3.jpg)
+
+I'll need to do a bit of sanding, but overall I think the glueing went pretty
+well. The brace and back panel are not glued in yet.
+
+[![](/assets/osmtm/glue-4.jpg)](/assets/osmtm/full/glue-4.jpg)
+
+The Dayton tweeters arrived. They were a bit smaller than I
+expected, probably because I was assuming that would be similar to the HiVi T-20
+that
+[meniscus.com](http://meniscusaudio.com/overnight-sensation-pair-p-1243.html)
+offers.
+
+The diameter of hole needed to mount the tweeter is 33mm.
+The flange around it has a diameter of 45mm and is 2.25mm thick.
+
+[![](/assets/osmtm/tweeter-1.jpg)](/assets/osmtm/full/tweeter-1.jpg)
+
+Time to cut the brace supports with a jigsaw.
+
+[![](/assets/osmtm/brace-1.jpg)](/assets/osmtm/full/glue-1.jpg)
+
+My jigsawing skills aren't the greatest, but it doesn't too much, as you will
+not be able to see the brace once it's installed.
+
+[![](/assets/osmtm/brace-2.jpg)](/assets/osmtm/full/glue-2.jpg)
+[![](/assets/osmtm/brace-3.jpg)](/assets/osmtm/full/glue-3.jpg)
+[![](/assets/osmtm/brace-4.jpg)](/assets/osmtm/full/glue-4.jpg)
+
+I gave the edges a quick sand to smooth them a bit. Not at all necessary, but
+it might make installing the midwoofer and tweeter a bit nicer.
+
+[![](/assets/osmtm/brace-5.jpg)](/assets/osmtm/full/glue-5.jpg)
+
+Here is how the braces look installed in the cabinets. I haven't glued them in
+yet. I think I'll wait until the rest of the parts arrive.
+
+[![](/assets/osmtm/brace-6.jpg)](/assets/osmtm/full/glue-6.jpg)
+

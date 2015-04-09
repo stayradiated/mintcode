@@ -1,5 +1,5 @@
 +++
-title = "Overnight Sensation MTM"
+title = "Overnight Sensation MTM Speakers"
 date = "2015-04-05"
 author = "George Czabania"
 image = "/assets/osmtm/sketchup.jpg"
@@ -307,3 +307,83 @@ yet. I think I'll wait until the rest of the parts arrive.
 
 [![](/assets/osmtm/brace-6.jpg)](/assets/osmtm/full/glue-6.jpg)
 
+## Day 8: DIY Circle Jig
+
+It rained again today. The parts are still in transit, so there wasn't much to
+do except build the circle jig so I can cut cicles with the router.
+
+I went with a design I saw on [Richard Morley's YouTube
+Channel](https://youtu.be/b37LyYIO0sA?list=PLe27g672GxSaAMvcp8t5OI3Mzyg3m-GfY)
+where the center point is fixed and the router slides back and forth on rails.
+
+I started by marking out what I needed on some spare hardboard. I then cut out
+the pieces using a jigsaw.
+
+[![](/assets/osmtm/circle-1.jpg)](/assets/osmtm/full/circle-1.jpg)
+
+To make the jig a bit stronger, and because the only thick washer I could find
+was thicker than a single piece of board, I decided to glue two pieces
+together.
+
+I then drilled a hole for the washer.
+
+[![](/assets/osmtm/circle-2.jpg)](/assets/osmtm/full/circle-2.jpg)
+
+The washer is used to protect the wood from being eroded when it rotates around
+the center bolt.
+
+[![](/assets/osmtm/circle-3.jpg)](/assets/osmtm/full/circle-3.jpg)
+
+I then used the radial-arm saw to square up the edges.
+
+[![](/assets/osmtm/circle-5.jpg)](/assets/osmtm/full/circle-5.jpg)
+
+I gave the edges a quick sanding to make them a bit smoother.
+
+[![](/assets/osmtm/circle-4.jpg)](/assets/osmtm/full/circle-4.jpg)
+
+To make the rails for the router, I first drilled holes at one end, then used
+my table router to cut a straight line.
+
+[![](/assets/osmtm/circle-6.jpg)](/assets/osmtm/full/circle-6.jpg)
+[![](/assets/osmtm/circle-7.jpg)](/assets/osmtm/full/circle-7.jpg)
+
+I then used a larger cutter to cut out channels a couple millimeters deep so
+that a washer could fit in there.
+
+[![](/assets/osmtm/circle-8.jpg)](/assets/osmtm/full/circle-8.jpg)
+
+I found a couple old washers that were the right size.
+
+[![](/assets/osmtm/circle-9.jpg)](/assets/osmtm/full/circle-9.jpg)
+
+Unfortunately I didn't cut the channels deep enough to cover for the washer and
+the head of the bolt. By this time I had already disassembled my table router,
+so I'll probably fix this tomorrow.
+
+[![](/assets/osmtm/circle-10.jpg)](/assets/osmtm/full/circle-10.jpg)
+
+I attached the router to the circle jig, and cut the center rail for the cutter
+bit to go through.
+
+[![](/assets/osmtm/circle-12.jpg)](/assets/osmtm/full/circle-12.jpg)
+
+It was getting quite dark, so I decided to give it quick test before packing
+up. I found a bit of scrap MDF and drilled a hole so I could fit a bolt through
+it.
+
+[![](/assets/osmtm/circle-13.jpg)](/assets/osmtm/full/circle-13.jpg)
+
+I then fit the router with the circle jig attached over the bolt. Tomorrow,
+I might cut the bolt down a bit, as I'll need to cut circles where the bolt
+will be under the router.
+
+[![](/assets/osmtm/circle-14.jpg)](/assets/osmtm/full/circle-14.jpg)
+
+The result was pretty decent.
+
+[![](/assets/osmtm/circle-11.jpg)](/assets/osmtm/full/circle-11.jpg)
+
+The finished circle jig. Just need to make the channels a little deeper.
+
+[![](/assets/osmtm/circle-15.jpg)](/assets/osmtm/full/circle-15.jpg)

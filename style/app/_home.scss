@@ -72,9 +72,15 @@
     }
   }
 
+  .links {
+    margin-top: 2rem;
+  }
+
   .button {
-    @include button(
-      $c_fg, darken($c_bg, 10),
+    display: inline-block;
+
+    @include mediumButton(
+      $c_fg, darken($c_bg, 5),
       $white, $blue
     );
   }

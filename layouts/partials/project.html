@@ -12,9 +12,15 @@
   <div class='info'>
     {{ .Content }}
 
-    {{ if .Params.productlink }}
-    <a class='button' href="{{ .Params.productlink }}" target="_blank">View Product</a>
-    {{ end }}
+    <div class='links'>
+      {{ if .Params.productlink }}
+      <a class='button' href="{{ .Params.productlink }}" target="_blank">View Product</a>
+      {{ end }}
+
+      {{ if .Params.sourcelink }}
+      <a class='button' href="{{ .Params.sourcelink }}" target="_blank">View Source</a>
+      {{ end }}
+    </div>
   </div>
 
 </article>

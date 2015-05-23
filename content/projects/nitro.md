@@ -5,6 +5,8 @@ type = "project"
 
 image = "/assets/home/nitro.jpg"
 
+sourcelink = "https://github.com/caffeinatedcode/nitro"
+
 weight = 3
 +++
 
@@ -15,4 +17,3 @@ weight = 3
 - Languages: JavaScript, CoffeeScript
 
 Task management web app with realtime syncing using websockets.
-

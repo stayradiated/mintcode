@@ -87,10 +87,13 @@ header {
   }
 
   .button {
-    @include button(
+    @include largeButton(
       $white, $button,
       #35A0E7, #297CB2
     );
+
+    margin: 0 auto;
+    display: table;
   }
 
 }

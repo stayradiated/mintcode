@@ -1,6 +1,4 @@
-@mixin button($fg, $bg, $fg_hover, $bg_hover) {
-    margin: 0 auto;
-    display: table;
+@mixin largeButton($fg, $bg, $fg_hover, $bg_hover) {
     padding: 1.2rem 2rem;
     border-radius: 10rem;
 
@@ -10,6 +8,27 @@
 
     font-size: 1.5rem;
     letter-spacing: 0.2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: $f_head;
+
+    &:hover {
+      color: $fg_hover;
+      background: $bg_hover;
+      text-decoration: none;
+    }
+}
+
+@mixin mediumButton($fg, $bg, $fg_hover, $bg_hover) {
+    padding: 1rem 1.5rem;
+    border-radius: 10rem;
+
+    color: $fg;
+    background: $bg;
+    border: 2px solid $bg;
+
+    font-size: 1.1rem;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
     font-weight: bold;
     font-family: $f_head;

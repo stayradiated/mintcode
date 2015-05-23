@@ -6,6 +6,9 @@ type = "project"
 image = "/assets/home/terminal.sexy.jpg"
 
 weight = 2
+
+productlink = "http://term.kitchen"
+sourcelink = "http://github.com/stayradiated/term.kitchen"
 +++
 
 ## term.kitchen

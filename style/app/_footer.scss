@@ -1,0 +1,57 @@
+footer {
+  @include cf();
+
+  $bg: #ecf0f1;
+
+  background: $bg;
+  border-top: 4px solid darken($bg, 5);
+  padding-bottom: 5rem;
+
+  section {
+    @include column(1/2, $cycle: 2);
+    font-family: $f_head;
+  }
+
+  p, strong, em, li, a {
+    font-size: 1.4rem;
+  }
+
+  a {
+    text-transform: uppercase;
+  }
+
+  ul {
+    margin: 0;
+
+    li {
+      list-style-type: none;
+      line-height: 3rem;
+    }
+  }
+
+  h4 {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid lighten($c_fg, 60);
+  }
+
+  .lastfm-recent {
+    // jquery will display the element when it has finished loading the last.fm
+    // data.
+    display: none;
+
+    color: lighten($c_fg, 30);
+
+    .track, .artist {
+      text-transform: uppercase;
+    }
+
+    em {
+      font-family: 'georgia', 'serif';
+      font-style: italic;
+      font-weight: normal;
+      padding: 0 0.5rem;
+    }
+  }
+}

@@ -1,37 +1,16 @@
 'use strict';
 
 (function () {
-  var msnry;
 
-  if (! window.hasOwnProperty('Masonry')) {
-    Typekit.load();
-    return;
-  }
+  var url = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=stayradiated&api_key=64a766550a2c89e633fe7e919c2c7fbe&limit=2&format=json";
 
-  function triggerMasonry() {
-    // don't proceed if masonry has not been initialized
-    if (! msnry) { return; }
-    msnry.layout();
-  }
-
-  // initialize masonry on document ready
-  docReady(function() {
-    var container = '.project-section';
-
-    msnry = new Masonry(container, {
-      gutter: 10,
-      itemSelector: '.project',
-      columnWidth: 325,
-    });
-
-    imagesLoaded(container, function() {
-      msnry.layout();
-    });
+  $.get(url).then(function(response) {
+    var track = response.recenttracks.track[0];
+    var el = $('.lastfm-recent');
+    el.find('.track').html(track.name);
+    el.find('.artist').html(track.artist['#text']);
+    el.show();
   });
 
-  // trigger masonry when fonts have loaded
-  Typekit.load({
-    active: triggerMasonry,
-    inactive: triggerMasonry
-  });
+
 }());

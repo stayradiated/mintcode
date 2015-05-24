@@ -1,48 +1,96 @@
-.header {
-  $height: 6rem;
-  background: $c_bg;
-  border-bottom: 0.5rem solid $s_bg;
+.cf {
+  @include cf();
+}
+
+header {
+  $shadow: #2470A1;
+  $button: #3092D3;
+
+  background: $blue url('../img/peter_polygon.png') 50% 0;
+  border-bottom: 4px solid $shadow;
+
+  padding-top: 2rem;
+  padding-bottom: 5rem;
 
   h1 {
     margin: 0;
     float: left;
 
-    line-height: $height;
-    font-size: $height/2;
-    text-transform: lowercase;
+    $size: 2.5rem;
+
+    line-height: $size*1.5;
+    font-size: $size;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
 
     a {
-      color: $c_hd;
+      color: $white;
     }
   }
 
-  .nav {
+  nav {
     float: right;
     margin: 0;
     padding: 0;
   }
 
+  ul {
+    font-size: 0;
+  }
+
   li {
-    display: inline;
+    display: inline-block;
+
+    $size: 1.5rem;
 
     a {
-      color: $c_fg;
+      color: $white;
       text-transform: uppercase;
 
       font-weight: bold;
-      font-size: $height/5;
-      line-height: $height;
+      font-size: $size;
+      line-height: $size*1.5;
+      letter-spacing: 0.1rem;
+
+      padding-bottom: 0.3rem;
+
+      transition: border 0.5s ease;
+      border-bottom: 1px solid transparent;
     }
 
     &:after {
-      content: '•';
-      padding: 0 1rem;
-      color: lighten($c_fg, 20);
+      content: '/';
+      padding: 0 1.5rem;
+      font-size: $size;
+      font-weight: bold;
+      color:  $white;
     }
 
     &:last-child:after {
       content: '';
       padding: 0;
     }
+
+    &.active a, a:hover {
+      text-decoration: none;
+      border-bottom: 1px solid $white;
+    }
   }
+
+  .intro {
+    margin: 4rem 0;
+    display: block;
+    color: $white;
+    font-size: 2.2rem;
+    line-height: 2.2*1.5rem;
+    text-align: center;
+  }
+
+  .button {
+    @include button(
+      $white, $button,
+      #35A0E7, #297CB2
+    );
+  }
+
 }

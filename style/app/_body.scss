@@ -1,9 +1,7 @@
 body {
-  background: $c_bg url('bg.png');
+  background: $white;
   color: $c_fg;
 
   font-family: $f_body;
   overflow-x: hidden;
-
-  padding-bottom: 3rem;
 }

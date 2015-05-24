@@ -1,16 +1,15 @@
 +++
-author = "George Czabania"
-date = "2013-01-06"
-description = "The 'best' RSS reader on Ubuntu"
-title = "lightread"
+date = "2015-05-24T09:53:16+12:00"
+title = "Lightread"
 type = "project"
-link = "Github"
 
-[commits]
-  first = "2012-07-19"
-  total = "51"
+image = "/assets/home/lightread.jpg"
 
-[links]
-  Github = "https://github.com/stayradiated/LightRead"
+weight = 4
 +++
 
+## Lightread RSS Reader
+
+- Client: Ubuntu App Showdown
+- Date: June 2012
+- Language: JavaScript, Python

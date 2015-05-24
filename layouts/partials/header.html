@@ -1,29 +1,42 @@
 <!DOCTYPE html>
-<html lang='en'>
+<html lang="en">
 <head>
-  <meta charset='UTF-8'>
+  <meta charset="UTF-8">
   {{ if eq .Site.Title .Title }}
     <title>{{ .Site.Title }}</title>
   {{ else }}
     <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
   {{ end }}
-  <link rel='stylesheet' href='/css/main.css'>
-  <script src='//use.typekit.net/cne2rvi.js'></script>
-  {{ if eq .Title "Mintcode" }}
-    <script src='/js/masonry.pkgd.min.js'></script>
-    <script src='/js/imagesloaded.pkgd.min.js'></script>
-  {{ end }}
-  <script src='/js/main.js'></script>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/icons/light.css">
+  <script src="//use.typekit.net/cne2rvi.js"></script>
+  <script>Typekit.load();</script>
 </head>
 <body>
+  <header>
+    <div class="container">
 
-  <header class='header'>
-    <div class='container'>
-      <h1><a href='/'>MintCode</a></h1>
-      <ul class='nav'>
-        <li><a href='/blog'>blog</a></li>
-        <li><a href='https://github.com/stayradiated'>github</a></li>
+      <h1><a href="/">MintCode</a></h1>
+
+      <nav>
+      <ul>
+        {{ $currentNode := . }}
+        {{ range .Site.Menus.main }}
+        <li {{ if $currentNode.IsMenuCurrent "main" . }} class="active"{{ end }}>
+          <a href="{{ .URL }}">
+            {{ .Pre }}<span>{{ .Name }}</span>{{ .Post }}
+          </a>
+        </li>
+        {{ end }}
       </ul>
+      </nav>
+
+      <div class="cf"></div>
+
+      <p class="intro">Mintcode is a one-man design &amp; development
+      studio,<br>focused on crafting elegant web experiences.</p>
+
+      <a href="/about" class="button">Learn More</a>
+
     </div>
   </header>
-

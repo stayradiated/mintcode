@@ -4,3 +4,18 @@ title = "Mintcode"
 
 [Params]
   DateForm = "2006-01-02"
+
+[[menu.main]]
+  Name = "Projects"
+  Weight = 1
+  Url = "/"
+
+[[menu.main]]
+  Name = "Journal"
+  Weight = 3
+  Url = "/journal"
+
+[[menu.main]]
+  Name = "Contact"
+  Weight = 4
+  Url = "mailto:george@czabania.com"

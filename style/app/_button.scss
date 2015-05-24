@@ -1,0 +1,22 @@
+@mixin button($fg, $bg, $fg_hover, $bg_hover) {
+    margin: 0 auto;
+    display: table;
+    padding: 1.2rem 2rem;
+    border-radius: 10rem;
+
+    color: $fg;
+    background: $bg;
+    border: 2px solid $bg;
+
+    font-size: 1.5rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: $f_head;
+
+    &:hover {
+      color: $fg_hover;
+      background: $bg_hover;
+      text-decoration: none;
+    }
+}

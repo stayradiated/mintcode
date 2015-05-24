@@ -1,2 +1,44 @@
+  <footer>
+
+    <div class="container">
+
+      <section>
+        <h4>From The Journal</h4>
+        <ul>
+          {{ range first 3 (where $.Site.Pages "Section" "journal") }}
+            <li>
+              <a href="{{ .Permalink }}" title="{{ .LinkTitle }}">{{ .Title }}</a>
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+
+      <section>
+        <h4>Around The Web</h4>
+        <a href="http://twitter.com/stayradiated" class="csmb-flat csmb-round twitter"></a>
+        <a href="http://bitbucket.org/stayradiated" class="csmb-flat csmb-round bitbucket"></a>
+        <a href="http://github.com/stayradiated" class="csmb-flat csmb-round github"></a>
+      </section>
+
+      <section>
+        <h4>Rockin' Out To</h4>
+        <div class="lastfm-recent">
+          <strong class="track"></strong>
+          <em>by</em><strong class="artist"></strong>
+        </div>
+      </section>
+
+      <section>
+        <h4>Get In Touch</h4>
+        <a href="mailto:george@czabania.com">george@czabania.com</a>
+      </section>
+
+    </div>
+
+  </footer>
+
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="/js/main.js"></script>
+
 </body>
 </html>

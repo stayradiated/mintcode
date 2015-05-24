@@ -5,3 +5,7 @@ html {
 .container {
   @include center(96rem, 2rem);
 }
+
+.container-thin {
+  @include center(65rem, 2rem);
+}

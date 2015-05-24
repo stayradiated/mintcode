@@ -1,0 +1,8 @@
+{{ if .Params.image }}
+<a class="image" href="#{{ .Title }}">
+  <img src="{{ .Params.image }}" alt="" />
+  <div class="overlay">
+    <h5>{{ .Title }}</h5>
+  </div>
+</a>
+{{ end }}

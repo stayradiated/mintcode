@@ -4,19 +4,34 @@
 
   <section class="projects">
     <h4>Projects</h4>
-    {{ range where .Data.Pages.ByWeight "Type" "project" }}
-      {{ partial "project.html" . }}
+    {{ range $index, $element := where .Data.Pages.ByWeight "Type" "project" }}
+      <article>
+        {{ if eq (mod $index 2) 0 }}
+          {{ partial "project_info.html" . }}
+          {{ partial "project_image.html" . }}
+        {{ else }}
+          {{ partial "project_image.html" . }}
+          {{ partial "project_info.html" . }}
+        {{ end}}
+      </article>
     {{ end }}
   </section>
 
   <section class="experiments">
     <h4>Experiments</h4>
-    {{ range where .Data.Pages.ByWeight "Type" "experiment" }}
-      {{ partial "project.html" . }}
+    {{ range $index, $element := where .Data.Pages.ByWeight "Type" "experiment" }}
+      <article>
+        {{ if eq (mod $index 2) 0 }}
+          {{ partial "project_info.html" . }}
+          {{ partial "project_image.html" . }}
+        {{ else }}
+          {{ partial "project_image.html" . }}
+          {{ partial "project_info.html" . }}
+        {{ end}}
+      </article>
     {{ end }}
   </section>
 
 </main>
-
 
 {{ partial "footer.html" . }}

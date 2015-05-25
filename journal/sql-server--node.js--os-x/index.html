@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+    <title>SQL Server &#43; node.js &#43; OS X &middot; Mintcode</title>
+  
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/icons/light.css">
+  <script src="//use.typekit.net/cne2rvi.js"></script>
+  <script>Typekit.load();</script>
+</head>
+<body>
+  <header>
+    <div class="container">
+
+      <h1><a href="/">Mintcode</a></h1>
+
+      <nav>
+      <ul>
+        
+        
+        <li >
+          <a href="/">Projects</a>
+        </li>
+        
+        <li >
+          <a href="/about/">About</a>
+        </li>
+        
+        <li >
+          <a href="/journal/">Journal</a>
+        </li>
+        
+        <li >
+          <a href="mailto:george@czabania.com">Contact</a>
+        </li>
+        
+      </ul>
+      </nav>
+
+      <div class="cf"></div>
+
+      <p class="intro">Mintcode is a one-man design &amp; development
+      studio,<br>focused on crafting elegant web experiences.</p>
+
+      <a href="/about" class="button">Learn More</a>
+
+    </div>
+  </header>
+
+
+<main class='article-single container-thin'>
+
+  
+
+  <h1 class='title'>SQL Server &#43; node.js &#43; OS X</h1>
+
+  <p class='meta'>Posted on <time datetime=''>January 20, 2014</time>
+  by <span class='author'>Jono Cooper</span></p>
+
+  
+
+<p>Windows Azure Web Sites supports a number of platforms including node.js but only offers SQL Server for database hosting. It&rsquo;s a little confusing to get set up, especially if you&rsquo;re not running Windows.</p>
+
+<p>For starters, you probably don&rsquo;t want to be using <a href="https://github.com/windowsazure/node-sqlserver">Microsoft&rsquo;s official driver for node.js</a>. It only runs on Windows and you need to download a bunch of huge dependencies to even compile it. The pre-built binaries that Microsoft offer didn&rsquo;t work for me either.</p>
+
+<p>Instead, I recommend using <a href="https://github.com/patriksimek/node-mssql">node-mssql</a> to connect to SQL Server. It works on all platforms, and doesn&rsquo;t require a crazy compilation step. However, it took me a while to even get a database connection because it loves to throw connection errors silently.</p>
+
+<h3 id="local-server:416f0b7fe4b6cf9de851a80368921304">Local Server</h3>
+
+<p>If you&rsquo;re running your own local SQL Server, you&rsquo;ll want to create a SQL user first - the standard Windows Authentication doesn&rsquo;t work with the node driver. My local SQL Server was located at <code>SERVER\SQLEXPRESS</code> but you&rsquo;ll have to specify this manually like in the example below.</p>
+
+<pre><code>{
+  user: 'username',
+  password: 'password',
+  server: 'SERVER',
+  database: 'database',
+  options: {
+    port: '',
+    instanceName: 'SQLEXPRESS'
+  }
+}
+</code></pre>
+
+<h3 id="windows-azure:416f0b7fe4b6cf9de851a80368921304">Windows Azure</h3>
+
+<p>Windows Azure also requires some special configuration. Connections have to be encrypted and you&rsquo;ll need to use a special format for your username.</p>
+
+<pre><code>{
+  user: 'username@server.database.windows.net',
+  password: 'password',
+  server: 'server.database.windows.net',
+  database: 'database',
+  options: {
+    encrypt: true
+  }
+}
+</code></pre>
+
+<p>So, that&rsquo;s it. After using these connection settings, you&rsquo;ll hopefully be able to query away. This took way too much time to figure out, so I hope this helps anyone who&rsquo;s having similar issues.</p>
+
+</main>
+
+  <footer>
+
+    <div class="container">
+
+      <section>
+        <h4>From The Journal</h4>
+        <ul>
+          
+            <li>
+              <a href="http://mintco.de/journal/overnight-sensations-mtm/" title="Overnight Sensation MTM Speakers">Overnight Sensation MTM Speakers</a>
+            </li>
+          
+            <li>
+              <a href="http://mintco.de/journal/lm3886-stereo-amp/" title="LM3886 Chip Amplifier">LM3886 Chip Amplifier</a>
+            </li>
+          
+            <li>
+              <a href="http://mintco.de/journal/termcolors/" title="termcolors">termcolors</a>
+            </li>
+          
+        </ul>
+      </section>
+
+      <section>
+        <h4>Around The Web</h4>
+        <a href="http://twitter.com/stayradiated" class="csmb-flat csmb-round twitter"></a>
+        <a href="http://bitbucket.org/stayradiated" class="csmb-flat csmb-round bitbucket"></a>
+        <a href="http://github.com/stayradiated" class="csmb-flat csmb-round github"></a>
+      </section>
+
+      <section>
+        <h4>Rockin' Out To</h4>
+        <div class="lastfm-recent">
+          <strong class="track"></strong>
+          <em>by</em><strong class="artist"></strong>
+        </div>
+      </section>
+
+      <section>
+        <h4>Get In Touch</h4>
+        <a href="mailto:george@czabania.com">george@czabania.com</a>
+      </section>
+
+    </div>
+
+  </footer>
+
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="/js/lightbox.min.js"></script>
+<script src="/js/main.js"></script>
+
+</body>
+</html>
+

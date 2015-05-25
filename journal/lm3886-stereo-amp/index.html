@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+    <title>LM3886 Chip Amplifier &middot; Mintcode</title>
+  
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/icons/light.css">
+  <script src="//use.typekit.net/cne2rvi.js"></script>
+  <script>Typekit.load();</script>
+</head>
+<body>
+  <header>
+    <div class="container">
+
+      <h1><a href="/">Mintcode</a></h1>
+
+      <nav>
+      <ul>
+        
+        
+        <li >
+          <a href="/">Projects</a>
+        </li>
+        
+        <li >
+          <a href="/about/">About</a>
+        </li>
+        
+        <li >
+          <a href="/journal/">Journal</a>
+        </li>
+        
+        <li >
+          <a href="mailto:george@czabania.com">Contact</a>
+        </li>
+        
+      </ul>
+      </nav>
+
+      <div class="cf"></div>
+
+      <p class="intro">Mintcode is a one-man design &amp; development
+      studio,<br>focused on crafting elegant web experiences.</p>
+
+      <a href="/about" class="button">Learn More</a>
+
+    </div>
+  </header>
+
+
+<main class='article-single container-thin'>
+
+  
+  <img class='main-img' src='/assets/lm3886/thumb.jpg' alt='LM3886 Chip Amplifier' />
+  
+
+  <h1 class='title'>LM3886 Chip Amplifier</h1>
+
+  <p class='meta'>Posted on <time datetime=''>March 5, 2015</time>
+  by <span class='author'>George Czabania</span></p>
+
+  
+
+<h1 id="building-a-chip-amplifier:6d13c9b70a9c65b39e26e2e50daf4b01">Building a Chip Amplifier</h1>
+
+<p>In preparation to this project, I built a <a href="/projects/lm380-stereo-amp/">LM380 chip
+amp</a>, which was cheaper and easier and makes for a
+good weekend project.</p>
+
+<hr />
+
+<p><strong>Project Goal</strong></p>
+
+<p>I want to build an amplifier. Mainly because I need something to connect an
+iPhone to a set of speakers.</p>
+
+<p><strong>Warning</strong>: This project requires working with mains supply voltages, which
+can be lethal if you don&rsquo;t take the proper precautions.</p>
+
+<p>My original idea was to use a LM386 IC and $20 worth of parts to make a 0.5W
+amp powered using 12v, but now I&rsquo;m thinking I need to make something with a bit
+more oomph.</p>
+
+<p>Then I discovered the gainclone amplifier, which appears to be quite popular in
+the DIY audio community.</p>
+
+<p>After researching different circuits and variations, I settled on the kitset
+from <a href="http://chipamp.com">chipamp.com</a>. I chose the <a href="http://chipamp.com/product/non-inverting-lm3886-stereo-amplifier-kit/">Non-Inverting LM3886
+stereo
+kit</a>,
+which included a &lsquo;snubberized&rsquo; power supply board, and was also on special.</p>
+
+<p>However, the kit supplys only the parts for the power supply board and
+the two amplifiers. There is still quite a lot you need to do.</p>
+
+<h2 id="the-chipamp-kit:6d13c9b70a9c65b39e26e2e50daf4b01">The Chipamp Kit</h2>
+
+<p><a href="/assets/lm3886/full/parts-layout.jpg"><img src="/assets/lm3886/parts-layout.jpg" alt="All the parts meticulously laid
+out" />
+</a></p>
+
+<h3 id="the-full-bridge-rectifier:6d13c9b70a9c65b39e26e2e50daf4b01">The Full Bridge Rectifier</h3>
+
+<p>This converts AC to DC using a bunch of diodes in a clever pattern. I&rsquo;m going
+to go for the &lsquo;snubberized&rsquo; version.</p>
+
+<p>The circuit is based on one developed by Carlos Machado, which allows it drive
+more difficult loads without adversly affecting the midrange and top end sound.
+<a href="http://www.decdun.me.uk/gainclonesnub.html">More information here</a>.</p>
+
+<p>There are two identical circuits, each with a full bridge rectifiers. The dual
+circuits are for the left and right audio channels.</p>
+
+<p><img src="http://chipamp.com/beta2/wp-content/uploads/ps-rev3-sch.png" alt="" />
+</p>
+
+<p>Parts list (included with kit):</p>
+
+<pre><code>2x 10000 uF 50v Panasonic TS Capacitors (35mm x 30mm low profile)
+4x 0.1 uf film caps
+8x MUR860 On Semiconductor Diodes
+2x 2.2 kohm 2w metal film resistors
+2x 1 ohm 2w metal film resistors
+1x blue LED
+1x 1N4004 diode
+1x 10 kohm 0.5w compact metal film resistor
+1x 10 uF Panasonic FC Capacitors
+</code></pre>
+
+<p><a href="/assets/lm3886/full/finished-chip-amps.jpg"><img src="/assets/lm3886/finished-chip-amps.jpg" alt="" />
+</a></p>
+
+<h3 id="amplifier:6d13c9b70a9c65b39e26e2e50daf4b01">Amplifier</h3>
+
+<p>Parts list (included with kit):</p>
+
+<pre><code>2x LM3886TF
+4x 22 kohm 0.5w compact metal film resistors
+2x 10 kohm 0.5w compact metal film resistors
+2x 1 kohm 0.5w compact metal film resistors
+2x 680 ohm 0.5w compact metal film resistors
+2x 2.7 ohm 2w metal film resistors
+6x 100 uf 50v Panasonic FC
+2x 47 uf 50v Panasonic FC
+6x 0.1 uf film caps
+</code></pre>
+
+<h2 id="the-power-supply:6d13c9b70a9c65b39e26e2e50daf4b01">The Power Supply</h2>
+
+<p>This is pretty important. You don&rsquo;t want to just use any old power supply,
+because it will likely introduce a humming sound to audio output. I decided to
+use a toroidal transformer.</p>
+
+<p><a href="http://nz.rs-online.com/web/p/toroidal-transformers/2238178/">225VA 2x25V AC Toroidal
+Transformer</a></p>
+
+<p>Recommended reading: <a href="http://www.decdun.me.uk/gainclone_psu.html">Decible Dungeoun - Building a
+PSU</a>.</p>
+
+<p><strong>Required Components</strong></p>
+
+<ul>
+<li><strong>IEC C13 power supply cable</strong>. The same cable you would use to plug into a
+computer or monitor. I happen have a bunch of these lying around.</li>
+<li><strong>IEC C14 panel mount socket</strong>. I chose to get one with a built in switch
+and fuse so it&rsquo;s a bit safer to work with.</li>
+<li><strong>2AT Fuse</strong>. Needs to work with 230v and has to be anti-surge to work with
+the transformer.</li>
+<li><strong>Toroidal Transformer</strong>. This is one of the most expensive parts of the
+project. From what I&rsquo;ve read it should support at least 120VA (not entirely
+sure what that means) and needs to work with 230v AC and output something
+between 20-38v AC.</li>
+</ul>
+
+<p><a href="/assets/lm3886/full/iec-socket.jpg"><img src="/assets/lm3886/iec-socket.jpg" alt="" />
+</a></p>
+
+<h2 id="preamplifier:6d13c9b70a9c65b39e26e2e50daf4b01">Preamplifier</h2>
+
+<p><a href="/assets/lm3886/full/preamp-7.jpg"><img src="/assets/lm3886/preamp-7.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/preamp-5.jpg"><img src="/assets/lm3886/preamp-5.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/preamp-6.jpg"><img src="/assets/lm3886/preamp-6.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/preamp-1.jpg"><img src="/assets/lm3886/preamp-1.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/preamp-2.jpg"><img src="/assets/lm3886/preamp-2.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/preamp-3.jpg"><img src="/assets/lm3886/preamp-3.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/controls.jpg"><img src="/assets/lm3886/controls.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/preamp-4.jpg"><img src="/assets/lm3886/preamp-4.jpg" alt="" />
+</a></p>
+
+<h2 id="preamplifier-power:6d13c9b70a9c65b39e26e2e50daf4b01">Preamplifier Power</h2>
+
+<p><a href="/assets/lm3886/full/regulator-1.jpg"><img src="/assets/lm3886/regulator-1.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/regulator-2.jpg"><img src="/assets/lm3886/regulator-2.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/regulator-3.jpg"><img src="/assets/lm3886/regulator-3.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/regulator-4.jpg"><img src="/assets/lm3886/regulator-4.jpg" alt="" />
+</a></p>
+
+<h2 id="trying-it-out:6d13c9b70a9c65b39e26e2e50daf4b01">Trying it out</h2>
+
+<p><a href="/assets/lm3886/full/before-box.jpg"><img src="/assets/lm3886/before-box.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/table-1.jpg"><img src="/assets/lm3886/table-1.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/table-2.jpg"><img src="/assets/lm3886/table-2.jpg" alt="" />
+</a></p>
+
+<h2 id="the-box:6d13c9b70a9c65b39e26e2e50daf4b01">The Box</h2>
+
+<p><a href="/assets/lm3886/full/cutting-box-4.jpg"><img src="/assets/lm3886/cutting-box-4.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/cutting-box-5.jpg"><img src="/assets/lm3886/cutting-box-5.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/cutting-box-6.jpg"><img src="/assets/lm3886/cutting-box-6.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/cutting-box-3.jpg"><img src="/assets/lm3886/cutting-box-3.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/cutting-box-1.jpg"><img src="/assets/lm3886/cutting-box-1.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/cutting-box-2.jpg"><img src="/assets/lm3886/cutting-box-2.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/drilling-1.jpg"><img src="/assets/lm3886/drilling-1.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/drilling-2.jpg"><img src="/assets/lm3886/drilling-2.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/drilling-4.jpg"><img src="/assets/lm3886/drilling-4.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/painting-1.jpg"><img src="/assets/lm3886/painting-1.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/drilling-3.jpg"><img src="/assets/lm3886/drilling-3.jpg" alt="" />
+</a></p>
+
+<h2 id="installing-components-in-box:6d13c9b70a9c65b39e26e2e50daf4b01">Installing Components in Box</h2>
+
+<p><a href="/assets/lm3886/full/table-3.jpg"><img src="/assets/lm3886/table-3.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/inputs.jpg"><img src="/assets/lm3886/inputs.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/box-mounts.jpg"><img src="/assets/lm3886/box-mounts.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/without-lid.jpg"><img src="/assets/lm3886/without-lid.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/fitting-components.jpg"><img src="/assets/lm3886/fitting-components.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/with-lid.jpg"><img src="/assets/lm3886/with-lid.jpg" alt="" />
+</a></p>
+
+<h2 id="complete:6d13c9b70a9c65b39e26e2e50daf4b01">Complete</h2>
+
+<p><a href="/assets/lm3886/full/complete.jpg"><img src="/assets/lm3886/complete.jpg" alt="" />
+</a></p>
+
+<h2 id="bonus-shots:6d13c9b70a9c65b39e26e2e50daf4b01">Bonus Shots</h2>
+
+<p><a href="/assets/lm3886/full/lego-1.jpg"><img src="/assets/lm3886/lego-1.jpg" alt="" />
+</a>
+<a href="/assets/lm3886/full/lego-2.jpg"><img src="/assets/lm3886/lego-2.jpg" alt="" />
+</a></p>
+
+</main>
+
+  <footer>
+
+    <div class="container">
+
+      <section>
+        <h4>From The Journal</h4>
+        <ul>
+          
+            <li>
+              <a href="http://mintco.de/journal/overnight-sensations-mtm/" title="Overnight Sensation MTM Speakers">Overnight Sensation MTM Speakers</a>
+            </li>
+          
+            <li>
+              <a href="http://mintco.de/journal/lm3886-stereo-amp/" title="LM3886 Chip Amplifier">LM3886 Chip Amplifier</a>
+            </li>
+          
+            <li>
+              <a href="http://mintco.de/journal/termcolors/" title="termcolors">termcolors</a>
+            </li>
+          
+        </ul>
+      </section>
+
+      <section>
+        <h4>Around The Web</h4>
+        <a href="http://twitter.com/stayradiated" class="csmb-flat csmb-round twitter"></a>
+        <a href="http://bitbucket.org/stayradiated" class="csmb-flat csmb-round bitbucket"></a>
+        <a href="http://github.com/stayradiated" class="csmb-flat csmb-round github"></a>
+      </section>
+
+      <section>
+        <h4>Rockin' Out To</h4>
+        <div class="lastfm-recent">
+          <strong class="track"></strong>
+          <em>by</em><strong class="artist"></strong>
+        </div>
+      </section>
+
+      <section>
+        <h4>Get In Touch</h4>
+        <a href="mailto:george@czabania.com">george@czabania.com</a>
+      </section>
+
+    </div>
+
+  </footer>
+
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="/js/lightbox.min.js"></script>
+<script src="/js/main.js"></script>
+
+</body>
+</html>
+

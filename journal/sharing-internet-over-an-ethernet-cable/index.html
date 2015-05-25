@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+    <title>Sharing Internet over an Ethernet Cable &middot; Mintcode</title>
+  
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/icons/light.css">
+  <script src="//use.typekit.net/cne2rvi.js"></script>
+  <script>Typekit.load();</script>
+</head>
+<body>
+  <header>
+    <div class="container">
+
+      <h1><a href="/">Mintcode</a></h1>
+
+      <nav>
+      <ul>
+        
+        
+        <li >
+          <a href="/">Projects</a>
+        </li>
+        
+        <li >
+          <a href="/about/">About</a>
+        </li>
+        
+        <li >
+          <a href="/journal/">Journal</a>
+        </li>
+        
+        <li >
+          <a href="mailto:george@czabania.com">Contact</a>
+        </li>
+        
+      </ul>
+      </nav>
+
+      <div class="cf"></div>
+
+      <p class="intro">Mintcode is a one-man design &amp; development
+      studio,<br>focused on crafting elegant web experiences.</p>
+
+      <a href="/about" class="button">Learn More</a>
+
+    </div>
+  </header>
+
+
+<main class='article-single container-thin'>
+
+  
+
+  <h1 class='title'>Sharing Internet over an Ethernet Cable</h1>
+
+  <p class='meta'>Posted on <time datetime=''>June 7, 2013</time>
+  by <span class='author'>Jono Cooper</span></p>
+
+  
+
+<p>A few days ago, the phone jack for the modem stopped working and I had to move it to another part of the house. However our desktop doesn&rsquo;t have a wireless card so I dug out an old netbook with an Ethernet jack to use as a temporary solution.</p>
+
+<p>Start by connecting to the wireless network on the computer and using an ethernet cable to connect both devices. The device requiring a network connection won&rsquo;t require any special configuration besides using DHCP but there&rsquo;s a few easy steps required for the other.</p>
+
+<h2 id="windows:fd688f2579d565ca0acdda21b2e9a716">Windows</h2>
+
+<ol>
+<li>Open the <strong>Network and Sharing Center</strong> and click on <strong>Change Adapter Setting</strong> in the sidebar.</li>
+<li>Right click on <strong>Local Area Connection</strong> and select <strong>Properties</strong>
+<img src="http://files.mintco.de/site/images/lanproperties_windows.jpg" alt="LAN Properties" /></li>
+<li>Select <strong>Internet Protocol Version 4 (TCP/IPv4)</strong> and select <strong>Properties</strong>.</li>
+<li>Select <strong>Use the following IP Address</strong> and use something such as <strong>192.168.0.1</strong>. Use <strong>255.255.255.0</strong> as the subnet and leave the rest blank.</li>
+<li>When you&rsquo;re back at the network connections window, right click the <strong>Wireless Network Connection</strong> and select <strong>Properties</strong>.
+<img src="http://files.mintco.de/site/images/wlanproperties_windows.jpg" alt="Wireless LAN Properties" /></li>
+<li>Switch to the <strong>Sharing</strong> tab and tick <strong>Allow other network users to connect through this computers internet connection</strong>. Select <strong>Local Area Connection</strong> as the adapter.</li>
+<li>Hit <strong>ok</strong>, <strong>close</strong> and you&rsquo;re done!</li>
+</ol>
+
+<h2 id="os-x:fd688f2579d565ca0acdda21b2e9a716">OS X</h2>
+
+<ol>
+<li>Open <strong>System Preferences &rarr; Sharing</strong>.</li>
+<li>Select <strong>Internet Sharing</strong> and choose the interfaces you would like to share on (My Mac does not have an Ethernet jack).
+<img src="http://files.mintco.de/site/images/internetsharing_mac.png" alt="Internet Sharing Mac" /></li>
+<li>Tick the checkbox and you&rsquo;re done!</li>
+</ol>
+
+<h2 id="ubuntu:fd688f2579d565ca0acdda21b2e9a716">Ubuntu</h2>
+
+<ol>
+<li>Click the wireless icon and select <strong>Edit Connections</strong> in the dropdown.</li>
+<li>Select your Ethernet interface and click <strong>Edit</strong>.
+<img src="http://files.mintco.de/site/images/networkconnections_ubuntu.png" alt="Connections Window" /></li>
+<li>Head over to the <strong>IPv4 Settings</strong> tab and change the method to <strong>Shared to other computers</strong>.
+<img src="http://files.mintco.de/site/images/sharednetwork_ubuntu.png" alt="Ethernet Options Dialog" /></li>
+<li>Hit <strong>save</strong> and you&rsquo;re done!</li>
+</ol>
+
+<hr />
+
+<p>The only problem with these methods are that the device requiring Internet won&rsquo;t appear on the network which will make services such as file and printer sharing unavailable. I can&rsquo;t imagine that this would be would be particularly good for your power bill either. Besides these minor drawbacks, this is an easy and quick way to share an Internet connection.</p>
+
+</main>
+
+  <footer>
+
+    <div class="container">
+
+      <section>
+        <h4>From The Journal</h4>
+        <ul>
+          
+            <li>
+              <a href="http://mintco.de/journal/overnight-sensations-mtm/" title="Overnight Sensation MTM Speakers">Overnight Sensation MTM Speakers</a>
+            </li>
+          
+            <li>
+              <a href="http://mintco.de/journal/lm3886-stereo-amp/" title="LM3886 Chip Amplifier">LM3886 Chip Amplifier</a>
+            </li>
+          
+            <li>
+              <a href="http://mintco.de/journal/termcolors/" title="termcolors">termcolors</a>
+            </li>
+          
+        </ul>
+      </section>
+
+      <section>
+        <h4>Around The Web</h4>
+        <a href="http://twitter.com/stayradiated" class="csmb-flat csmb-round twitter"></a>
+        <a href="http://bitbucket.org/stayradiated" class="csmb-flat csmb-round bitbucket"></a>
+        <a href="http://github.com/stayradiated" class="csmb-flat csmb-round github"></a>
+      </section>
+
+      <section>
+        <h4>Rockin' Out To</h4>
+        <div class="lastfm-recent">
+          <strong class="track"></strong>
+          <em>by</em><strong class="artist"></strong>
+        </div>
+      </section>
+
+      <section>
+        <h4>Get In Touch</h4>
+        <a href="mailto:george@czabania.com">george@czabania.com</a>
+      </section>
+
+    </div>
+
+  </footer>
+
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="/js/lightbox.min.js"></script>
+<script src="/js/main.js"></script>
+
+</body>
+</html>
+

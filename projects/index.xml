@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mintcode</title>
+    <link>http://mintco.de/projects/</link>
+    <description>Recent content in Projects on Mintcode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-nz</language>
+    <lastBuildDate>Sun, 24 May 2015 09:53:08 +1200</lastBuildDate>
+    <atom:link href="http://mintco.de/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>John Paul College Website</title>
+      <link>http://mintco.de/projects/jpc/</link>
+      <pubDate>Sun, 24 May 2015 09:53:08 +1200</pubDate>
+      
+      <guid>http://mintco.de/projects/jpc/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Client:&lt;/strong&gt; John Paul College&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; June 2014 to January 2015&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; JavaScript, Sass, HTML, PHP&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt; SilverStripe CMS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A website I built for John Paul College, Rotorua.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s powered by the &lt;a href=&#34;http://www.silverstripe.org/&#34;&gt;SilverStripe CMS&lt;/a&gt; and written in PHP, JavaScript, and Sass.&lt;/p&gt;
+
+&lt;p&gt;Features include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a dynamically updating event calendar, with the data being pulled from
+their KAMAR portal.&lt;/li&gt;
+&lt;li&gt;several custom landing pages for international students.&lt;/li&gt;
+&lt;li&gt;search, photo gallery, image sliders, etc.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Term Kitchen</title>
+      <link>http://mintco.de/projects/term.kitchen/</link>
+      <pubDate>Sun, 24 May 2015 09:52:26 +1200</pubDate>
+      
+      <guid>http://mintco.de/projects/term.kitchen/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; JavaScript (with JSX), Sass, HTML&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Libraries:&lt;/strong&gt; React, Bluebird, Reflux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Before Term Kitchen there was a severe lack of terminal colour scheme editors
+available. People would need to spend hours copy/pasting hex codes into their
+text editor. Finding new schemes required editing of term configs before you
+could see how the scheme looked. Themes were shared using the terminal specific
+configuration which was time consuming to get working in another terminal
+emulator.&lt;/p&gt;
+
+&lt;p&gt;Term Kitchen solves all these problems and more.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nitro Tasks</title>
+      <link>http://mintco.de/projects/nitro/</link>
+      <pubDate>Sun, 24 May 2015 09:53:27 +1200</pubDate>
+      
+      <guid>http://mintco.de/projects/nitro/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 2012 to March 2014&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; JavaScript, CoffeeScript, Sass, HTML&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lightread</title>
+      <link>http://mintco.de/projects/lightread/</link>
+      <pubDate>Sun, 24 May 2015 09:53:16 +1200</pubDate>
+      
+      <guid>http://mintco.de/projects/lightread/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Client:&lt;/strong&gt; Ubuntu App Showdown&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; June 2012&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; JavaScript, CSS, HTML, Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Libraries:&lt;/strong&gt; Google Reader API&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jill Fleming Website</title>
+      <link>http://mintco.de/projects/jill/</link>
+      <pubDate>Sun, 24 May 2015 09:53:34 +1200</pubDate>
+      
+      <guid>http://mintco.de/projects/jill/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Client:&lt;/strong&gt; Jill Fleming&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; August 2014&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; JavaScript, Sass, HTML&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt; Hugo&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pantry d&#39;Or</title>
+      <link>http://mintco.de/projects/pantry-dor/</link>
+      <pubDate>Sun, 24 May 2015 01:51:05 +1200</pubDate>
+      
+      <guid>http://mintco.de/projects/pantry-dor/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Client:&lt;/strong&gt; Pantry d&amp;rsquo;Or&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; May 2014&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; JavaScript, Sass, PHP, HTML&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt; Silverstripe CMS&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rango</title>
+      <link>http://mintco.de/projects/rango/</link>
+      <pubDate>Sun, 24 May 2015 09:53:23 +1200</pubDate>
+      
+      <guid>http://mintco.de/projects/rango/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Go, JavaScript, Sass, HTML&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Libraries:&lt;/strong&gt; Hugo, &lt;a href=&#34;https://npmjs.org/package/react&#34;&gt;React&lt;/a&gt;, Marked, CodeMirror, Fluxxor, Immutable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A web server written in Go with a web interface.&lt;/p&gt;
+
+&lt;p&gt;A static file CMS for the &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo static website engine&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Features include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create new markdown files and directories&lt;/li&gt;
+&lt;li&gt;Easily edit content frontmatter&lt;/li&gt;
+&lt;li&gt;Upload images and automatically generate thumbnails&lt;/li&gt;
+&lt;li&gt;Rebuild site using Hugo with a single click&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invoiced</title>
+      <link>http://mintco.de/projects/invoiced/</link>
+      <pubDate>Sun, 24 May 2015 01:51:36 +1200</pubDate>
+      
+      <guid>http://mintco.de/projects/invoiced/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Client:&lt;/strong&gt; Total Carpet Services&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; JavaScript, Sass, HTML, SQL&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Libraries:&lt;/strong&gt; Express, Bookshelf, React, Backbone&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt; Node.JS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Includes a server component.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>React ColorPicker</title>
+      <link>http://mintco.de/projects/react-colorpicker/</link>
+      <pubDate>Sun, 24 May 2015 01:51:14 +1200</pubDate>
+      
+      <guid>http://mintco.de/projects/react-colorpicker/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; JavaScript (with JSX), Sass, HTML&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Libraries:&lt;/strong&gt; React, Colr&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All graphics are created using CSS.&lt;/p&gt;
+
+&lt;p&gt;Can specify color in Hex, RGB or HSB.&lt;/p&gt;
+
+&lt;p&gt;Has sliders for Hue, Saturation and Brightness.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Termio</title>
+      <link>http://mintco.de/projects/termio/</link>
+      <pubDate>Mon, 25 May 2015 17:50:01 +1200</pubDate>
+      
+      <guid>http://mintco.de/projects/termio/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; JavaScript&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Libraries:&lt;/strong&gt; Through&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt; Node.js&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Built for use in Term Kitchen so user could get a better idea of how their
+terminal colour scheme is going to look, as well as being able to check which
+colour they need to edit.&lt;/p&gt;
+
+&lt;p&gt;Includes a command line interface.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>termcolors</title>
+      <link>http://mintco.de/projects/termcolors/</link>
+      <pubDate>Sun, 24 May 2015 01:51:19 +1200</pubDate>
+      
+      <guid>http://mintco.de/projects/termcolors/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; JavaScript&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt; Node.js&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Convert terminal colour schemes between many different terminal emulators,
+including iTerm2, URxvt and termite.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Import and export between multiple terminal colour scheme formats.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Khaki</title>
+      <link>http://mintco.de/projects/khaki/</link>
+      <pubDate>Sun, 24 May 2015 01:51:22 +1200</pubDate>
+      
+      <guid>http://mintco.de/projects/khaki/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Go, Objective-C&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Unlock your car just by approaching it! Uses Bluetooth LE on your iPhone to
+automatically detect when you are in close proximity to your car.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Uses Objective-C on iOS and Go on a Raspberry Pi with Bluetooth Low Energy.&lt;/li&gt;
+&lt;li&gt;Detects when your car is running, and stops &amp;lsquo;ranging&amp;rsquo; to save battery life on
+your phone.&lt;/li&gt;
+&lt;li&gt;iOS app uses Apple iBeacons to make sure the app is always running in the
+background when you approach your car, without you having to manually open
+it.&lt;/li&gt;
+&lt;li&gt;Uses HMAC-SHA256 authentication for security.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

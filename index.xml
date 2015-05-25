@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mintcode</title>
+    <link>http://mintco.de/</link>
+    <description>Recent content on Mintcode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-nz</language>
+    <lastBuildDate>Sun, 24 May 2015 09:54:24 +1200</lastBuildDate>
+    <atom:link href="http://mintco.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About George</title>
+      <link>http://mintco.de/about/</link>
+      <pubDate>Sun, 24 May 2015 09:54:24 +1200</pubDate>
+      
+      <guid>http://mintco.de/about/</guid>
+      <description>
+
+&lt;p&gt;Hey there! I&amp;rsquo;m George Czabania, a twenty-something year old front-end
+developer from Rotorua, New Zealand, with a passion for building useful things.&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h3 id=&#34;about-this-site:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About This Site&lt;/h3&gt;
+
+&lt;p&gt;Mintcode is proudly powered by &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a flexible &amp;amp; powerful
+static site generator. The design was lovingly hand-crafted with
+&lt;a href=&#34;http://bohemiancoding.com/sketch/&#34;&gt;Sketch&lt;/a&gt; and &lt;a href=&#34;http://neovim.io/&#34;&gt;Neovim&lt;/a&gt;,
+using HTML, Sass, &amp;amp; jQuery, and a little help from Gulp. Headings are set in
+Proxima Nova, and the body copy is set in Source Sans Pro. This site is hosted
+on &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;, versioned with Git and Github,
+and served through &lt;a href=&#34;https://www.cloudflare.com/&#34;&gt;CloudFlare&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overnight Sensation MTM Speakers</title>
+      <link>http://mintco.de/journal/overnight-sensations-mtm/</link>
+      <pubDate>Sun, 05 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/overnight-sensations-mtm/</guid>
+      <description>
+
+&lt;p&gt;The &lt;a href=&#34;https://sites.google.com/site/undefinition/overnightsensationmtm&#34;&gt;Overnight Sensation
+MTM&lt;/a&gt; is a
+speaker designed by &lt;a href=&#34;https://sites.google.com/site/undefinition/&#34;&gt;Paul
+Carmody&lt;/a&gt;. It is the larger version
+of the Overnight Sensation and is very popular in the DIY audio community.&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;rsquo;t had much experience with wood working before, so this project is
+going to be a fun challenge.&lt;/p&gt;
+
+&lt;h2 id=&#34;day-0-ordering-parts:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 0: Ordering Parts&lt;/h2&gt;
+
+&lt;p&gt;It is possible to order a full kit that includes the cabinet pre-cut, and only
+requires gluing together. This saves a lot of time and effort.&lt;/p&gt;
+
+&lt;p&gt;However, I live in New Zealand, and shipping costs a lot. Especially when it&amp;rsquo;s
+large and heavy (like a flat-pack kit of &lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;8&lt;/sub&gt;&amp;rdquo; MDF board).&lt;/p&gt;
+
+&lt;p&gt;So, I decided to build the kit myself. At the time of writing this, I&amp;rsquo;ve
+spent more on tools then it would have cost me to just order the pre-cut
+boards, but I feel like I&amp;rsquo;ve learnt more. Also, if I ever decide to make
+another speaker in the future, I&amp;rsquo;ll only need to purchase the wood.&lt;/p&gt;
+
+&lt;p&gt;I ordered most of the parts from &lt;a href=&#34;http://www.parts-express.com&#34;&gt;Parts Express&lt;/a&gt;.
+However, they didn&amp;rsquo;t have the model of tweeter I needed in stock, so I ordered
+that from &lt;a href=&#34;http://www.theloudspeakerkit.com/dayton-audio-nd20fa-6-3-4-neodymium-dome-tweeter&#34;&gt;The Loudspeaker
+Kit&lt;/a&gt;.
+They also didn&amp;rsquo;t have any 10uF non-polarised electrolytic capacitors in stock,
+so I picked those up from my local &lt;a href=&#34;http://www.jaycar.co.nz/p/RY6908&#34;&gt;Jaycar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;parts-list:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Parts List:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--297-429&#34;&gt;Hivi B4N Midbass Drivers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--275-030&#34;&gt;Dayton ND20FA-6 Tweeters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--004-1.5&#34;&gt;1.5 Ohm 10W Resistors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--004-10&#34;&gt;10 Ohm 10W Resistors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--255-246&#34;&gt;0.15mH 18 AWG Inductors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--255-022&#34;&gt;0.90mH 20 AWG Inductors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--027-340&#34;&gt;10uF 100V Non-Polarized Capacitors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--027-402&#34;&gt;0.22uF 250V Polypropylene Capacitors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;4x &lt;a href=&#34;https://www.parts-express.com/--027-422&#34;&gt;0.47uF 250V Polypropylene Capacitors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;4x &lt;a href=&#34;https://www.parts-express.com/--260-388&#34;&gt;1-&lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;8&lt;/sub&gt;&amp;rdquo; Adjustable Port Tube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--260-303&#34;&gt;Speaker Terminal Binding Posts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;day-1-planning:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 1: Planning&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/plans.jpg&#34; alt=&#34;Paul Carmody&#39;s original design plans&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;There are cabinet design plans for &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt;&amp;rdquo; and &lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;&amp;rdquo; MDF. However, I only have
+access to 18mm MDF, which is a just a millimetre thinner than &lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;&amp;rdquo;. In order to
+maintain the same internal volume, I calculated my own sizes.&lt;/p&gt;
+
+&lt;p&gt;Internal dimensions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;368mm high&lt;/li&gt;
+&lt;li&gt;114mm wide&lt;/li&gt;
+&lt;li&gt;216mm deep&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;External dimensions (with 18mm MDF):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;404mm high&lt;/li&gt;
+&lt;li&gt;150mm wide&lt;/li&gt;
+&lt;li&gt;252mm deep&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I used the 2D cutting optimizer at
+&lt;a href=&#34;http://optimalon.com/online_cut_optimizer.htm&#34;&gt;optimalon.com&lt;/a&gt; to plan out what size MDF
+boards I would need to purchase. I ended choosing 2x 1800x300x18 boards.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/cuts.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I wanted to rebate the edges of the boards so they join together nicely. I did
+plenty of sketches to figure out what cuts I needed to make.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/planning-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/planning-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I used SketchUp to double check that I had all the dimensions correct and that
+my rebate joins were the right size.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/sketchup.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/sketchup.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&#34;day-2-cutting:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 2: Cutting&lt;/h2&gt;
+
+&lt;p&gt;I started by roughly cutting the boards in half using a circular saw.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/cutting-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/cutting-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;)
+&lt;a href=&#34;http://mintco.de/assets/osmtm/full/cutting-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/cutting-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;I, with help from Dad, used a radial-arm saw to cut the boards into the correct
+dimensions. We made sure the saw was cutting at 90˚ by doing a few cuts on a
+bit of scrap.&lt;/p&gt;
+
+&lt;p&gt;It took a while to make all the cuts. The front, back, and sides, which were
+just a little bit longer than what the saw could reach, needed to be spun
+around to finish off the cut.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/cutting-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/cutting-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;)
+&lt;a href=&#34;http://mintco.de/assets/osmtm/full/cutting-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/cutting-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&#34;day-3-the-router:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 3: The Router&lt;/h2&gt;
+
+&lt;p&gt;I spent the morning shopping for a Router and the necessary cutting bits.&lt;/p&gt;
+
+&lt;p&gt;I needed a router to cut the holes for midwoofer and tweeter, as well as to
+rebate the edges.&lt;/p&gt;
+
+&lt;p&gt;I ended purchasing the Black &amp;amp; Decker KW900EKA Plunge Router, as well as an
+18mm straight cutter, a flush trim cutter, and a 10mm rebate cutter.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/router-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/router-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;I used the flush trim cutter to clean up any inconsistances between the tops,
+bottoms, sides and backs.&lt;/p&gt;
+
+&lt;p&gt;The 10mm rebate cutter was also used to cut a 10x8mm rebate on the side boards.
+I also needed to cut an 8x8mm rebate, but at that time I hadn&amp;rsquo;t figured out how
+I was going to do that.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/router-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/router-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;day-4-more-routing:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 4: More Routing&lt;/h2&gt;
+
+&lt;p&gt;I needed to cut an 8mm rebate with only a 10mm rebate cutter, so I made a
+simple jig for the router to slide across, at the just the right distance. It
+was a bit slow to setup, but it worked ok.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/router-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/router-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I then needed to cut a channel in the side and back panels to hold the brace. I
+used the included fence attachment to cut a parallel 18mm groove.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/router-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/router-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;All the panels laid out:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/router-5.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/router-5.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I fitted all the panels together (without glue), just to check that I hadn&amp;rsquo;t
+made any mistakes with the measurements. Overall I was quite impressed, though
+it was wider by about 1.5mm than I had planned for, so I&amp;rsquo;m going to measure
+everything and find out what I need to trim down.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/router-6.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/router-6.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;day-5-diy-router-table:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 5: DIY Router Table&lt;/h2&gt;
+
+&lt;p&gt;It rained nearly all day today, so I didn&amp;rsquo;t have much of a chance to finish off
+the routing.&lt;/p&gt;
+
+&lt;p&gt;I took a trip down to Bunnings and picked up six cheap quick-release clamps,
+which I&amp;rsquo;ll need when I glue the cabinets together. I also bought some quality
+PVA glue, a couple dust masks, and some vernier calipers for precision
+measuring.&lt;/p&gt;
+
+&lt;p&gt;I used the calipers to check how accurate I was with my routing, and found that
+I was short a millimetre in some places. I needed a more accurate way to rebate
+the panels, so I decided I was going to turn my plunge router into a router
+table.&lt;/p&gt;
+
+&lt;p&gt;I wanted something cheap, simple and portable. I found &lt;a href=&#34;http://www.finewoodworking.com/item/11120/free-plan-how-to-build-a-simple-router-table&#34;&gt;this wood working
+article&lt;/a&gt;
+with plans for building exactly what I wanted.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.finewoodworking.com/FWNPDFfree/minimalist-router-table-free-plan.pdf&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-plans.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I started by finding four bolts that would fit into the bottom of my router, as
+the ones it comes with aren&amp;rsquo;t long enough to go through a thick piece of wood.&lt;/p&gt;
+
+&lt;p&gt;I traced around the bottom of the router, and setup a temporary jig about 6mm
+from the edge. Why 6mm? Because I was going to use the included router guide
+bush with the jig, and it happens to be 6mm from the edge of the collet to the
+edge of the cutter.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I cut about 9mm into the board, so that I would have about 21mm left. Doing
+this gives me a bit more height on the cutter bit, and also so I don&amp;rsquo;t have to
+find some longer bolts.&lt;/p&gt;
+
+&lt;p&gt;While trying to cut out middle of the hole, the router accidentally slipped off
+the jig and gouged the bottom of the board. Next time, I just do as much as I
+can, and then finish with a chisel.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I marked screw holes, and drilled them out. So far, so good.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I flipped the board over, and counter sunk the holes, just enough so that
+the bolts wouldn&amp;rsquo;t stick out.&lt;/p&gt;
+
+&lt;p&gt;I used a hole saw and a rasp to cut out the hole for cutter. I then flipped the
+board over again, and attached the router.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I flipped the board back over, so that the router was on the bottom.
+That&amp;rsquo;s the hard part done.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-5.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-5.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I found a piece of wood to use as the fence, and drilled a hole through one
+side, large enough for a bolt. Then I marked out where wood hits the cutter,
+and cut out hole large enough for the cutter to sit.&lt;/p&gt;
+
+&lt;p&gt;I gave it a quick test, and found that it worked pretty well. All that I need
+to do now is use some tape to keep the power button on the router pressed, so I
+don&amp;rsquo;t have to keep one my hand on it all the time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-6.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-6.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The great thing about this setup is that I can simply unclamp it from the
+table, and move it around, or bring it inside for storage.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-7.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-7.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;day-6-routing-glueing:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 6: Routing &amp;amp; Glueing&lt;/h2&gt;
+
+&lt;p&gt;To finish off the router table, I needed an easy way to be able to switch the
+router on and off. I used several rubber bands to keep the router button
+depressed, and a power strip to turn the router on.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-8.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-8.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I clamped the board to the table with a wooden stake so I the clamps wouldn&amp;rsquo;t
+get in the way. I clamped the vacuum right next to the router to minimize the
+amount of dust.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-9.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-9.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In case the board wasn&amp;rsquo;t strong enough to hold the router, I stacked up some
+scrap wood underneath it. This was also useful when I needed to adjust the
+plunge depth, as I could use the wood to hold the router in place while I
+tweaked the depth.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-10.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-10.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I ended up needing to cut another hole in my fence, as the first one I made was
+too wide, and it made cutting smaller pieces difficult.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-11.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-11.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Later on in the day I started to glue the cabinet together. I did a test fit
+before to make sure all the panels fit together properly.&lt;/p&gt;
+
+&lt;p&gt;I prepared by putting plenty of newspaper down, and getting a damp cloth ready
+to wipe off excess glue.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/glue-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I started with one corner, clamping it for half an hour, and then doing another
+corner. I left the cabinet clamped overnight, for maximum strength.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/glue-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;day-7-glueing-bracing:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 7: Glueing &amp;amp; Bracing&lt;/h2&gt;
+
+&lt;p&gt;The first cabinet I glued was finished, and I was quite impressed by how strong
+it feels.&lt;/p&gt;
+
+&lt;p&gt;I glued the second cabinet, this time doing two corners at a time to speed up
+the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/glue-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll need to do a bit of sanding, but overall I think the glueing went pretty
+well. The brace and back panel are not glued in yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/glue-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Dayton tweeters arrived. They were a bit smaller than I
+expected, probably because I was assuming that would be similar to the HiVi T-20
+that
+&lt;a href=&#34;http://meniscusaudio.com/overnight-sensation-pair-p-1243.html&#34;&gt;meniscus.com&lt;/a&gt;
+offers.&lt;/p&gt;
+
+&lt;p&gt;The diameter of hole needed to mount the tweeter is 33mm.
+The flange around it has a diameter of 45mm and is 2.25mm thick.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/tweeter-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/tweeter-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Time to cut the brace supports with a jigsaw.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/brace-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My jigsawing skills aren&amp;rsquo;t the greatest, but it doesn&amp;rsquo;t too much, as you will
+not be able to see the brace once it&amp;rsquo;s installed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/brace-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/brace-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/brace-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I gave the edges a quick sand to smooth them a bit. Not at all necessary, but
+it might make installing the midwoofer and tweeter a bit nicer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-5.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/brace-5.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is how the braces look installed in the cabinets. I haven&amp;rsquo;t glued them in
+yet. I think I&amp;rsquo;ll wait until the rest of the parts arrive.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-6.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/brace-6.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;day-8-diy-circle-jig:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 8: DIY Circle Jig&lt;/h2&gt;
+
+&lt;p&gt;It rained again today. The parts are still in transit, so there wasn&amp;rsquo;t much to
+do except build the circle jig so I can cut cicles with the router.&lt;/p&gt;
+
+&lt;p&gt;I went with a design I saw on &lt;a href=&#34;https://youtu.be/b37LyYIO0sA?list=PLe27g672GxSaAMvcp8t5OI3Mzyg3m-GfY&#34;&gt;Richard Morley&amp;rsquo;s YouTube
+Channel&lt;/a&gt;
+where the center point is fixed and the router slides back and forth on rails.&lt;/p&gt;
+
+&lt;p&gt;I started by marking out what I needed on some spare hardboard. I then cut out
+the pieces using a jigsaw.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To make the jig a bit stronger, and because the only thick washer I could find
+was thicker than a single piece of board, I decided to glue two pieces
+together.&lt;/p&gt;
+
+&lt;p&gt;I then drilled a hole for the washer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The washer is used to protect the wood from being eroded when it rotates around
+the center bolt.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I then used the radial-arm saw to square up the edges.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-5.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-5.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I gave the edges a quick sanding to make them a bit smoother.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To make the rails for the router, I first drilled holes at one end, then used
+my table router to cut a straight line.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-6.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-6.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-7.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-7.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I then used a larger cutter to cut out channels a couple millimeters deep so
+that a washer could fit in there.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-8.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-8.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I found a couple old washers that were the right size.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-9.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-9.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately I didn&amp;rsquo;t cut the channels deep enough to cover for the washer and
+the head of the bolt. By this time I had already disassembled my table router,
+so I&amp;rsquo;ll probably fix this tomorrow.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-10.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-10.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I attached the router to the circle jig, and cut the center rail for the cutter
+bit to go through.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-12.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-12.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It was getting quite dark, so I decided to give it quick test before packing
+up. I found a bit of scrap MDF and drilled a hole so I could fit a bolt through
+it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-13.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-13.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I then fit the router with the circle jig attached over the bolt. Tomorrow,
+I might cut the bolt down a bit, as I&amp;rsquo;ll need to cut circles where the bolt
+will be under the router.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-14.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-14.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The result was pretty decent.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-11.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-11.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The finished circle jig. Just need to make the channels a little deeper.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-15.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-15.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>John Paul College Website</title>
+      <link>http://mintco.de/__old__/jpc/</link>
+      <pubDate>Mon, 23 Mar 2015 07:56:18 +1300</pubDate>
+      
+      <guid>http://mintco.de/__old__/jpc/</guid>
+      <description>&lt;p&gt;A website I built for John Paul College, Rotorua.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s powered by the &lt;a href=&#34;http://www.silverstripe.org/&#34;&gt;SilverStripe CMS&lt;/a&gt; and written in PHP, JavaScript, and Sass.&lt;/p&gt;
+
+&lt;p&gt;Features include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a dynamically updating event calendar, with the data being pulled from
+their KAMAR portal.&lt;/li&gt;
+&lt;li&gt;several custom landing pages for international students.&lt;/li&gt;
+&lt;li&gt;search, photo gallery, image sliders, etc.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LM3886 Chip Amplifier</title>
+      <link>http://mintco.de/journal/lm3886-stereo-amp/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/lm3886-stereo-amp/</guid>
+      <description>
+
+&lt;h1 id=&#34;building-a-chip-amplifier:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Building a Chip Amplifier&lt;/h1&gt;
+
+&lt;p&gt;In preparation to this project, I built a &lt;a href=&#34;http://mintco.de/projects/lm380-stereo-amp/&#34;&gt;LM380 chip
+amp&lt;/a&gt;, which was cheaper and easier and makes for a
+good weekend project.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Project Goal&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I want to build an amplifier. Mainly because I need something to connect an
+iPhone to a set of speakers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt;: This project requires working with mains supply voltages, which
+can be lethal if you don&amp;rsquo;t take the proper precautions.&lt;/p&gt;
+
+&lt;p&gt;My original idea was to use a LM386 IC and $20 worth of parts to make a 0.5W
+amp powered using 12v, but now I&amp;rsquo;m thinking I need to make something with a bit
+more oomph.&lt;/p&gt;
+
+&lt;p&gt;Then I discovered the gainclone amplifier, which appears to be quite popular in
+the DIY audio community.&lt;/p&gt;
+
+&lt;p&gt;After researching different circuits and variations, I settled on the kitset
+from &lt;a href=&#34;http://chipamp.com&#34;&gt;chipamp.com&lt;/a&gt;. I chose the &lt;a href=&#34;http://chipamp.com/product/non-inverting-lm3886-stereo-amplifier-kit/&#34;&gt;Non-Inverting LM3886
+stereo
+kit&lt;/a&gt;,
+which included a &amp;lsquo;snubberized&amp;rsquo; power supply board, and was also on special.&lt;/p&gt;
+
+&lt;p&gt;However, the kit supplys only the parts for the power supply board and
+the two amplifiers. There is still quite a lot you need to do.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-chipamp-kit:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;The Chipamp Kit&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/parts-layout.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/parts-layout.jpg&#34; alt=&#34;All the parts meticulously laid
+out&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-full-bridge-rectifier:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;The Full Bridge Rectifier&lt;/h3&gt;
+
+&lt;p&gt;This converts AC to DC using a bunch of diodes in a clever pattern. I&amp;rsquo;m going
+to go for the &amp;lsquo;snubberized&amp;rsquo; version.&lt;/p&gt;
+
+&lt;p&gt;The circuit is based on one developed by Carlos Machado, which allows it drive
+more difficult loads without adversly affecting the midrange and top end sound.
+&lt;a href=&#34;http://www.decdun.me.uk/gainclonesnub.html&#34;&gt;More information here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are two identical circuits, each with a full bridge rectifiers. The dual
+circuits are for the left and right audio channels.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://chipamp.com/beta2/wp-content/uploads/ps-rev3-sch.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Parts list (included with kit):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;2x 10000 uF 50v Panasonic TS Capacitors (35mm x 30mm low profile)
+4x 0.1 uf film caps
+8x MUR860 On Semiconductor Diodes
+2x 2.2 kohm 2w metal film resistors
+2x 1 ohm 2w metal film resistors
+1x blue LED
+1x 1N4004 diode
+1x 10 kohm 0.5w compact metal film resistor
+1x 10 uF Panasonic FC Capacitors
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/finished-chip-amps.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/finished-chip-amps.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;amplifier:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Amplifier&lt;/h3&gt;
+
+&lt;p&gt;Parts list (included with kit):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;2x LM3886TF
+4x 22 kohm 0.5w compact metal film resistors
+2x 10 kohm 0.5w compact metal film resistors
+2x 1 kohm 0.5w compact metal film resistors
+2x 680 ohm 0.5w compact metal film resistors
+2x 2.7 ohm 2w metal film resistors
+6x 100 uf 50v Panasonic FC
+2x 47 uf 50v Panasonic FC
+6x 0.1 uf film caps
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;the-power-supply:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;The Power Supply&lt;/h2&gt;
+
+&lt;p&gt;This is pretty important. You don&amp;rsquo;t want to just use any old power supply,
+because it will likely introduce a humming sound to audio output. I decided to
+use a toroidal transformer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nz.rs-online.com/web/p/toroidal-transformers/2238178/&#34;&gt;225VA 2x25V AC Toroidal
+Transformer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Recommended reading: &lt;a href=&#34;http://www.decdun.me.uk/gainclone_psu.html&#34;&gt;Decible Dungeoun - Building a
+PSU&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Required Components&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IEC C13 power supply cable&lt;/strong&gt;. The same cable you would use to plug into a
+computer or monitor. I happen have a bunch of these lying around.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IEC C14 panel mount socket&lt;/strong&gt;. I chose to get one with a built in switch
+and fuse so it&amp;rsquo;s a bit safer to work with.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2AT Fuse&lt;/strong&gt;. Needs to work with 230v and has to be anti-surge to work with
+the transformer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Toroidal Transformer&lt;/strong&gt;. This is one of the most expensive parts of the
+project. From what I&amp;rsquo;ve read it should support at least 120VA (not entirely
+sure what that means) and needs to work with 230v AC and output something
+between 20-38v AC.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/iec-socket.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/iec-socket.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;preamplifier:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Preamplifier&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-7.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-7.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-5.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-5.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-6.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-6.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/controls.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/controls.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;preamplifier-power:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Preamplifier Power&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/regulator-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/regulator-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/regulator-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/regulator-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/regulator-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/regulator-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/regulator-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/regulator-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;trying-it-out:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Trying it out&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/before-box.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/before-box.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/table-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/table-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/table-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/table-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-box:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;The Box&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/cutting-box-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/cutting-box-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/cutting-box-5.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/cutting-box-5.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/cutting-box-6.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/cutting-box-6.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/cutting-box-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/cutting-box-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/cutting-box-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/cutting-box-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/cutting-box-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/cutting-box-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/drilling-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/drilling-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/drilling-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/drilling-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/drilling-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/drilling-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/painting-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/painting-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/drilling-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/drilling-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;installing-components-in-box:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Installing Components in Box&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/table-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/table-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/inputs.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/inputs.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/box-mounts.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/box-mounts.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/without-lid.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/without-lid.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/fitting-components.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/fitting-components.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/with-lid.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/with-lid.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;complete:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Complete&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/complete.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/complete.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;bonus-shots:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Bonus Shots&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/lego-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/lego-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/lego-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/lego-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>termcolors</title>
+      <link>http://mintco.de/journal/termcolors/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/termcolors/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/stayradiated/termcolors&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There are lots of different terminal emulators avaiable, and each use their own
+custom config format.&lt;/p&gt;
+
+&lt;p&gt;However, they all tend to used the same common format of 16 user defineable
+colours, as well as foreground and background.&lt;/p&gt;
+
+&lt;p&gt;Many tools that work with terminal colours need to write their own
+importing/exporting code. This library aims to handle that for them.&lt;/p&gt;
+
+&lt;p&gt;The termcolors library currently supports a wide range of terminals, and it&amp;rsquo;s
+pretty easy to add more.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a lot easier to write an exporting function compared to an importing one.
+Mainly because when parsing some input you have to handle a bunch of
+variations.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Xresources&lt;/code&gt; importer is pretty good, and has been throughouly tested with
+a wide range of inputs. It also handles C&amp;rsquo;s &lt;code&gt;#define&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The library also comes with a simple command line executable: &lt;code&gt;termcolors&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can install it with nodejs using &lt;code&gt;npm install -g termcolors&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Usage is quite straight forward, just set the input and output formats and pipe
+some data in to it.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cat ~/.Xresources | termcolors -i xresources -o iterm
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can also list all the avaiable formats:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ termcolors -l
+chromeshell  [export]
+gnome        [export]
+guake        [export]
+iterm        [export] [import]
+json         [export] [import]
+konsole      [export]
+linux        [export]
+mintty       [export]
+putty        [export]
+st           [export]
+termite      [export] [import]
+terminator   [export]
+terminalapp  [export] [import]
+text         [export]
+textmate     [export]
+xfce         [export]
+xresources   [export] [import]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;behind-the-scenes:09a3af9030433c6c7c7e1ed48418d200&#34;&gt;Behind the Scenes&lt;/h2&gt;
+
+&lt;p&gt;TermColors is written using JavaScript.&lt;/p&gt;
+
+&lt;p&gt;It can run in nodejs and the browser, which is very useful for web apps. I&amp;rsquo;ve
+consisdered rewriting it in Go a couple times, but I think having it able to
+run in the browser is too useful to give up.&lt;/p&gt;
+
+&lt;p&gt;It uses the &lt;code&gt;dot&lt;/code&gt; templating library, which is quite quick and simple to use.&lt;/p&gt;
+
+&lt;p&gt;Regular expressions are used to parse input when importing terminals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rango</title>
+      <link>http://mintco.de/__old__/rango/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/rango/</guid>
+      <description>&lt;p&gt;A static file CMS for the &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo static website engine&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Features include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create new markdown files and directories&lt;/li&gt;
+&lt;li&gt;Easily edit content frontmatter&lt;/li&gt;
+&lt;li&gt;Upload images and automatically generate thumbnails&lt;/li&gt;
+&lt;li&gt;Rebuild site using Hugo with a single click&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tech details:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Server written in Go&lt;/li&gt;
+&lt;li&gt;Interface written in Javascript with
+&lt;a href=&#34;https://www.npmjs.org/package/react&#34;&gt;React&lt;/a&gt;,
+&lt;a href=&#34;https://www.npmjs.org/package/imutable&#34;&gt;Imutable&lt;/a&gt;,
+&lt;a href=&#34;https://www.npmjs.org/package/fluxxor&#34;&gt;Fluxxor&lt;/a&gt;
+and
+&lt;a href=&#34;https://www.npmjs.org/package/codemirror&#34;&gt;Code Mirror&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>React Colorpicker</title>
+      <link>http://mintco.de/__old__/react-colorpicker/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/react-colorpicker/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Written in Javascript (with JSX)&lt;/li&gt;
+&lt;li&gt;Uses ReactJS and my Colr library&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>termcolors</title>
+      <link>http://mintco.de/__old__/termcolors/</link>
+      <pubDate>Tue, 03 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/termcolors/</guid>
+      <description>&lt;p&gt;Hosted on npm&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rango</title>
+      <link>http://mintco.de/journal/rango/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/rango/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/stayradiated/rango&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;project-details:0db95be05140c541abc8c0893d3b26df&#34;&gt;Project Details&lt;/h2&gt;
+
+&lt;p&gt;Rango is a browser based editor for &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hugo is a static website generator. What does that mean? Well, unlike dynamic
+websites which use Wordpress or Drupal which render the website when a user
+views the page.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Go&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Client-side Libraries:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Fluxxor&lt;/li&gt;
+&lt;li&gt;Immutable&lt;/li&gt;
+&lt;li&gt;CodeMirror&lt;/li&gt;
+&lt;li&gt;Browserify&lt;/li&gt;
+&lt;li&gt;Gulp&lt;/li&gt;
+&lt;li&gt;Jest&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Server-side Libraries:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/hugo&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gorilla/mux&#34;&gt;Gorilla Mux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kennygrant/sanitize&#34;&gt;Sanitize&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/BurntSushi/toml&#34;&gt;TOML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stretchr/testify&#34;&gt;Testify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dotfiles</title>
+      <link>http://mintco.de/__old__/dotfiles/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/dotfiles/</guid>
+      <description>&lt;p&gt;Configuration files for my Linux and OS X computers.&lt;/p&gt;
+
+&lt;p&gt;Uses a &lt;code&gt;makefile&lt;/code&gt; to automatically install and link files.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LM380 Stereo Amplifier</title>
+      <link>http://mintco.de/journal/lm380-stereo-amp/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/lm380-stereo-amp/</guid>
+      <description>
+
+&lt;p&gt;In preparation for building the LM3886 amplifier, I wanted to create a simpler,
+cheaper amplifier.&lt;/p&gt;
+
+&lt;p&gt;After a bit of research online, I found the LM380 chipamp and &lt;a href=&#34;http://www.x2jiggy.com/blog/2014/4/14/lm380-stereo-amplifier&#34;&gt;this blog post
+by x2jiggy&lt;/a&gt;.
+While I wouldn&amp;rsquo;t be creating the case out of MD&lt;/p&gt;
+
+&lt;h2 id=&#34;the-components:913b503784b542f7e305ac6ee904380d&#34;&gt;The Components&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/1-layout.jpg&#34; alt=&#34;Layout&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/3-the-plan.jpg&#34; alt=&#34;The Plan&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;breadboard:913b503784b542f7e305ac6ee904380d&#34;&gt;Breadboard&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/2-breadboard-single-channel.jpg&#34; alt=&#34;Breadboard: Single Channel&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/4-breadboard-dual-channels.jpg&#34; alt=&#34;Breadboard: Dual Channels&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/5-finished-breadboard.jpg&#34; alt=&#34;Finished Breadboard&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;circuit-board:913b503784b542f7e305ac6ee904380d&#34;&gt;Circuit Board&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/6-planning-circuit-board.jpg&#34; alt=&#34;Planning circuit board&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/7-soldering.jpg&#34; alt=&#34;Soldering&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/8-finished-soldering.jpg&#34; alt=&#34;Finished soldering&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;the-box:913b503784b542f7e305ac6ee904380d&#34;&gt;The Box&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/9-building-box.jpg&#34; alt=&#34;Building box&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/10-box-wiring.jpg&#34; alt=&#34;Box wiring&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/11-lego-standoffs.jpg&#34; alt=&#34;Lego standoffs&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/12-closing-the-box.jpg&#34; alt=&#34;Closing the box&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;finishing-off:913b503784b542f7e305ac6ee904380d&#34;&gt;Finishing Off&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/13-in-use.jpg&#34; alt=&#34;In use&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/14-ominous.jpg&#34; alt=&#34;Ominous&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>terminal.sexy</title>
+      <link>http://mintco.de/__old__/terminal.sexy/</link>
+      <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/terminal.sexy/</guid>
+      <description>&lt;p&gt;Create, view and edit terminal colorschemes. Supports importing and exporting
+configuration files between many different. My favorite feature is that you can
+import a buffer output from tmux and it will display it in the browser using
+your custom color scheme.&lt;/p&gt;
+
+&lt;p&gt;A lot of the code I wrote for this project was put into external libraries on
+npm, so that they could be used for other projects as well. These libraries
+include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stayradiated/colr&#34;&gt;colr&lt;/a&gt; - convert between color formats
+(rgb, hsl, etc.)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stayradiated/termio&#34;&gt;termio&lt;/a&gt; - convert ansi escape codes
+into html&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stayradiated/termcolors&#34;&gt;termcolors&lt;/a&gt; - import and export
+between multiple terminal color scheme formats&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stayradiated/react-ranger&#34;&gt;react-ranger&lt;/a&gt; - column browser
+(used for the scheme and template file browser)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stayradiated/react-colorpicker&#34;&gt;react-colorpicker&lt;/a&gt; -
+simple colorpicker for react&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other dependencies that were used include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/react&#34;&gt;React&lt;/a&gt; - a JavaScript library for
+building user interfaces.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/golden-layout&#34;&gt;Golden Layout&lt;/a&gt; - The ultimate
+JavaScript layout manager&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/bluebird&#34;&gt;Bluebird&lt;/a&gt; - Full featured
+Promises/A+ implementation with exceptionally good performance&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/reflux&#34;&gt;Reflux&lt;/a&gt; - A simple library for
+uni-directional dataflow application architecture inspired by ReactJS Flux&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/lodash&#34;&gt;Lodash&lt;/a&gt; - Function utilities&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/husl&#34;&gt;HUSL&lt;/a&gt; - Replacement for the HSL color
+space&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Veehd CLI</title>
+      <link>http://mintco.de/__old__/veehd/</link>
+      <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/veehd/</guid>
+      <description>&lt;p&gt;A command-line interface for the &lt;a href=&#34;http://veehd.com&#34;&gt;veehd.com&lt;/a&gt; website.
+Automates the process of searching for videos, comparing resolution and bit
+rate, and getting the download link.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Khaki</title>
+      <link>http://mintco.de/__old__/khaki/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/khaki/</guid>
+      <description>&lt;p&gt;Unlock your car just by approaching it! Uses Bluetooth LE on your iPhone to
+automatically detect when you are in close proximity to your car.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Uses Objective-C on iOS and Go on a Raspberry Pi with Bluetooth Low Energy.&lt;/li&gt;
+&lt;li&gt;Detects when your car is running, and stops &amp;lsquo;ranging&amp;rsquo; to save battery life on
+your phone.&lt;/li&gt;
+&lt;li&gt;iOS app uses Apple iBeacons to make sure the app is always running in the
+background when you approach your car, without you having to manually open
+it.&lt;/li&gt;
+&lt;li&gt;Uses HMAC-SHA256 authentication for security.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>terminal.sexy</title>
+      <link>http://mintco.de/journal/terminal.sexy/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/terminal.sexy/</guid>
+      <description>
+
+&lt;p&gt;Create terminal colour schemes with ease.&lt;/p&gt;
+
+&lt;h2 id=&#34;editing-a-theme:6e32bca8308522530af4cfb520ba5746&#34;&gt;Editing a theme&lt;/h2&gt;
+
+&lt;p&gt;Quickly and easily edit any color and watch as the template updates in real
+time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/changing-colors.gif&#34; alt=&#34;Changing Colors&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;importing-an-existing-theme:6e32bca8308522530af4cfb520ba5746&#34;&gt;Importing an existing theme&lt;/h2&gt;
+
+&lt;p&gt;You can import schemes from Xresources, termite or iTerm.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/importing.gif&#34; alt=&#34;Importing&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;set-the-font:6e32bca8308522530af4cfb520ba5746&#34;&gt;Set the font&lt;/h2&gt;
+
+&lt;p&gt;Make the app look just as your terminal does.&lt;/p&gt;
+
+&lt;p&gt;Supports any font you have installed, as well as any font on Google Web Fonts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/setting-font.gif&#34; alt=&#34;Setting Font&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;customisable-ui:6e32bca8308522530af4cfb520ba5746&#34;&gt;Customisable UI&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/window-manager.gif&#34; alt=&#34;Customisable UI&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;open-a-template:6e32bca8308522530af4cfb520ba5746&#34;&gt;Open a template&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/different-templates.gif&#34; alt=&#34;Templates&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;importing-a-template:6e32bca8308522530af4cfb520ba5746&#34;&gt;Importing a template&lt;/h2&gt;
+
+&lt;h2 id=&#34;color-identification:6e32bca8308522530af4cfb520ba5746&#34;&gt;Color Identification&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/hover-id.gif&#34; alt=&#34;Hover to see color ID&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;scheme-browser:6e32bca8308522530af4cfb520ba5746&#34;&gt;Scheme Browser&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/scheme-browser.gif&#34; alt=&#34;Scheme Browser&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

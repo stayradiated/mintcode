@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>__old__s on Mintcode</title>
+    <link>http://mintco.de/__old__/</link>
+    <description>Recent content in __old__s on Mintcode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-nz</language>
+    <lastBuildDate>Mon, 23 Mar 2015 07:56:18 +1300</lastBuildDate>
+    <atom:link href="http://mintco.de/__old__/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>John Paul College Website</title>
+      <link>http://mintco.de/__old__/jpc/</link>
+      <pubDate>Mon, 23 Mar 2015 07:56:18 +1300</pubDate>
+      
+      <guid>http://mintco.de/__old__/jpc/</guid>
+      <description>&lt;p&gt;A website I built for John Paul College, Rotorua.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s powered by the &lt;a href=&#34;http://www.silverstripe.org/&#34;&gt;SilverStripe CMS&lt;/a&gt; and written in PHP, JavaScript, and Sass.&lt;/p&gt;
+
+&lt;p&gt;Features include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a dynamically updating event calendar, with the data being pulled from
+their KAMAR portal.&lt;/li&gt;
+&lt;li&gt;several custom landing pages for international students.&lt;/li&gt;
+&lt;li&gt;search, photo gallery, image sliders, etc.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rango</title>
+      <link>http://mintco.de/__old__/rango/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/rango/</guid>
+      <description>&lt;p&gt;A static file CMS for the &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo static website engine&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Features include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create new markdown files and directories&lt;/li&gt;
+&lt;li&gt;Easily edit content frontmatter&lt;/li&gt;
+&lt;li&gt;Upload images and automatically generate thumbnails&lt;/li&gt;
+&lt;li&gt;Rebuild site using Hugo with a single click&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tech details:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Server written in Go&lt;/li&gt;
+&lt;li&gt;Interface written in Javascript with
+&lt;a href=&#34;https://www.npmjs.org/package/react&#34;&gt;React&lt;/a&gt;,
+&lt;a href=&#34;https://www.npmjs.org/package/imutable&#34;&gt;Imutable&lt;/a&gt;,
+&lt;a href=&#34;https://www.npmjs.org/package/fluxxor&#34;&gt;Fluxxor&lt;/a&gt;
+and
+&lt;a href=&#34;https://www.npmjs.org/package/codemirror&#34;&gt;Code Mirror&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>React Colorpicker</title>
+      <link>http://mintco.de/__old__/react-colorpicker/</link>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/react-colorpicker/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Written in Javascript (with JSX)&lt;/li&gt;
+&lt;li&gt;Uses ReactJS and my Colr library&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>termcolors</title>
+      <link>http://mintco.de/__old__/termcolors/</link>
+      <pubDate>Tue, 03 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/termcolors/</guid>
+      <description>&lt;p&gt;Hosted on npm&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dotfiles</title>
+      <link>http://mintco.de/__old__/dotfiles/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/dotfiles/</guid>
+      <description>&lt;p&gt;Configuration files for my Linux and OS X computers.&lt;/p&gt;
+
+&lt;p&gt;Uses a &lt;code&gt;makefile&lt;/code&gt; to automatically install and link files.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Veehd CLI</title>
+      <link>http://mintco.de/__old__/veehd/</link>
+      <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/veehd/</guid>
+      <description>&lt;p&gt;A command-line interface for the &lt;a href=&#34;http://veehd.com&#34;&gt;veehd.com&lt;/a&gt; website.
+Automates the process of searching for videos, comparing resolution and bit
+rate, and getting the download link.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>terminal.sexy</title>
+      <link>http://mintco.de/__old__/terminal.sexy/</link>
+      <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/terminal.sexy/</guid>
+      <description>&lt;p&gt;Create, view and edit terminal colorschemes. Supports importing and exporting
+configuration files between many different. My favorite feature is that you can
+import a buffer output from tmux and it will display it in the browser using
+your custom color scheme.&lt;/p&gt;
+
+&lt;p&gt;A lot of the code I wrote for this project was put into external libraries on
+npm, so that they could be used for other projects as well. These libraries
+include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stayradiated/colr&#34;&gt;colr&lt;/a&gt; - convert between color formats
+(rgb, hsl, etc.)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stayradiated/termio&#34;&gt;termio&lt;/a&gt; - convert ansi escape codes
+into html&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stayradiated/termcolors&#34;&gt;termcolors&lt;/a&gt; - import and export
+between multiple terminal color scheme formats&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stayradiated/react-ranger&#34;&gt;react-ranger&lt;/a&gt; - column browser
+(used for the scheme and template file browser)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stayradiated/react-colorpicker&#34;&gt;react-colorpicker&lt;/a&gt; -
+simple colorpicker for react&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other dependencies that were used include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/react&#34;&gt;React&lt;/a&gt; - a JavaScript library for
+building user interfaces.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/golden-layout&#34;&gt;Golden Layout&lt;/a&gt; - The ultimate
+JavaScript layout manager&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/bluebird&#34;&gt;Bluebird&lt;/a&gt; - Full featured
+Promises/A+ implementation with exceptionally good performance&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/reflux&#34;&gt;Reflux&lt;/a&gt; - A simple library for
+uni-directional dataflow application architecture inspired by ReactJS Flux&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/lodash&#34;&gt;Lodash&lt;/a&gt; - Function utilities&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.npmjs.com/package/husl&#34;&gt;HUSL&lt;/a&gt; - Replacement for the HSL color
+space&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Khaki</title>
+      <link>http://mintco.de/__old__/khaki/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/khaki/</guid>
+      <description>&lt;p&gt;Unlock your car just by approaching it! Uses Bluetooth LE on your iPhone to
+automatically detect when you are in close proximity to your car.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Uses Objective-C on iOS and Go on a Raspberry Pi with Bluetooth Low Energy.&lt;/li&gt;
+&lt;li&gt;Detects when your car is running, and stops &amp;lsquo;ranging&amp;rsquo; to save battery life on
+your phone.&lt;/li&gt;
+&lt;li&gt;iOS app uses Apple iBeacons to make sure the app is always running in the
+background when you approach your car, without you having to manually open
+it.&lt;/li&gt;
+&lt;li&gt;Uses HMAC-SHA256 authentication for security.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ranger for React</title>
+      <link>http://mintco.de/__old__/react-ranger/</link>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/react-ranger/</guid>
+      <description>&lt;p&gt;A column browser for the browser. Use it for navigating a tree structure
+of files and directories, with support for a custom file preview pane.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s just like the column view in the OS X Finder app.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>pbkdf2-sha512</title>
+      <link>http://mintco.de/__old__/pbkdf2-sha512/</link>
+      <pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/pbkdf2-sha512/</guid>
+      <description>&lt;p&gt;A PBDKF2 implementation using HMAC SHA512.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OnePassword.js</title>
+      <link>http://mintco.de/__old__/onepasswordjs/</link>
+      <pubDate>Sun, 14 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/onepasswordjs/</guid>
+      <description>&lt;p&gt;An implementation of the 1Password cloud keychain in JavaScript.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>boiler</title>
+      <link>http://mintco.de/__old__/boiler/</link>
+      <pubDate>Thu, 04 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/boiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>downtime</title>
+      <link>http://mintco.de/__old__/downtime/</link>
+      <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/downtime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ports</title>
+      <link>http://mintco.de/__old__/ports/</link>
+      <pubDate>Sun, 16 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/ports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gulp-brfs</title>
+      <link>http://mintco.de/__old__/gulp-brfs/</link>
+      <pubDate>Fri, 14 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/__old__/gulp-brfs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

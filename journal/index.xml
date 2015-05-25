@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journals on Mintcode</title>
+    <link>http://mintco.de/journal/</link>
+    <description>Recent content in Journals on Mintcode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-nz</language>
+    <lastBuildDate>Sun, 05 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://mintco.de/journal/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Overnight Sensation MTM Speakers</title>
+      <link>http://mintco.de/journal/overnight-sensations-mtm/</link>
+      <pubDate>Sun, 05 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/overnight-sensations-mtm/</guid>
+      <description>
+
+&lt;p&gt;The &lt;a href=&#34;https://sites.google.com/site/undefinition/overnightsensationmtm&#34;&gt;Overnight Sensation
+MTM&lt;/a&gt; is a
+speaker designed by &lt;a href=&#34;https://sites.google.com/site/undefinition/&#34;&gt;Paul
+Carmody&lt;/a&gt;. It is the larger version
+of the Overnight Sensation and is very popular in the DIY audio community.&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;rsquo;t had much experience with wood working before, so this project is
+going to be a fun challenge.&lt;/p&gt;
+
+&lt;h2 id=&#34;day-0-ordering-parts:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 0: Ordering Parts&lt;/h2&gt;
+
+&lt;p&gt;It is possible to order a full kit that includes the cabinet pre-cut, and only
+requires gluing together. This saves a lot of time and effort.&lt;/p&gt;
+
+&lt;p&gt;However, I live in New Zealand, and shipping costs a lot. Especially when it&amp;rsquo;s
+large and heavy (like a flat-pack kit of &lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;8&lt;/sub&gt;&amp;rdquo; MDF board).&lt;/p&gt;
+
+&lt;p&gt;So, I decided to build the kit myself. At the time of writing this, I&amp;rsquo;ve
+spent more on tools then it would have cost me to just order the pre-cut
+boards, but I feel like I&amp;rsquo;ve learnt more. Also, if I ever decide to make
+another speaker in the future, I&amp;rsquo;ll only need to purchase the wood.&lt;/p&gt;
+
+&lt;p&gt;I ordered most of the parts from &lt;a href=&#34;http://www.parts-express.com&#34;&gt;Parts Express&lt;/a&gt;.
+However, they didn&amp;rsquo;t have the model of tweeter I needed in stock, so I ordered
+that from &lt;a href=&#34;http://www.theloudspeakerkit.com/dayton-audio-nd20fa-6-3-4-neodymium-dome-tweeter&#34;&gt;The Loudspeaker
+Kit&lt;/a&gt;.
+They also didn&amp;rsquo;t have any 10uF non-polarised electrolytic capacitors in stock,
+so I picked those up from my local &lt;a href=&#34;http://www.jaycar.co.nz/p/RY6908&#34;&gt;Jaycar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;parts-list:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Parts List:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--297-429&#34;&gt;Hivi B4N Midbass Drivers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--275-030&#34;&gt;Dayton ND20FA-6 Tweeters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--004-1.5&#34;&gt;1.5 Ohm 10W Resistors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--004-10&#34;&gt;10 Ohm 10W Resistors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--255-246&#34;&gt;0.15mH 18 AWG Inductors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--255-022&#34;&gt;0.90mH 20 AWG Inductors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--027-340&#34;&gt;10uF 100V Non-Polarized Capacitors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--027-402&#34;&gt;0.22uF 250V Polypropylene Capacitors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;4x &lt;a href=&#34;https://www.parts-express.com/--027-422&#34;&gt;0.47uF 250V Polypropylene Capacitors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;4x &lt;a href=&#34;https://www.parts-express.com/--260-388&#34;&gt;1-&lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;8&lt;/sub&gt;&amp;rdquo; Adjustable Port Tube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2x &lt;a href=&#34;https://www.parts-express.com/--260-303&#34;&gt;Speaker Terminal Binding Posts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;day-1-planning:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 1: Planning&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/plans.jpg&#34; alt=&#34;Paul Carmody&#39;s original design plans&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;There are cabinet design plans for &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt;&amp;rdquo; and &lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;&amp;rdquo; MDF. However, I only have
+access to 18mm MDF, which is a just a millimetre thinner than &lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;&amp;rdquo;. In order to
+maintain the same internal volume, I calculated my own sizes.&lt;/p&gt;
+
+&lt;p&gt;Internal dimensions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;368mm high&lt;/li&gt;
+&lt;li&gt;114mm wide&lt;/li&gt;
+&lt;li&gt;216mm deep&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;External dimensions (with 18mm MDF):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;404mm high&lt;/li&gt;
+&lt;li&gt;150mm wide&lt;/li&gt;
+&lt;li&gt;252mm deep&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I used the 2D cutting optimizer at
+&lt;a href=&#34;http://optimalon.com/online_cut_optimizer.htm&#34;&gt;optimalon.com&lt;/a&gt; to plan out what size MDF
+boards I would need to purchase. I ended choosing 2x 1800x300x18 boards.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/cuts.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I wanted to rebate the edges of the boards so they join together nicely. I did
+plenty of sketches to figure out what cuts I needed to make.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/planning-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/planning-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I used SketchUp to double check that I had all the dimensions correct and that
+my rebate joins were the right size.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/sketchup.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/sketchup.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&#34;day-2-cutting:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 2: Cutting&lt;/h2&gt;
+
+&lt;p&gt;I started by roughly cutting the boards in half using a circular saw.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/cutting-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/cutting-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;)
+&lt;a href=&#34;http://mintco.de/assets/osmtm/full/cutting-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/cutting-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;I, with help from Dad, used a radial-arm saw to cut the boards into the correct
+dimensions. We made sure the saw was cutting at 90˚ by doing a few cuts on a
+bit of scrap.&lt;/p&gt;
+
+&lt;p&gt;It took a while to make all the cuts. The front, back, and sides, which were
+just a little bit longer than what the saw could reach, needed to be spun
+around to finish off the cut.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/cutting-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/cutting-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;)
+&lt;a href=&#34;http://mintco.de/assets/osmtm/full/cutting-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/cutting-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&#34;day-3-the-router:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 3: The Router&lt;/h2&gt;
+
+&lt;p&gt;I spent the morning shopping for a Router and the necessary cutting bits.&lt;/p&gt;
+
+&lt;p&gt;I needed a router to cut the holes for midwoofer and tweeter, as well as to
+rebate the edges.&lt;/p&gt;
+
+&lt;p&gt;I ended purchasing the Black &amp;amp; Decker KW900EKA Plunge Router, as well as an
+18mm straight cutter, a flush trim cutter, and a 10mm rebate cutter.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/router-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/router-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;I used the flush trim cutter to clean up any inconsistances between the tops,
+bottoms, sides and backs.&lt;/p&gt;
+
+&lt;p&gt;The 10mm rebate cutter was also used to cut a 10x8mm rebate on the side boards.
+I also needed to cut an 8x8mm rebate, but at that time I hadn&amp;rsquo;t figured out how
+I was going to do that.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/router-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/router-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;day-4-more-routing:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 4: More Routing&lt;/h2&gt;
+
+&lt;p&gt;I needed to cut an 8mm rebate with only a 10mm rebate cutter, so I made a
+simple jig for the router to slide across, at the just the right distance. It
+was a bit slow to setup, but it worked ok.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/router-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/router-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I then needed to cut a channel in the side and back panels to hold the brace. I
+used the included fence attachment to cut a parallel 18mm groove.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/router-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/router-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;All the panels laid out:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/router-5.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/router-5.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I fitted all the panels together (without glue), just to check that I hadn&amp;rsquo;t
+made any mistakes with the measurements. Overall I was quite impressed, though
+it was wider by about 1.5mm than I had planned for, so I&amp;rsquo;m going to measure
+everything and find out what I need to trim down.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/router-6.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/router-6.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;day-5-diy-router-table:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 5: DIY Router Table&lt;/h2&gt;
+
+&lt;p&gt;It rained nearly all day today, so I didn&amp;rsquo;t have much of a chance to finish off
+the routing.&lt;/p&gt;
+
+&lt;p&gt;I took a trip down to Bunnings and picked up six cheap quick-release clamps,
+which I&amp;rsquo;ll need when I glue the cabinets together. I also bought some quality
+PVA glue, a couple dust masks, and some vernier calipers for precision
+measuring.&lt;/p&gt;
+
+&lt;p&gt;I used the calipers to check how accurate I was with my routing, and found that
+I was short a millimetre in some places. I needed a more accurate way to rebate
+the panels, so I decided I was going to turn my plunge router into a router
+table.&lt;/p&gt;
+
+&lt;p&gt;I wanted something cheap, simple and portable. I found &lt;a href=&#34;http://www.finewoodworking.com/item/11120/free-plan-how-to-build-a-simple-router-table&#34;&gt;this wood working
+article&lt;/a&gt;
+with plans for building exactly what I wanted.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.finewoodworking.com/FWNPDFfree/minimalist-router-table-free-plan.pdf&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-plans.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I started by finding four bolts that would fit into the bottom of my router, as
+the ones it comes with aren&amp;rsquo;t long enough to go through a thick piece of wood.&lt;/p&gt;
+
+&lt;p&gt;I traced around the bottom of the router, and setup a temporary jig about 6mm
+from the edge. Why 6mm? Because I was going to use the included router guide
+bush with the jig, and it happens to be 6mm from the edge of the collet to the
+edge of the cutter.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I cut about 9mm into the board, so that I would have about 21mm left. Doing
+this gives me a bit more height on the cutter bit, and also so I don&amp;rsquo;t have to
+find some longer bolts.&lt;/p&gt;
+
+&lt;p&gt;While trying to cut out middle of the hole, the router accidentally slipped off
+the jig and gouged the bottom of the board. Next time, I just do as much as I
+can, and then finish with a chisel.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I marked screw holes, and drilled them out. So far, so good.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I flipped the board over, and counter sunk the holes, just enough so that
+the bolts wouldn&amp;rsquo;t stick out.&lt;/p&gt;
+
+&lt;p&gt;I used a hole saw and a rasp to cut out the hole for cutter. I then flipped the
+board over again, and attached the router.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I flipped the board back over, so that the router was on the bottom.
+That&amp;rsquo;s the hard part done.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-5.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-5.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I found a piece of wood to use as the fence, and drilled a hole through one
+side, large enough for a bolt. Then I marked out where wood hits the cutter,
+and cut out hole large enough for the cutter to sit.&lt;/p&gt;
+
+&lt;p&gt;I gave it a quick test, and found that it worked pretty well. All that I need
+to do now is use some tape to keep the power button on the router pressed, so I
+don&amp;rsquo;t have to keep one my hand on it all the time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-6.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-6.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The great thing about this setup is that I can simply unclamp it from the
+table, and move it around, or bring it inside for storage.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-7.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-7.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;day-6-routing-glueing:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 6: Routing &amp;amp; Glueing&lt;/h2&gt;
+
+&lt;p&gt;To finish off the router table, I needed an easy way to be able to switch the
+router on and off. I used several rubber bands to keep the router button
+depressed, and a power strip to turn the router on.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-8.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-8.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I clamped the board to the table with a wooden stake so I the clamps wouldn&amp;rsquo;t
+get in the way. I clamped the vacuum right next to the router to minimize the
+amount of dust.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-9.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-9.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In case the board wasn&amp;rsquo;t strong enough to hold the router, I stacked up some
+scrap wood underneath it. This was also useful when I needed to adjust the
+plunge depth, as I could use the wood to hold the router in place while I
+tweaked the depth.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-10.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-10.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I ended up needing to cut another hole in my fence, as the first one I made was
+too wide, and it made cutting smaller pieces difficult.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/table-11.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/table-11.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Later on in the day I started to glue the cabinet together. I did a test fit
+before to make sure all the panels fit together properly.&lt;/p&gt;
+
+&lt;p&gt;I prepared by putting plenty of newspaper down, and getting a damp cloth ready
+to wipe off excess glue.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/glue-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I started with one corner, clamping it for half an hour, and then doing another
+corner. I left the cabinet clamped overnight, for maximum strength.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/glue-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;day-7-glueing-bracing:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 7: Glueing &amp;amp; Bracing&lt;/h2&gt;
+
+&lt;p&gt;The first cabinet I glued was finished, and I was quite impressed by how strong
+it feels.&lt;/p&gt;
+
+&lt;p&gt;I glued the second cabinet, this time doing two corners at a time to speed up
+the process.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/glue-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll need to do a bit of sanding, but overall I think the glueing went pretty
+well. The brace and back panel are not glued in yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/glue-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The Dayton tweeters arrived. They were a bit smaller than I
+expected, probably because I was assuming that would be similar to the HiVi T-20
+that
+&lt;a href=&#34;http://meniscusaudio.com/overnight-sensation-pair-p-1243.html&#34;&gt;meniscus.com&lt;/a&gt;
+offers.&lt;/p&gt;
+
+&lt;p&gt;The diameter of hole needed to mount the tweeter is 33mm.
+The flange around it has a diameter of 45mm and is 2.25mm thick.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/tweeter-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/tweeter-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Time to cut the brace supports with a jigsaw.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/brace-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My jigsawing skills aren&amp;rsquo;t the greatest, but it doesn&amp;rsquo;t too much, as you will
+not be able to see the brace once it&amp;rsquo;s installed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/brace-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/brace-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/brace-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I gave the edges a quick sand to smooth them a bit. Not at all necessary, but
+it might make installing the midwoofer and tweeter a bit nicer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-5.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/brace-5.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is how the braces look installed in the cabinets. I haven&amp;rsquo;t glued them in
+yet. I think I&amp;rsquo;ll wait until the rest of the parts arrive.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/glue-6.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/brace-6.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;day-8-diy-circle-jig:b331d4a120d9e29602d269a80b3ea1e5&#34;&gt;Day 8: DIY Circle Jig&lt;/h2&gt;
+
+&lt;p&gt;It rained again today. The parts are still in transit, so there wasn&amp;rsquo;t much to
+do except build the circle jig so I can cut cicles with the router.&lt;/p&gt;
+
+&lt;p&gt;I went with a design I saw on &lt;a href=&#34;https://youtu.be/b37LyYIO0sA?list=PLe27g672GxSaAMvcp8t5OI3Mzyg3m-GfY&#34;&gt;Richard Morley&amp;rsquo;s YouTube
+Channel&lt;/a&gt;
+where the center point is fixed and the router slides back and forth on rails.&lt;/p&gt;
+
+&lt;p&gt;I started by marking out what I needed on some spare hardboard. I then cut out
+the pieces using a jigsaw.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To make the jig a bit stronger, and because the only thick washer I could find
+was thicker than a single piece of board, I decided to glue two pieces
+together.&lt;/p&gt;
+
+&lt;p&gt;I then drilled a hole for the washer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The washer is used to protect the wood from being eroded when it rotates around
+the center bolt.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I then used the radial-arm saw to square up the edges.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-5.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-5.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I gave the edges a quick sanding to make them a bit smoother.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To make the rails for the router, I first drilled holes at one end, then used
+my table router to cut a straight line.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-6.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-6.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-7.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-7.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I then used a larger cutter to cut out channels a couple millimeters deep so
+that a washer could fit in there.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-8.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-8.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I found a couple old washers that were the right size.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-9.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-9.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately I didn&amp;rsquo;t cut the channels deep enough to cover for the washer and
+the head of the bolt. By this time I had already disassembled my table router,
+so I&amp;rsquo;ll probably fix this tomorrow.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-10.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-10.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I attached the router to the circle jig, and cut the center rail for the cutter
+bit to go through.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-12.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-12.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It was getting quite dark, so I decided to give it quick test before packing
+up. I found a bit of scrap MDF and drilled a hole so I could fit a bolt through
+it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-13.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-13.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I then fit the router with the circle jig attached over the bolt. Tomorrow,
+I might cut the bolt down a bit, as I&amp;rsquo;ll need to cut circles where the bolt
+will be under the router.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-14.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-14.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The result was pretty decent.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-11.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-11.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The finished circle jig. Just need to make the channels a little deeper.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/osmtm/full/circle-15.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/osmtm/circle-15.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LM3886 Chip Amplifier</title>
+      <link>http://mintco.de/journal/lm3886-stereo-amp/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/lm3886-stereo-amp/</guid>
+      <description>
+
+&lt;h1 id=&#34;building-a-chip-amplifier:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Building a Chip Amplifier&lt;/h1&gt;
+
+&lt;p&gt;In preparation to this project, I built a &lt;a href=&#34;http://mintco.de/projects/lm380-stereo-amp/&#34;&gt;LM380 chip
+amp&lt;/a&gt;, which was cheaper and easier and makes for a
+good weekend project.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Project Goal&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I want to build an amplifier. Mainly because I need something to connect an
+iPhone to a set of speakers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt;: This project requires working with mains supply voltages, which
+can be lethal if you don&amp;rsquo;t take the proper precautions.&lt;/p&gt;
+
+&lt;p&gt;My original idea was to use a LM386 IC and $20 worth of parts to make a 0.5W
+amp powered using 12v, but now I&amp;rsquo;m thinking I need to make something with a bit
+more oomph.&lt;/p&gt;
+
+&lt;p&gt;Then I discovered the gainclone amplifier, which appears to be quite popular in
+the DIY audio community.&lt;/p&gt;
+
+&lt;p&gt;After researching different circuits and variations, I settled on the kitset
+from &lt;a href=&#34;http://chipamp.com&#34;&gt;chipamp.com&lt;/a&gt;. I chose the &lt;a href=&#34;http://chipamp.com/product/non-inverting-lm3886-stereo-amplifier-kit/&#34;&gt;Non-Inverting LM3886
+stereo
+kit&lt;/a&gt;,
+which included a &amp;lsquo;snubberized&amp;rsquo; power supply board, and was also on special.&lt;/p&gt;
+
+&lt;p&gt;However, the kit supplys only the parts for the power supply board and
+the two amplifiers. There is still quite a lot you need to do.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-chipamp-kit:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;The Chipamp Kit&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/parts-layout.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/parts-layout.jpg&#34; alt=&#34;All the parts meticulously laid
+out&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-full-bridge-rectifier:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;The Full Bridge Rectifier&lt;/h3&gt;
+
+&lt;p&gt;This converts AC to DC using a bunch of diodes in a clever pattern. I&amp;rsquo;m going
+to go for the &amp;lsquo;snubberized&amp;rsquo; version.&lt;/p&gt;
+
+&lt;p&gt;The circuit is based on one developed by Carlos Machado, which allows it drive
+more difficult loads without adversly affecting the midrange and top end sound.
+&lt;a href=&#34;http://www.decdun.me.uk/gainclonesnub.html&#34;&gt;More information here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are two identical circuits, each with a full bridge rectifiers. The dual
+circuits are for the left and right audio channels.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://chipamp.com/beta2/wp-content/uploads/ps-rev3-sch.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Parts list (included with kit):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;2x 10000 uF 50v Panasonic TS Capacitors (35mm x 30mm low profile)
+4x 0.1 uf film caps
+8x MUR860 On Semiconductor Diodes
+2x 2.2 kohm 2w metal film resistors
+2x 1 ohm 2w metal film resistors
+1x blue LED
+1x 1N4004 diode
+1x 10 kohm 0.5w compact metal film resistor
+1x 10 uF Panasonic FC Capacitors
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/finished-chip-amps.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/finished-chip-amps.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;amplifier:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Amplifier&lt;/h3&gt;
+
+&lt;p&gt;Parts list (included with kit):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;2x LM3886TF
+4x 22 kohm 0.5w compact metal film resistors
+2x 10 kohm 0.5w compact metal film resistors
+2x 1 kohm 0.5w compact metal film resistors
+2x 680 ohm 0.5w compact metal film resistors
+2x 2.7 ohm 2w metal film resistors
+6x 100 uf 50v Panasonic FC
+2x 47 uf 50v Panasonic FC
+6x 0.1 uf film caps
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;the-power-supply:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;The Power Supply&lt;/h2&gt;
+
+&lt;p&gt;This is pretty important. You don&amp;rsquo;t want to just use any old power supply,
+because it will likely introduce a humming sound to audio output. I decided to
+use a toroidal transformer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nz.rs-online.com/web/p/toroidal-transformers/2238178/&#34;&gt;225VA 2x25V AC Toroidal
+Transformer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Recommended reading: &lt;a href=&#34;http://www.decdun.me.uk/gainclone_psu.html&#34;&gt;Decible Dungeoun - Building a
+PSU&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Required Components&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IEC C13 power supply cable&lt;/strong&gt;. The same cable you would use to plug into a
+computer or monitor. I happen have a bunch of these lying around.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IEC C14 panel mount socket&lt;/strong&gt;. I chose to get one with a built in switch
+and fuse so it&amp;rsquo;s a bit safer to work with.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2AT Fuse&lt;/strong&gt;. Needs to work with 230v and has to be anti-surge to work with
+the transformer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Toroidal Transformer&lt;/strong&gt;. This is one of the most expensive parts of the
+project. From what I&amp;rsquo;ve read it should support at least 120VA (not entirely
+sure what that means) and needs to work with 230v AC and output something
+between 20-38v AC.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/iec-socket.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/iec-socket.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;preamplifier:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Preamplifier&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-7.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-7.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-5.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-5.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-6.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-6.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/controls.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/controls.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/preamp-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/preamp-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;preamplifier-power:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Preamplifier Power&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/regulator-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/regulator-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/regulator-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/regulator-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/regulator-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/regulator-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/regulator-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/regulator-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;trying-it-out:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Trying it out&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/before-box.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/before-box.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/table-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/table-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/table-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/table-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-box:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;The Box&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/cutting-box-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/cutting-box-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/cutting-box-5.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/cutting-box-5.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/cutting-box-6.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/cutting-box-6.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/cutting-box-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/cutting-box-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/cutting-box-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/cutting-box-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/cutting-box-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/cutting-box-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/drilling-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/drilling-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/drilling-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/drilling-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/drilling-4.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/drilling-4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/painting-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/painting-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/drilling-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/drilling-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;installing-components-in-box:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Installing Components in Box&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/table-3.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/table-3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/inputs.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/inputs.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/box-mounts.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/box-mounts.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/without-lid.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/without-lid.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/fitting-components.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/fitting-components.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/with-lid.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/with-lid.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;complete:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Complete&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/complete.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/complete.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;bonus-shots:6d13c9b70a9c65b39e26e2e50daf4b01&#34;&gt;Bonus Shots&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mintco.de/assets/lm3886/full/lego-1.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/lego-1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;
+&lt;a href=&#34;http://mintco.de/assets/lm3886/full/lego-2.jpg&#34;&gt;&lt;img src=&#34;http://mintco.de/assets/lm3886/lego-2.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>termcolors</title>
+      <link>http://mintco.de/journal/termcolors/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/termcolors/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/stayradiated/termcolors&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There are lots of different terminal emulators avaiable, and each use their own
+custom config format.&lt;/p&gt;
+
+&lt;p&gt;However, they all tend to used the same common format of 16 user defineable
+colours, as well as foreground and background.&lt;/p&gt;
+
+&lt;p&gt;Many tools that work with terminal colours need to write their own
+importing/exporting code. This library aims to handle that for them.&lt;/p&gt;
+
+&lt;p&gt;The termcolors library currently supports a wide range of terminals, and it&amp;rsquo;s
+pretty easy to add more.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a lot easier to write an exporting function compared to an importing one.
+Mainly because when parsing some input you have to handle a bunch of
+variations.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;Xresources&lt;/code&gt; importer is pretty good, and has been throughouly tested with
+a wide range of inputs. It also handles C&amp;rsquo;s &lt;code&gt;#define&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The library also comes with a simple command line executable: &lt;code&gt;termcolors&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can install it with nodejs using &lt;code&gt;npm install -g termcolors&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Usage is quite straight forward, just set the input and output formats and pipe
+some data in to it.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cat ~/.Xresources | termcolors -i xresources -o iterm
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can also list all the avaiable formats:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ termcolors -l
+chromeshell  [export]
+gnome        [export]
+guake        [export]
+iterm        [export] [import]
+json         [export] [import]
+konsole      [export]
+linux        [export]
+mintty       [export]
+putty        [export]
+st           [export]
+termite      [export] [import]
+terminator   [export]
+terminalapp  [export] [import]
+text         [export]
+textmate     [export]
+xfce         [export]
+xresources   [export] [import]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;behind-the-scenes:09a3af9030433c6c7c7e1ed48418d200&#34;&gt;Behind the Scenes&lt;/h2&gt;
+
+&lt;p&gt;TermColors is written using JavaScript.&lt;/p&gt;
+
+&lt;p&gt;It can run in nodejs and the browser, which is very useful for web apps. I&amp;rsquo;ve
+consisdered rewriting it in Go a couple times, but I think having it able to
+run in the browser is too useful to give up.&lt;/p&gt;
+
+&lt;p&gt;It uses the &lt;code&gt;dot&lt;/code&gt; templating library, which is quite quick and simple to use.&lt;/p&gt;
+
+&lt;p&gt;Regular expressions are used to parse input when importing terminals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rango</title>
+      <link>http://mintco.de/journal/rango/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/rango/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/stayradiated/rango&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;project-details:0db95be05140c541abc8c0893d3b26df&#34;&gt;Project Details&lt;/h2&gt;
+
+&lt;p&gt;Rango is a browser based editor for &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hugo is a static website generator. What does that mean? Well, unlike dynamic
+websites which use Wordpress or Drupal which render the website when a user
+views the page.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Go&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Client-side Libraries:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Fluxxor&lt;/li&gt;
+&lt;li&gt;Immutable&lt;/li&gt;
+&lt;li&gt;CodeMirror&lt;/li&gt;
+&lt;li&gt;Browserify&lt;/li&gt;
+&lt;li&gt;Gulp&lt;/li&gt;
+&lt;li&gt;Jest&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Server-side Libraries:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/hugo&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gorilla/mux&#34;&gt;Gorilla Mux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kennygrant/sanitize&#34;&gt;Sanitize&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/BurntSushi/toml&#34;&gt;TOML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/stretchr/testify&#34;&gt;Testify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LM380 Stereo Amplifier</title>
+      <link>http://mintco.de/journal/lm380-stereo-amp/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/lm380-stereo-amp/</guid>
+      <description>
+
+&lt;p&gt;In preparation for building the LM3886 amplifier, I wanted to create a simpler,
+cheaper amplifier.&lt;/p&gt;
+
+&lt;p&gt;After a bit of research online, I found the LM380 chipamp and &lt;a href=&#34;http://www.x2jiggy.com/blog/2014/4/14/lm380-stereo-amplifier&#34;&gt;this blog post
+by x2jiggy&lt;/a&gt;.
+While I wouldn&amp;rsquo;t be creating the case out of MD&lt;/p&gt;
+
+&lt;h2 id=&#34;the-components:913b503784b542f7e305ac6ee904380d&#34;&gt;The Components&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/1-layout.jpg&#34; alt=&#34;Layout&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/3-the-plan.jpg&#34; alt=&#34;The Plan&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;breadboard:913b503784b542f7e305ac6ee904380d&#34;&gt;Breadboard&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/2-breadboard-single-channel.jpg&#34; alt=&#34;Breadboard: Single Channel&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/4-breadboard-dual-channels.jpg&#34; alt=&#34;Breadboard: Dual Channels&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/5-finished-breadboard.jpg&#34; alt=&#34;Finished Breadboard&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;circuit-board:913b503784b542f7e305ac6ee904380d&#34;&gt;Circuit Board&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/6-planning-circuit-board.jpg&#34; alt=&#34;Planning circuit board&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/7-soldering.jpg&#34; alt=&#34;Soldering&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/8-finished-soldering.jpg&#34; alt=&#34;Finished soldering&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;the-box:913b503784b542f7e305ac6ee904380d&#34;&gt;The Box&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/9-building-box.jpg&#34; alt=&#34;Building box&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/10-box-wiring.jpg&#34; alt=&#34;Box wiring&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/11-lego-standoffs.jpg&#34; alt=&#34;Lego standoffs&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/12-closing-the-box.jpg&#34; alt=&#34;Closing the box&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;finishing-off:913b503784b542f7e305ac6ee904380d&#34;&gt;Finishing Off&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/13-in-use.jpg&#34; alt=&#34;In use&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/lm380/14-ominous.jpg&#34; alt=&#34;Ominous&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>terminal.sexy</title>
+      <link>http://mintco.de/journal/terminal.sexy/</link>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/terminal.sexy/</guid>
+      <description>
+
+&lt;p&gt;Create terminal colour schemes with ease.&lt;/p&gt;
+
+&lt;h2 id=&#34;editing-a-theme:6e32bca8308522530af4cfb520ba5746&#34;&gt;Editing a theme&lt;/h2&gt;
+
+&lt;p&gt;Quickly and easily edit any color and watch as the template updates in real
+time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/changing-colors.gif&#34; alt=&#34;Changing Colors&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;importing-an-existing-theme:6e32bca8308522530af4cfb520ba5746&#34;&gt;Importing an existing theme&lt;/h2&gt;
+
+&lt;p&gt;You can import schemes from Xresources, termite or iTerm.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/importing.gif&#34; alt=&#34;Importing&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;set-the-font:6e32bca8308522530af4cfb520ba5746&#34;&gt;Set the font&lt;/h2&gt;
+
+&lt;p&gt;Make the app look just as your terminal does.&lt;/p&gt;
+
+&lt;p&gt;Supports any font you have installed, as well as any font on Google Web Fonts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/setting-font.gif&#34; alt=&#34;Setting Font&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;customisable-ui:6e32bca8308522530af4cfb520ba5746&#34;&gt;Customisable UI&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/window-manager.gif&#34; alt=&#34;Customisable UI&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;open-a-template:6e32bca8308522530af4cfb520ba5746&#34;&gt;Open a template&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/different-templates.gif&#34; alt=&#34;Templates&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;importing-a-template:6e32bca8308522530af4cfb520ba5746&#34;&gt;Importing a template&lt;/h2&gt;
+
+&lt;h2 id=&#34;color-identification:6e32bca8308522530af4cfb520ba5746&#34;&gt;Color Identification&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/hover-id.gif&#34; alt=&#34;Hover to see color ID&#34; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;scheme-browser:6e32bca8308522530af4cfb520ba5746&#34;&gt;Scheme Browser&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mintco.de/assets/terminal.sexy/scheme-browser.gif&#34; alt=&#34;Scheme Browser&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I bought a Surface Pro 3</title>
+      <link>http://mintco.de/journal/i-bought-a-surface-pro-3/</link>
+      <pubDate>Sun, 14 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/i-bought-a-surface-pro-3/</guid>
+      <description>&lt;p&gt;Six months ago, a kid threw a pen at my MacBook Air. This created a bunch of dead pixels, but the computer was still usable. However, over the next three months the screen gained more and more dead pixels until half the screen didn’t work. I was considering getting a MacBook Pro, but when the Surface Pro 3 was announced, I put in my preorder.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/sp3.jpg&#34; alt=&#34;My Surface Pro 3&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Three months later, my Surface finally arrived. I think it’s pretty great.&lt;/p&gt;
+
+&lt;p&gt;I’ve been using it at school for the past two weeks, and it works pretty well. It’s a good replacement for paper and I write notes with the stylus in portrait mode. The most valuable thing is not the fact that you’re writing on a screen, but the organization that it offers. There’s no more loose bits of crunched up paper in the bottom of my bag. However, the magnesium body does scratch pretty easily as I use it on desks without the kickstand. The battery has also been able to get me through the day and while I don’t get the advertised 9 hours, I don’t worry about leaving the charger at home.&lt;/p&gt;
+
+&lt;p&gt;The keyboard is okay. It offers less travel than my old MacBook, but it’s certainly usable. I do wish that there were volume up/down keys, media controls and screen brightness – the “charm” keys for Windows 8 aren’t particularly useful. The MacBook is better for usage on the lap, but the Surface isn’t bad. It’s reasonably stable and the detachable keyboard does come in handy, especially when presenting things to others. The trackpad, while not as good as the MacBook, is still the best I’ve ever used on a Windows PC.&lt;/p&gt;
+
+&lt;p&gt;Performance is good. It’s not as fast as a MacBook Pro, but it can do anything I throw at it (I bought the 256GB i5 version). I read things about people complaining about throttling, but it’s only noticeable when doing really intensive things – a video will encode at 400FPS in Handbrake, but it starts to throttle down to 300FPS after a few minutes. It’s not as bad as people make it out to be.&lt;/p&gt;
+
+&lt;p&gt;Windows 8 is okay. I do miss the Unix features of OS X, but it’s reasonably remediable by installing Cygwin (although things don’t work &lt;em&gt;quite&lt;/em&gt; right). Windows 8 is the only OS that combines the touch, pen, and mouse input together, and I think Microsoft did a pretty good job - it’s really nice that I can do proper multitasking on a tablet. Some desktop apps don’t support touch well (ugh, Spotify), and the trackpad doesn’t work in some (ugh, Sublime Text 3). But it’s not bad. It’s only mildly annoying.&lt;/p&gt;
+
+&lt;p&gt;The most annoying thing about Windows 8 is the multi-monitor support. It’s just doesn’t work if you use the traditional desktop with two screens at different DPI settings. Microsoft needs to fix that. That said, the High DPI support is generally pretty good. Most apps will scale nicely to 150%, but there’s a couple of weird ones (ugh, Spotify, Adobe Acrobat, Steam). The 3:2 aspect ratio is great because it just gives you a lot of vertical space, which is nice when coding, but some games don’t support this, leaving black bars around the window (I’ve been told that installing the official Intel Driver fixes this). Overall, the screen is very nice but will distort a bit when pressing hard with the pen.&lt;/p&gt;
+
+&lt;p&gt;I’m pretty happy with my purchase. The Surface Pro 3 is the coolest device I’ve ever owned, and I feel like it was designed with students in mind. Buy a Surface Pro 3 if you want touch, pen input and a removable keyboard in a super thin and light package. If you don’t need any of that and you want something more powerful and better on your lap, get a Retina MacBook Pro.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Springseed 1.1 Released!</title>
+      <link>http://mintco.de/journal/springseed-1.1-released/</link>
+      <pubDate>Sat, 15 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/springseed-1.1-released/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ve been working on Springseed for the last couple of months and we&amp;rsquo;re excited to announce a new release. We&amp;rsquo;ve made it even easier to organize your notes with the option of categories for your notebooks and support for drag and drop. We&amp;rsquo;ve changed a lot behind the scenes to improve performance &amp;amp; sync reliablilty as well as fixing a large number of issues present in the last release.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re really excited about Springseed and we would love it if you checked it out. If Springseed is already installed, you can get the latest version from the update manager but there may be a &amp;ldquo;Package is unsigned error&amp;rdquo;. You can either dismiss this, or get the app from out website. If you don&amp;rsquo;t already have Springseed, it&amp;rsquo;s available for Ubuntu 12.04 and later from &lt;a href=&#34;http://getspringseed.com&#34;&gt;getspringseed.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SQL Server &#43; node.js &#43; OS X</title>
+      <link>http://mintco.de/journal/sql-server--node.js--os-x/</link>
+      <pubDate>Mon, 20 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/sql-server--node.js--os-x/</guid>
+      <description>
+
+&lt;p&gt;Windows Azure Web Sites supports a number of platforms including node.js but only offers SQL Server for database hosting. It&amp;rsquo;s a little confusing to get set up, especially if you&amp;rsquo;re not running Windows.&lt;/p&gt;
+
+&lt;p&gt;For starters, you probably don&amp;rsquo;t want to be using &lt;a href=&#34;https://github.com/windowsazure/node-sqlserver&#34;&gt;Microsoft&amp;rsquo;s official driver for node.js&lt;/a&gt;. It only runs on Windows and you need to download a bunch of huge dependencies to even compile it. The pre-built binaries that Microsoft offer didn&amp;rsquo;t work for me either.&lt;/p&gt;
+
+&lt;p&gt;Instead, I recommend using &lt;a href=&#34;https://github.com/patriksimek/node-mssql&#34;&gt;node-mssql&lt;/a&gt; to connect to SQL Server. It works on all platforms, and doesn&amp;rsquo;t require a crazy compilation step. However, it took me a while to even get a database connection because it loves to throw connection errors silently.&lt;/p&gt;
+
+&lt;h3 id=&#34;local-server:416f0b7fe4b6cf9de851a80368921304&#34;&gt;Local Server&lt;/h3&gt;
+
+&lt;p&gt;If you&amp;rsquo;re running your own local SQL Server, you&amp;rsquo;ll want to create a SQL user first - the standard Windows Authentication doesn&amp;rsquo;t work with the node driver. My local SQL Server was located at &lt;code&gt;SERVER\SQLEXPRESS&lt;/code&gt; but you&amp;rsquo;ll have to specify this manually like in the example below.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{
+  user: &#39;username&#39;,
+  password: &#39;password&#39;,
+  server: &#39;SERVER&#39;,
+  database: &#39;database&#39;,
+  options: {
+    port: &#39;&#39;,
+    instanceName: &#39;SQLEXPRESS&#39;
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;windows-azure:416f0b7fe4b6cf9de851a80368921304&#34;&gt;Windows Azure&lt;/h3&gt;
+
+&lt;p&gt;Windows Azure also requires some special configuration. Connections have to be encrypted and you&amp;rsquo;ll need to use a special format for your username.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{
+  user: &#39;username@server.database.windows.net&#39;,
+  password: &#39;password&#39;,
+  server: &#39;server.database.windows.net&#39;,
+  database: &#39;database&#39;,
+  options: {
+    encrypt: true
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;So, that&amp;rsquo;s it. After using these connection settings, you&amp;rsquo;ll hopefully be able to query away. This took way too much time to figure out, so I hope this helps anyone who&amp;rsquo;s having similar issues.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stor-E-Cards</title>
+      <link>http://mintco.de/journal/stor-e-cards/</link>
+      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/stor-e-cards/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been helping with building a web  service for the last few months. This site, Stor-E-Cards is a unique take on the traditional greeting card, as each card has the link to a story online inside. I think it&amp;rsquo;s pretty neat and they are definitely nicer than E-Cards because due the product being a real physical card. In a way, it bridges the physical and digital worlds.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/stor-e-cards.png&#34; alt=&#34;Stor-E-Cards&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The site was orignally built with PHP &amp;amp; MySQL, but the current version uses Ruby on Rails &amp;amp; PostgreSQL. It&amp;rsquo;s only going to get better as we add more new cards and features.&lt;/p&gt;
+
+&lt;p&gt;A lot of the stories are pretty cool and it is worth having a look at. Cards are bought from the site and they&amp;rsquo;re currently $7.99 NZD with free worldwide shipping.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.stor-e-cards.com&#34;&gt;stor-e-cards.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I bought a Nintendo 2DS</title>
+      <link>http://mintco.de/journal/i-bought-a-nintendo-2ds/</link>
+      <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/i-bought-a-nintendo-2ds/</guid>
+      <description>&lt;p&gt;Phone games aren&amp;rsquo;t great and that&amp;rsquo;s not just because I have a Windows Phone. Some of this stems from the lack of tactile controls but microtransactions are by far the biggest problem. There&amp;rsquo;s only a small handful of games that do a good job with microtransactions such as Team Fortress 2 or League of Legends but the majority of mobile games feel like a grind and require real money to advance - bringing us back to the days of the arcades. Unwilling to put up with any of this, I bought a 2DS.&lt;/p&gt;
+
+&lt;p&gt;Before purchasing the 2DS, I considered the PS Vita for the simple fact that I love Spelunky. While there were a few games I would have liked to play on the Vita (Tearaway, Rayman Legends, Guacamelee!), many of them were available on the computer or Xbox unlike the Zelda, Mario and Pokemon franchises. There was also a significantly larger list of 3DS exclusives I wanted to play, despite the Vita having the superior hardware. More than anything, the Vita feels like a companion device to the PlayStation 4, something which I don&amp;rsquo;t plan on purchasing in the near future.&lt;/p&gt;
+
+&lt;p&gt;So, why a 2DS? Why not a 3DS or 3DS XL? I couldn&amp;rsquo;t find a new 3DS for sale in New Zealand so unless I bought a used system, it was out of the question. The increased 3DS XL screen size is also an issue as it further lowers the PPI due to the absurdly low screen resolution at which 3DS games are run (400x240). Finally, I don&amp;rsquo;t like 3D - I personally find the effect a bit sickening and make a effort to see films in 2D. I&amp;rsquo;ve also heard that many games running in 3D see a reduced frame rate as well as a significant reduction in battery life.&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;rsquo;t used the 3DS or 3DS XL for an extended period of time, but the 2DS is certainly more comfortable than the DS or DS Lite. All the controls feel pretty good apart from the D-Pad, which isn&amp;rsquo;t bad but could see some improvement. The graphics are certainly a step up from the original DS, but the screen resolution is still abysmal when compared with a phone. When playing original DS games on the system, there&amp;rsquo;s a weird scaling effect due to the increased, but not doubled resolution.&lt;/p&gt;
+
+&lt;p&gt;Being a pretty big Pokemon fan, the new games were one of the major incentives leading to the purchase of the 2DS. And really, Pokemon X &amp;amp; Y are the best Pokemon games I&amp;rsquo;ve ever played. The graphics are fantastic - the new cel-shaded 3D models manage to capture the distinct Pokemon style, unlike Colosseum and XD on the GameCube. Battles feel more engaging with the new graphics and the new region feels more majestic than anything preceding it. There&amp;rsquo;s not a huge amount of new Pokemon unlike previous generations but the region scatters a wide variety of Pokemon around the place. Pokemon X &amp;amp; Y also incentivise catching and training a wide variety of Pokemon unlike previous games where it was more common to dedicate yourself to a single team. My only criticisms would have to be the lack of post-game content and it would have been nice to see some antialiasing in game.&lt;/p&gt;
+
+&lt;p&gt;I also purchased Mario Kart 7 for the 2DS and like Pokemon, it&amp;rsquo;s also my favourite game in the series. The game controls well and it feels like you&amp;rsquo;re really in control of the kart. The graphics are great and new mechanics such as the gliders and underwater stages continue to keep the series fresh.  The 150cc mode is pretty difficult but it was nothing compared to the brutality of the online play. Despite constantly losing online, the game was still fun and was usually pretty fair. My only real complaint with Mario Kart 7 is the lack of a VS mode which previously allowed racing on any track rather than picking a cup to compete in.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I feel that I made the right decision purchasing the 2DS over the 3DS XL or the Vita. There&amp;rsquo;s a large number of great games that I haven&amp;rsquo;t played yet and with titles such as Super Smash Bros on the horizon, I&amp;rsquo;m going to be entertained for a while to come. There&amp;rsquo;s also the flipside - if I didn&amp;rsquo;t waste so much time playing games, there&amp;rsquo;s always the off chance that we&amp;rsquo;ll push some new updates for our apps.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing Springseed</title>
+      <link>http://mintco.de/journal/introducing-springseed/</link>
+      <pubDate>Fri, 26 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/introducing-springseed/</guid>
+      <description>&lt;p&gt;Springseed is an awesome way to take notes. It helps you organise notes with a beautiful interface and syncs with Dropbox so you can keep your notes with you, wherever you are. It&amp;rsquo;s been in the works since January and we&amp;rsquo;re releasing today, exclusively for Ubuntu. Springseed is free and open source software and we hope you enjoy using it as much as we did creating it. Donations are also appreciated in order to support the development.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/springseed.png&#34; alt=&#34;Springseed Screenshot&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ve got a lot in store for Springseed in the near future, including Mac &amp;amp; Windows releases. We&amp;rsquo;ll be adding customisation options, more sync services and more organisation options. Showing your appreciation for Springseed by spreading the word will support the development and you&amp;rsquo;ll get new features, faster.&lt;/p&gt;
+
+&lt;p&gt;Springseed is available for Ubuntu, free of charge at &lt;a href=&#34;http://getspringseed.com&#34;&gt;getspringseed.com&lt;/a&gt;. Give it a spin today.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sharing Internet over an Ethernet Cable</title>
+      <link>http://mintco.de/journal/sharing-internet-over-an-ethernet-cable/</link>
+      <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/sharing-internet-over-an-ethernet-cable/</guid>
+      <description>
+
+&lt;p&gt;A few days ago, the phone jack for the modem stopped working and I had to move it to another part of the house. However our desktop doesn&amp;rsquo;t have a wireless card so I dug out an old netbook with an Ethernet jack to use as a temporary solution.&lt;/p&gt;
+
+&lt;p&gt;Start by connecting to the wireless network on the computer and using an ethernet cable to connect both devices. The device requiring a network connection won&amp;rsquo;t require any special configuration besides using DHCP but there&amp;rsquo;s a few easy steps required for the other.&lt;/p&gt;
+
+&lt;h2 id=&#34;windows:fd688f2579d565ca0acdda21b2e9a716&#34;&gt;Windows&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Open the &lt;strong&gt;Network and Sharing Center&lt;/strong&gt; and click on &lt;strong&gt;Change Adapter Setting&lt;/strong&gt; in the sidebar.&lt;/li&gt;
+&lt;li&gt;Right click on &lt;strong&gt;Local Area Connection&lt;/strong&gt; and select &lt;strong&gt;Properties&lt;/strong&gt;
+&lt;img src=&#34;http://files.mintco.de/site/images/lanproperties_windows.jpg&#34; alt=&#34;LAN Properties&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Internet Protocol Version 4 (TCP/IPv4)&lt;/strong&gt; and select &lt;strong&gt;Properties&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Use the following IP Address&lt;/strong&gt; and use something such as &lt;strong&gt;192.168.0.1&lt;/strong&gt;. Use &lt;strong&gt;255.255.255.0&lt;/strong&gt; as the subnet and leave the rest blank.&lt;/li&gt;
+&lt;li&gt;When you&amp;rsquo;re back at the network connections window, right click the &lt;strong&gt;Wireless Network Connection&lt;/strong&gt; and select &lt;strong&gt;Properties&lt;/strong&gt;.
+&lt;img src=&#34;http://files.mintco.de/site/images/wlanproperties_windows.jpg&#34; alt=&#34;Wireless LAN Properties&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Switch to the &lt;strong&gt;Sharing&lt;/strong&gt; tab and tick &lt;strong&gt;Allow other network users to connect through this computers internet connection&lt;/strong&gt;. Select &lt;strong&gt;Local Area Connection&lt;/strong&gt; as the adapter.&lt;/li&gt;
+&lt;li&gt;Hit &lt;strong&gt;ok&lt;/strong&gt;, &lt;strong&gt;close&lt;/strong&gt; and you&amp;rsquo;re done!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;os-x:fd688f2579d565ca0acdda21b2e9a716&#34;&gt;OS X&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Open &lt;strong&gt;System Preferences &amp;rarr; Sharing&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Internet Sharing&lt;/strong&gt; and choose the interfaces you would like to share on (My Mac does not have an Ethernet jack).
+&lt;img src=&#34;http://files.mintco.de/site/images/internetsharing_mac.png&#34; alt=&#34;Internet Sharing Mac&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Tick the checkbox and you&amp;rsquo;re done!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;ubuntu:fd688f2579d565ca0acdda21b2e9a716&#34;&gt;Ubuntu&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Click the wireless icon and select &lt;strong&gt;Edit Connections&lt;/strong&gt; in the dropdown.&lt;/li&gt;
+&lt;li&gt;Select your Ethernet interface and click &lt;strong&gt;Edit&lt;/strong&gt;.
+&lt;img src=&#34;http://files.mintco.de/site/images/networkconnections_ubuntu.png&#34; alt=&#34;Connections Window&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Head over to the &lt;strong&gt;IPv4 Settings&lt;/strong&gt; tab and change the method to &lt;strong&gt;Shared to other computers&lt;/strong&gt;.
+&lt;img src=&#34;http://files.mintco.de/site/images/sharednetwork_ubuntu.png&#34; alt=&#34;Ethernet Options Dialog&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Hit &lt;strong&gt;save&lt;/strong&gt; and you&amp;rsquo;re done!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The only problem with these methods are that the device requiring Internet won&amp;rsquo;t appear on the network which will make services such as file and printer sharing unavailable. I can&amp;rsquo;t imagine that this would be would be particularly good for your power bill either. Besides these minor drawbacks, this is an easy and quick way to share an Internet connection.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Windows Phone 8</title>
+      <link>http://mintco.de/journal/windows-phone-8/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/windows-phone-8/</guid>
+      <description>
+
+&lt;p&gt;I use a Mac, make apps for Linux and now have a Windows Phone. I&amp;rsquo;m not sure why I did it. I&amp;rsquo;ve invested hundreds of dollars in the iOS App Store but something prompted a change.&lt;/p&gt;
+
+&lt;p&gt;It all had to do with first impressions. I remember walking into a Vodafone store a couple of years ago and trying out the Nexus One after hearing Jono Bacon and Stuart Langridge &lt;a href=&#34;http://www.kryogenix.org/shotofjaq.html&#34;&gt;raving on about it&lt;/a&gt;. A phone that ran Linux sounded awesome and I hoped for the best. I hated it. The OS was laggy, ugly and slow - well, compared the iPhone anyway. Apple was still five years ahead of the competition.&lt;/p&gt;
+
+&lt;p&gt;A year later, I played with the Samsung Omnia 7, a device with &amp;ldquo;Windows Phone 7 Series&amp;rdquo;. I really liked it. In a time where there were no hamburger menus in any iOS Apps, Windows Phone felt really fast and efficient. I couldn&amp;rsquo;t buy one though. No one seemed to stock them.&lt;/p&gt;
+
+&lt;p&gt;Three years later, Android is the most popular mobile operating system, Apple is no longer five years ahead and the Samsung designers still haven&amp;rsquo;t been shot. I decided to revisit Windows Phone as the app selection had grown and I was blown away by my friends Nokia Lumia 920. I took the plunge and purchased a HTC Windows Phone 8S for $250 unlocked. It didn&amp;rsquo;t feel like a 250 dollar phone.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/htc8s.jpg&#34; alt=&#34;HTC Windows Phone 8S&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The 8S has to be one of the most beautiful phones ever made. It&amp;rsquo;s around the size of an iPhone and while thicker, it feels a lot nicer with its soft touch finish. It sadly doesn&amp;rsquo;t have a retina display, the camera isn&amp;rsquo;t great and it&amp;rsquo;s only got a measly 4GB of storage, but it&amp;rsquo;s only $250. When you compare the 8S to similar Android phones, it delivers so much more.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-good-bits:dbe8cf3ff2c47ae18581dc1fc41ea52e&#34;&gt;The good bits.&lt;/h2&gt;
+
+&lt;p&gt;Overall, I like Windows Phone 8. The whole &amp;ldquo;Metro&amp;rdquo; design metaphor works really well on a phone. Live Tiles are great and they&amp;rsquo;re a huge step up from the boring icons on iOS. The entire system is very animation heavy but never stops to lag, even without a octa-core CPU and 2GB of RAM. If you have all that power and scrolling still isn&amp;rsquo;t smooth, someone has done something really fucking wrong.&lt;/p&gt;
+
+&lt;p&gt;Messaging is really good on Windows Phone. There&amp;rsquo;s no chat heads but it integrates well with Facebook Chat and allows easy switching from Facebook Chat to SMS. Splitting up groups of contacts into &amp;ldquo;Rooms&amp;rdquo; is also useful.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s really just a lot of minor things that make Windows Phone excellent. Being able to have the current Bing Wallpaper on my lock screen is cool. Microsoft Office is handy. The SkyDrive integration is really good and isn&amp;rsquo;t half arsed like iCloud. And while it can be changed, the white on black color scheme makes it more enjoyable to use at night.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-not-so-good-bits:dbe8cf3ff2c47ae18581dc1fc41ea52e&#34;&gt;The not so good bits.&lt;/h2&gt;
+
+&lt;p&gt;There&amp;rsquo;s no notification center and it&amp;rsquo;s the largest omission from Windows Phone. Live Tiles don&amp;rsquo;t cut it and when I often miss notifications, I don&amp;rsquo;t know what the actual message was. This urgently needs to be fixed.&lt;/p&gt;
+
+&lt;p&gt;The behavior of the back button is consistent but is a problem at times. If I tap on a messaging notification, I&amp;rsquo;ll jump into the thread but tapping the back button will take me back to the previous app. If I wanted to go back to my messages list, I&amp;rsquo;ll have to tap the start button and then open the messaging app again. There&amp;rsquo;s no back button in the app interface.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/webfonts.png&#34; alt=&#34;Web fonts are bad.&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Internet Explorer isn&amp;rsquo;t great. Like Windows, web fonts are bad and in a world where WebKit is on 90% of mobile devices, a number of websites don&amp;rsquo;t recognize IE. The browser isn&amp;rsquo;t particularly smooth but hey, at least they did scrolling right.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s no global rotation lock which is slightly annoying but many apps have the functionality built in. I can&amp;rsquo;t install apps to an SD card and while most won&amp;rsquo;t run into the issue, Spotify doesn&amp;rsquo;t work very well with only 4GB of space. The Windows Phone Mac App doesn&amp;rsquo;t work at all. To be honest, I&amp;rsquo;m not surprised.&lt;/p&gt;
+
+&lt;h2 id=&#34;apps:dbe8cf3ff2c47ae18581dc1fc41ea52e&#34;&gt;Apps&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s a little unfair when people pass Windows Phone off with having &amp;ldquo;no apps&amp;rdquo;. The marketplace is significantly smaller and I can&amp;rsquo;t get things such as Snapchat or Instagram but I did order a sandwich today and I was surprised to find a Subway app in the store. The ecosystem isn&amp;rsquo;t that bad.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve found alternatives for most of my iOS Apps and sometimes they&amp;rsquo;re even better than the original.  I&amp;rsquo;m missing some apps such as Tweetbot, Day One, 1Password, Pocket and Google+ but it&amp;rsquo;s generally pretty good.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://files.mintco.de/site/images/homescreen.png&#34; alt=&#34;Home Screens&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Windows Phone isn&amp;rsquo;t perfect. But it&amp;rsquo;s pretty good. It&amp;rsquo;s beautiful, smooth and fast, even on lower end hardware. It&amp;rsquo;s also safer from carriers and the likes of TouchWiz and Sense. Windows Phone is also less likely to have the fragmentation issues of Android although Microsoft did deprecate Windows Phone 7.&lt;/p&gt;
+
+&lt;p&gt;I highly recommend everyone to have a play with Windows Phone and if possible, giving it a spin for a couple of days. It&amp;rsquo;s better than I expected and I predict that in the next 12 months, we&amp;rsquo;ll be seeing less cheap Androids and more Windows Phones. And I&amp;rsquo;m okay with that - the experience is still really great.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Logistics</title>
+      <link>http://mintco.de/journal/logistics/</link>
+      <pubDate>Thu, 31 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://mintco.de/journal/logistics/</guid>
+      <description>&lt;p&gt;I recently received a brand new Timbuk2 Swig backpack in the mail but as it was purchased from the United States, I had a look at the tracking. In the past I had received other items from the US but through FedEx rather than UPS. I&amp;rsquo;m no expert on logistics but what I found seemed somewhat counterproductive.&lt;/p&gt;
+
+&lt;p&gt;The UPS route was as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;San Francisco&lt;/li&gt;
+&lt;li&gt;Mather&lt;/li&gt;
+&lt;li&gt;Sacramento&lt;/li&gt;
+&lt;li&gt;Mather&lt;/li&gt;
+&lt;li&gt;Louisville&lt;/li&gt;
+&lt;li&gt;Hawaii&lt;/li&gt;
+&lt;li&gt;Sydney, Australia&lt;/li&gt;
+&lt;li&gt;Auckland, New Zealand&lt;/li&gt;
+&lt;li&gt;Rotorua, New Zealand&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;m very confused on how this all works. Why did it even go to Sacramento? Why did they fly it 7,000km to Louisville? Is there really no international mail center on the west coast? The total journey was around 21,000km but with a bit of planning, UPS could have saved 10,000km in travel.&lt;/p&gt;
+
+&lt;p&gt;For comparison, FedEx did it differently the last time I received something:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;San Francisco&lt;/li&gt;
+&lt;li&gt;Hawaii&lt;/li&gt;
+&lt;li&gt;Auckland, New Zealand&lt;/li&gt;
+&lt;li&gt;Rotorua, New Zealand&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script src=&#34;https://maps.googleapis.com/maps/api/js?key=AIzaSyDHQQL2H3ywWbyNk8NfehXQmL8FAOPDKtM&amp;sensor=true&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+function initialize() {
+    var myLatLng = new google.maps.LatLng(0, -180);
+    var mapOptions = {
+      zoom: 2,
+      center: myLatLng,
+      mapTypeId: google.maps.MapTypeId.TERRAIN
+    };
+
+    var map = new google.maps.Map(document.getElementById(&#34;map_canvas&#34;),
+        mapOptions);
+    var upsCoordinates = [
+      new google.maps.LatLng(37.77485, -122.41935),
+      new google.maps.LatLng(37.8820, -119.8547),
+      new google.maps.LatLng(38.5804, -121.530),
+      new google.maps.LatLng(37.8820, -119.8547),
+      new google.maps.LatLng(38.252, -85.758),
+      new google.maps.LatLng(19.89, -155.56),
+      new google.maps.LatLng(-33.9446, 151.1967),
+      new google.maps.LatLng(-36.850, 174.768),
+      new google.maps.LatLng(-38.137, 176.250)
+    ];
+    var fedexCoordinates = [
+      new google.maps.LatLng(37.77485, -122.41935),
+      new google.maps.LatLng(19.89, -155.56),
+      new google.maps.LatLng(-36.850, 174.768),
+      new google.maps.LatLng(-38.137, 176.250)
+    ];
+    var upsPath = new google.maps.Polyline({
+      path: upsCoordinates,
+      strokeColor: &#34;#FF0000&#34;,
+      strokeOpacity: 1.0,
+      strokeWeight: 3
+    });
+    var fedexPath = new google.maps.Polyline({
+      path: fedexCoordinates,
+      strokeColor: &#34;#0000FF&#34;,
+      strokeOpacity: 1.0,
+      strokeWeight: 3
+    });
+
+    upsPath.setMap(map);
+    fedexPath.setMap(map);
+}
+window.onload = initialize
+&lt;/script&gt;
+
+&lt;div id=&#34;map_canvas&#34; style=&#34;width:100%; height:350px; margin: 1.5em 0;&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;If UPS optimized their logistics they could save money, time and 10,000km. I&amp;rsquo;m not sure if there is a reason behind this but maybe because they want people to purchase their express shipping? It&amp;rsquo;s really baffling and if I have a choice in the future, I&amp;rsquo;ll use FedEx.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

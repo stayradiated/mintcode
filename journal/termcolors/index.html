@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  
+    <title>termcolors &middot; Mintcode</title>
+  
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/icons/light.css">
+  <script src="//use.typekit.net/cne2rvi.js"></script>
+  <script>Typekit.load();</script>
+</head>
+<body>
+  <header>
+    <div class="container">
+
+      <h1><a href="/">Mintcode</a></h1>
+
+      <nav>
+      <ul>
+        
+        
+        <li >
+          <a href="/">Projects</a>
+        </li>
+        
+        <li >
+          <a href="/about/">About</a>
+        </li>
+        
+        <li >
+          <a href="/journal/">Journal</a>
+        </li>
+        
+        <li >
+          <a href="mailto:george@czabania.com">Contact</a>
+        </li>
+        
+      </ul>
+      </nav>
+
+      <div class="cf"></div>
+
+      <p class="intro">Mintcode is a one-man design &amp; development
+      studio,<br>focused on crafting elegant web experiences.</p>
+
+      <a href="/about" class="button">Learn More</a>
+
+    </div>
+  </header>
+
+
+<main class='article-single container-thin'>
+
+  
+  <img class='main-img' src='/assets/termcolors/color-columns.jpg' alt='termcolors' />
+  
+
+  <h1 class='title'>termcolors</h1>
+
+  <p class='meta'>Posted on <time datetime=''>March 5, 2015</time>
+  by <span class='author'>George Czabania</span></p>
+
+  
+
+<p><a href="https://github.com/stayradiated/termcolors">Github</a></p>
+
+<p>There are lots of different terminal emulators avaiable, and each use their own
+custom config format.</p>
+
+<p>However, they all tend to used the same common format of 16 user defineable
+colours, as well as foreground and background.</p>
+
+<p>Many tools that work with terminal colours need to write their own
+importing/exporting code. This library aims to handle that for them.</p>
+
+<p>The termcolors library currently supports a wide range of terminals, and it&rsquo;s
+pretty easy to add more.</p>
+
+<p>It&rsquo;s a lot easier to write an exporting function compared to an importing one.
+Mainly because when parsing some input you have to handle a bunch of
+variations.</p>
+
+<p>The <code>Xresources</code> importer is pretty good, and has been throughouly tested with
+a wide range of inputs. It also handles C&rsquo;s <code>#define</code>.</p>
+
+<p>The library also comes with a simple command line executable: <code>termcolors</code>.</p>
+
+<p>You can install it with nodejs using <code>npm install -g termcolors</code>.</p>
+
+<p>Usage is quite straight forward, just set the input and output formats and pipe
+some data in to it.</p>
+
+<pre><code>$ cat ~/.Xresources | termcolors -i xresources -o iterm
+</code></pre>
+
+<p>You can also list all the avaiable formats:</p>
+
+<pre><code>$ termcolors -l
+chromeshell  [export]
+gnome        [export]
+guake        [export]
+iterm        [export] [import]
+json         [export] [import]
+konsole      [export]
+linux        [export]
+mintty       [export]
+putty        [export]
+st           [export]
+termite      [export] [import]
+terminator   [export]
+terminalapp  [export] [import]
+text         [export]
+textmate     [export]
+xfce         [export]
+xresources   [export] [import]
+</code></pre>
+
+<h2 id="behind-the-scenes:09a3af9030433c6c7c7e1ed48418d200">Behind the Scenes</h2>
+
+<p>TermColors is written using JavaScript.</p>
+
+<p>It can run in nodejs and the browser, which is very useful for web apps. I&rsquo;ve
+consisdered rewriting it in Go a couple times, but I think having it able to
+run in the browser is too useful to give up.</p>
+
+<p>It uses the <code>dot</code> templating library, which is quite quick and simple to use.</p>
+
+<p>Regular expressions are used to parse input when importing terminals.</p>
+
+</main>
+
+  <footer>
+
+    <div class="container">
+
+      <section>
+        <h4>From The Journal</h4>
+        <ul>
+          
+            <li>
+              <a href="http://mintco.de/journal/overnight-sensations-mtm/" title="Overnight Sensation MTM Speakers">Overnight Sensation MTM Speakers</a>
+            </li>
+          
+            <li>
+              <a href="http://mintco.de/journal/lm3886-stereo-amp/" title="LM3886 Chip Amplifier">LM3886 Chip Amplifier</a>
+            </li>
+          
+            <li>
+              <a href="http://mintco.de/journal/termcolors/" title="termcolors">termcolors</a>
+            </li>
+          
+        </ul>
+      </section>
+
+      <section>
+        <h4>Around The Web</h4>
+        <a href="http://twitter.com/stayradiated" class="csmb-flat csmb-round twitter"></a>
+        <a href="http://bitbucket.org/stayradiated" class="csmb-flat csmb-round bitbucket"></a>
+        <a href="http://github.com/stayradiated" class="csmb-flat csmb-round github"></a>
+      </section>
+
+      <section>
+        <h4>Rockin' Out To</h4>
+        <div class="lastfm-recent">
+          <strong class="track"></strong>
+          <em>by</em><strong class="artist"></strong>
+        </div>
+      </section>
+
+      <section>
+        <h4>Get In Touch</h4>
+        <a href="mailto:george@czabania.com">george@czabania.com</a>
+      </section>
+
+    </div>
+
+  </footer>
+
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="/js/lightbox.min.js"></script>
+<script src="/js/main.js"></script>
+
+</body>
+</html>
+

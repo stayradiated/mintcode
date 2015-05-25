@@ -4,7 +4,9 @@ weight = 4
 date = "2015-05-24T09:53:16+12:00"
 title = "Lightread"
 
-image = "/assets/home/lightread.jpg"
+images = [
+    "/assets/home/lightread.jpg",
+]
 
 sourcelink = "https://github.com/stayradiated/lightread"
 

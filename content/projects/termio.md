@@ -6,7 +6,9 @@ title = "Termio"
 
 sourcelink = "https://github.com/stayradiated/termio"
 
-image = "/assets/home/termio.png"
+images = [
+    "/assets/home/termio.png",
+]
 
 description = "Perfectly convert ANSI escape codes into HTML."
 +++

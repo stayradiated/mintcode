@@ -4,7 +4,9 @@ weight = 3
 date = "2015-05-24T09:53:27+12:00"
 title = "Nitro Tasks"
 
-image = "/assets/home/nitro.jpg"
+images = [
+    "/assets/home/nitro.jpg",
+]
 
 sourcelink = "https://github.com/caffeinatedcode/nitro"
 

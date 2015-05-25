@@ -4,7 +4,9 @@ weight = 12
 date = "2015-05-24T01:51:22+12:00"
 title = "Khaki"
 
-image = "/assets/home/khaki.jpg"
+images = [
+    "/assets/home/khaki.jpg",
+]
 
 sourcelink = "https://github.com/stayradiated/khaki"
 

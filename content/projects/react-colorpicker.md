@@ -4,7 +4,10 @@ weight = 9
 date = "2015-05-24T01:51:14+12:00"
 title = "React ColorPicker"
 
-image = "/assets/home/react-colorpicker.png"
+images = [
+    "/assets/home/react-colorpicker.png",
+    "/assets/react-colorpicker/screenshot.jpg",
+]
 
 productlink = "https://npmjs.org/package/react-colorpicker"
 

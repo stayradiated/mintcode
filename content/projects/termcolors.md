@@ -4,7 +4,10 @@ weight = 11
 date = "2015-05-24T01:51:19+12:00"
 title = "termcolors"
 
-image = "/assets/home/termcolors.png"
+images = [
+    "/assets/home/termcolors.png",
+    "/assets/termcolors/color-columns.jpg",
+]
 
 productlink = "https://npmjs.org/package/termcolors"
 

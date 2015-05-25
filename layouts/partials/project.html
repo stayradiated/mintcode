@@ -1,8 +1,16 @@
 <article>
-  {{ if .Params.image }}
-  <a class="image" href="{{ .Permalink }}">
-    <img src="{{ .Params.image }}" alt="" />
+  {{ $currentNode := . }}
+
+  {{ if isset .Params.images 0 }}
+  {{ range $i, $img := .Params.images }}
+  {{ if eq $i 0 }}
+  <a class="image" data-lightbox="{{ $currentNode.Title }}" href="{{ $img }}">
+    <img src="{{ $img }}" alt="" />
   </a>
+  {{ else }}
+  <a href="{{ $img }}" data-lightbox="{{ $currentNode.Title }}"></a>
+  {{ end }}
+  {{ end }}
   {{ end }}
 
   <h3>{{ .Title }}</h3>

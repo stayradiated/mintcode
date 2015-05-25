@@ -4,7 +4,10 @@ weight = 1
 date = "2015-05-24T09:53:08+12:00"
 title = "John Paul College Website"
 
-image = "/assets/home/jpc.jpg"
+images = [
+    "/assets/home/jpc.jpg",
+    "/assets/jpc/screenshot.jpg",
+]
 
 productlink = "http://jpc.co.nz"
 description = "Developing the John Paul College website"

@@ -4,7 +4,11 @@ weight = 5
 date = "2015-05-24T09:53:34+12:00"
 title = "Jill Fleming Website"
 
-image = "/assets/home/jill.jpg"
+images = [
+    "/assets/home/jill.jpg",
+]
+
+productlink = "http://jillfleming.co.nz"
 
 description = "A miminal portfolio website"
 +++

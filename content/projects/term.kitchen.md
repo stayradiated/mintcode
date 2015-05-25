@@ -4,7 +4,16 @@ weight = 2
 date = "2015-05-24T09:52:26+12:00"
 title = "Term Kitchen"
 
-image = "/assets/home/terminal.sexy.jpg"
+images = [
+    "/assets/home/terminal.sexy.jpg",
+    "/assets/terminal.sexy/changing-colors.gif",
+    "/assets/terminal.sexy/different-templates.gif",
+    "/assets/terminal.sexy/hover-id.gif",
+    "/assets/terminal.sexy/importing.gif",
+    "/assets/terminal.sexy/scheme-browser.gif",
+    "/assets/terminal.sexy/setting-font.gif",
+    "/assets/terminal.sexy/window-manager.gif",
+]
 
 productlink = "http://term.kitchen"
 sourcelink = "http://github.com/stayradiated/term.kitchen"

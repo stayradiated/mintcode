@@ -1,5 +1,5 @@
 +++
-weight = 4
+weight = 2
 
 date = "2015-05-24T09:53:16+12:00"
 title = "Lightread"

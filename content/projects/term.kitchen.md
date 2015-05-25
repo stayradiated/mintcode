@@ -1,5 +1,5 @@
 +++
-weight = 2
+weight = 4
 
 date = "2015-05-24T09:52:26+12:00"
 title = "Term Kitchen"

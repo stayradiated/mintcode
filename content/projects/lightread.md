@@ -1,15 +1,17 @@
 +++
+weight = 4
+
 date = "2015-05-24T09:53:16+12:00"
 title = "Lightread"
-type = "project"
 
 image = "/assets/home/lightread.jpg"
 
-weight = 4
+sourcelink = "https://github.com/stayradiated/lightread"
+
+description = "An award-winning RSS reader for Ubuntu."
 +++
 
-## Lightread RSS Reader
-
-- Client: Ubuntu App Showdown
-- Date: June 2012
-- Language: JavaScript, Python
+- **Client:** Ubuntu App Showdown
+- **Date:** June 2012
+- **Languages:** JavaScript, CSS, HTML, Python
+- **Libraries:** Google Reader API

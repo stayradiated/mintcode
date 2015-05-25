@@ -1,0 +1,25 @@
+<article>
+  {{ if .Params.image }}
+  <a class="image" href="{{ .Permalink }}">
+    <img src="{{ .Params.image }}" alt="" />
+  </a>
+  {{ end }}
+
+  <h3>{{ .Title }}</h3>
+
+  <p><em>{{ .Description }}</em></p>
+
+  <div class='info'>
+    {{ .Content }}
+
+    <div class='links'>
+      {{ if .Params.productlink }}
+      <a class='button' href="{{ .Params.productlink }}" target="_blank">View Product</a>
+      {{ end }}
+
+      {{ if .Params.sourcelink }}
+      <a class='button' href="{{ .Params.sourcelink }}" target="_blank">View Source</a>
+      {{ end }}
+    </div>
+  </div>
+</article>

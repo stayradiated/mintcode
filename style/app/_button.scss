@@ -20,12 +20,11 @@
 }
 
 @mixin mediumButton($fg, $bg, $fg_hover, $bg_hover) {
-    padding: 1rem 1.5rem;
-    border-radius: 10rem;
+    padding: 0.5rem 1.5rem;
+    border-radius: 0.2rem;
 
     color: $fg;
     background: $bg;
-    border: 2px solid $bg;
 
     font-size: 1.1rem;
     letter-spacing: 0.1em;

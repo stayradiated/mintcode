@@ -16,16 +16,14 @@
   <header>
     <div class="container">
 
-      <h1><a href="/">MintCode</a></h1>
+      <h1><a href="/">Mintcode</a></h1>
 
       <nav>
       <ul>
         {{ $currentNode := . }}
         {{ range .Site.Menus.main }}
         <li {{ if $currentNode.IsMenuCurrent "main" . }} class="active"{{ end }}>
-          <a href="{{ .URL }}">
-            {{ .Pre }}<span>{{ .Name }}</span>{{ .Post }}
-          </a>
+          <a href="{{ .URL }}">{{ .Name }}</a>
         </li>
         {{ end }}
       </ul>

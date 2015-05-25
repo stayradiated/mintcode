@@ -9,7 +9,7 @@ nav a {
 h2 {
   font-size: 2.4rem;
   padding-bottom: 1rem;
-  border-bottom: 0.5rem solid $s_bg;
+  border-bottom: 1px solid $s_bg;
 }
 
 h3 {
@@ -31,7 +31,6 @@ h6 {
 }
 
 ul {
-  list-style-type: circle;
 }
 
 ul, ol {
@@ -40,8 +39,8 @@ ul, ol {
 }
 
 p, li, blockquote {
-  font-size: 1.8rem;
-  line-height: 1.7em;
+  font-size: 1.5rem;
+  line-height: 1.5em;
 }
 
 pre, code {
